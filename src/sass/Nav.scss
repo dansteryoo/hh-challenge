@@ -1,0 +1,124 @@
+
+.topNav {
+    &__background {
+        background-color: black;
+        display: inline-flex;
+        min-width: 400px;
+        width: 100%;
+    }
+    &__left {
+        img {
+            min-width: 50%;
+            padding: 20px;
+        }
+    }
+    &__right {
+        display: inline-flex;
+        justify-content: flex-end;
+        align-items: center;
+        width: 100%;
+
+        input {
+            width: 200px;
+            height: 20px;
+            padding: 10px;
+            border-radius: 5px;
+            outline: none;
+            margin: 20px;
+            border: none;
+        }
+    }
+}
+
+.sideNav {
+    &__background {
+        background-color: #fbf9e6;
+        min-width: 220px;
+        min-height: 90vh;
+        display: flex;
+        position: relative;
+        flex-direction: column;
+        font-size: 14px;
+        font-weight: 400;
+
+        @media only screen and (max-width: 600px) {
+            min-width: 120px;
+        }
+    }
+
+    &__button {
+        border: black 1px solid;
+        border-radius: 5px;
+        padding: 10px;
+        margin: 20px;
+        font-weight: bold;
+        outline: none;
+        background: linear-gradient(to right, red, orange , yellow, green, blue, violet);
+        
+        span {
+            background: linear-gradient(to right, black, lightgray);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        &:active, 
+        &:hover {
+            box-shadow: 0 2px 7px 2px lightgray; 
+            cursor: pointer;
+        }
+        &:active {
+            opacity: 60%;
+        }
+    }
+
+    &__links {
+        ul {
+            padding: 0 15px;
+        }
+        &--color {
+            display: flex;
+            text-align: left;
+            padding: 10px;
+            font-size: 16px;
+            font-weight: 600;
+
+            span:hover {
+                cursor: pointer;
+            }
+            span:active {
+                opacity: 60%;
+            }
+        }
+    }
+}
+
+.Red:hover {
+    color: red;
+}
+
+.Orange:hover {
+    color: orange;
+}
+
+.Yellow:hover {
+    color: #ffef00;
+}
+
+.Green:hover {
+    color: green;
+}
+
+.Blue:hover {
+    color: blue;
+}
+
+.Purple:hover {
+    color: purple;
+}
+
+.Brown:hover {
+    color: brown;
+}
+
+.Gray:hover {
+    color: gray;
+}

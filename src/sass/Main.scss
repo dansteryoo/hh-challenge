@@ -1,0 +1,51 @@
+.main {
+    &__middle {
+        display: inline-flex;
+        width: 100%;
+    }
+    &__colors {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.card {
+    &__ul {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 15px;
+        justify-content: center;
+    }
+    &__li {
+        border: lightgray 1px solid;
+        width: 200px;
+        height: 200px;
+        margin: 10px;
+        border-radius: 12px;
+        box-shadow: 0 2px 7px 2px lightgray; 
+        &:active, 
+        &:hover {
+            cursor: pointer;
+            opacity: 85%;
+        }
+        &:active {
+            opacity: 60%;
+        }
+    }
+    &__label {
+        border-radius: 0 0 8px 8px;
+        margin-top: 150px;
+        height: 50px;
+        background-color: white;
+
+        h4 {
+            padding-top: 8px;
+            margin: 0;
+            font-size: 14px;
+        }
+        p {
+            font-size: 14px;
+            margin: 0;
+        }
+    }
+}

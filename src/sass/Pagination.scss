@@ -1,0 +1,39 @@
+.pagination-nav {
+    background-color: white;
+    margin: 10px 0 50px 0;
+    padding: 0;
+    font-size: 12px;
+}
+
+.pagination {
+    display: inline-flex;
+    margin: 10px 0 0 10px;
+    padding: 0;
+}
+
+.pagination div {
+  color: #767676;
+  background-color: white;
+  float: left;
+  padding: 6px 8px;
+  text-decoration: none;
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  width: 10px;
+}
+
+.pagination div.active-link {
+  color: white;
+  background-color: black;
+  float: left;
+  padding: 6px 8px;
+  text-decoration: none;
+  border: 1px solid #d3d3d3;
+}
+
+.pagination div:hover:not(.active-link) {
+    background-color: black;
+    opacity: 40%;
+    color: white;
+    cursor: pointer;
+}

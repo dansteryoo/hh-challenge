@@ -1,0 +1,7650 @@
+[
+  {
+    "hexCode": "#000000",
+    "id": "AC3J7KlFWk",
+    "name": "Black",
+    "redDecimal": 0,
+    "greenDecimal": 0,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#000080",
+    "id": "INCJ5ZOyND",
+    "name": "Navy blue",
+    "redDecimal": 0,
+    "greenDecimal": 0,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#00009C",
+    "id": "WbJpLwvlDl",
+    "name": "Duke blue",
+    "redDecimal": 0,
+    "greenDecimal": 0,
+    "blueDecimal": 156
+  },
+  {
+    "hexCode": "#0000CD",
+    "id": "YDivlgwf3s",
+    "name": "Medium blue",
+    "redDecimal": 0,
+    "greenDecimal": 0,
+    "blueDecimal": 205
+  },
+  {
+    "hexCode": "#0000FF",
+    "id": "J9YsN6Ovhu",
+    "name": "Blue",
+    "redDecimal": 0,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#000F89",
+    "id": "n4g73CFoJf",
+    "name": "Phthalo blue",
+    "redDecimal": 0,
+    "greenDecimal": 15,
+    "blueDecimal": 137
+  },
+  {
+    "hexCode": "#0014A8",
+    "id": "MbFTfElPUs",
+    "name": "Zaffre",
+    "redDecimal": 0,
+    "greenDecimal": 20,
+    "blueDecimal": 168
+  },
+  {
+    "hexCode": "#0018A8",
+    "id": "i8Lq4kVQ0B",
+    "name": "Blue (Pantone)",
+    "redDecimal": 0,
+    "greenDecimal": 24,
+    "blueDecimal": 168
+  },
+  {
+    "hexCode": "#002147",
+    "id": "mpjjE9F9Pj",
+    "name": "Oxford blue",
+    "redDecimal": 0,
+    "greenDecimal": 33,
+    "blueDecimal": 71
+  },
+  {
+    "hexCode": "#002366",
+    "id": "3bJ0f0Fhuk",
+    "name": "Royal blue (dark)",
+    "redDecimal": 0,
+    "greenDecimal": 35,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#002387",
+    "id": "LgdFwgDMYL",
+    "name": "Resolution blue",
+    "redDecimal": 0,
+    "greenDecimal": 35,
+    "blueDecimal": 135
+  },
+  {
+    "hexCode": "#002FA7",
+    "id": "EcciQu1mU9",
+    "name": "International Klein Blue",
+    "redDecimal": 0,
+    "greenDecimal": 47,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#003153",
+    "id": "cFHKFBLBOJ",
+    "name": "Prussian blue",
+    "redDecimal": 0,
+    "greenDecimal": 49,
+    "blueDecimal": 83
+  },
+  {
+    "hexCode": "#0033AA",
+    "id": "MGc1IbBAmG",
+    "name": "UA blue",
+    "redDecimal": 0,
+    "greenDecimal": 51,
+    "blueDecimal": 170
+  },
+  {
+    "hexCode": "#004040",
+    "id": "qdakg8c1g7",
+    "name": "Rich black",
+    "redDecimal": 0,
+    "greenDecimal": 64,
+    "blueDecimal": 64
+  },
+  {
+    "hexCode": "#00416A",
+    "id": "ufSUOe82Di",
+    "name": "Indigo dye",
+    "redDecimal": 0,
+    "greenDecimal": 65,
+    "blueDecimal": 106
+  },
+  {
+    "hexCode": "#004225",
+    "id": "3aIJo06XbH",
+    "name": "British racing green",
+    "redDecimal": 0,
+    "greenDecimal": 66,
+    "blueDecimal": 37
+  },
+  {
+    "hexCode": "#004242",
+    "id": "dwEDCCax40",
+    "name": "Warm black",
+    "redDecimal": 0,
+    "greenDecimal": 66,
+    "blueDecimal": 66
+  },
+  {
+    "hexCode": "#0047AB",
+    "id": "MnQQGEdsIN",
+    "name": "Cobalt blue",
+    "redDecimal": 0,
+    "greenDecimal": 71,
+    "blueDecimal": 171
+  },
+  {
+    "hexCode": "#0048BA",
+    "id": "RJXYhNDZqI",
+    "name": "Absolute Zero",
+    "redDecimal": 0,
+    "greenDecimal": 72,
+    "blueDecimal": 186
+  },
+  {
+    "hexCode": "#004B49",
+    "id": "DRREUozd4m",
+    "name": "Deep jungle green",
+    "redDecimal": 0,
+    "greenDecimal": 75,
+    "blueDecimal": 73
+  },
+  {
+    "hexCode": "#004F98",
+    "id": "CmtMdgC49k",
+    "name": "USAFA blue",
+    "redDecimal": 0,
+    "greenDecimal": 79,
+    "blueDecimal": 152
+  },
+  {
+    "hexCode": "#00563F",
+    "id": "SeJV16y7TN",
+    "name": "Castleton green",
+    "redDecimal": 0,
+    "greenDecimal": 86,
+    "blueDecimal": 63
+  },
+  {
+    "hexCode": "#0063dc",
+    "id": "IVr3701U52",
+    "name": "Flickr Blue",
+    "redDecimal": 0,
+    "greenDecimal": 99,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#006400",
+    "id": "xcqboHVngH",
+    "name": "Dark green (X11)",
+    "redDecimal": 0,
+    "greenDecimal": 100,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#006600",
+    "id": "8uBSdaUwuZ",
+    "name": "Pakistan green",
+    "redDecimal": 0,
+    "greenDecimal": 102,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#0067A5",
+    "id": "20DUz29vGb",
+    "name": "Sapphire (Crayola)",
+    "redDecimal": 0,
+    "greenDecimal": 103,
+    "blueDecimal": 165
+  },
+  {
+    "hexCode": "#0067A5",
+    "id": "PF1rBE1HWj",
+    "name": "Sapphire blue",
+    "redDecimal": 0,
+    "greenDecimal": 103,
+    "blueDecimal": 165
+  },
+  {
+    "hexCode": "#006A4E",
+    "id": "TVTMo8Ij0F",
+    "name": "Bottle green",
+    "redDecimal": 0,
+    "greenDecimal": 106,
+    "blueDecimal": 78
+  },
+  {
+    "hexCode": "#006B3C",
+    "id": "CgVcxiIzNX",
+    "name": "Cadmium green",
+    "redDecimal": 0,
+    "greenDecimal": 107,
+    "blueDecimal": 60
+  },
+  {
+    "hexCode": "#006DB0",
+    "id": "viFx57GZH2",
+    "name": "Honolulu blue",
+    "redDecimal": 0,
+    "greenDecimal": 109,
+    "blueDecimal": 176
+  },
+  {
+    "hexCode": "#00703C",
+    "id": "Hblxk0p6nB",
+    "name": "Dartmouth green",
+    "redDecimal": 0,
+    "greenDecimal": 112,
+    "blueDecimal": 60
+  },
+  {
+    "hexCode": "#0070B8",
+    "id": "guTvliPcvR",
+    "name": "Spanish blue",
+    "redDecimal": 0,
+    "greenDecimal": 112,
+    "blueDecimal": 184
+  },
+  {
+    "hexCode": "#0072BB",
+    "id": "MK5rtGSDmu",
+    "name": "French blue",
+    "redDecimal": 0,
+    "greenDecimal": 114,
+    "blueDecimal": 187
+  },
+  {
+    "hexCode": "#007474",
+    "id": "NNjCK2ENmn",
+    "name": "Skobeloff",
+    "redDecimal": 0,
+    "greenDecimal": 116,
+    "blueDecimal": 116
+  },
+  {
+    "hexCode": "#00755E",
+    "id": "9gDwnugYTI",
+    "name": "Tropical rain forest",
+    "redDecimal": 0,
+    "greenDecimal": 117,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#007AA5",
+    "id": "uANbTeGlf4",
+    "name": "CG blue",
+    "redDecimal": 0,
+    "greenDecimal": 122,
+    "blueDecimal": 165
+  },
+  {
+    "hexCode": "#007BA7",
+    "id": "ekMswPCP4Z",
+    "name": "Cerulean",
+    "redDecimal": 0,
+    "greenDecimal": 123,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#007BA7",
+    "id": "3M4J9zLBA5",
+    "name": "Celadon blue",
+    "redDecimal": 0,
+    "greenDecimal": 123,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#007BB8",
+    "id": "utIXsAtIQ4",
+    "name": "Star command blue",
+    "redDecimal": 0,
+    "greenDecimal": 123,
+    "blueDecimal": 184
+  },
+  {
+    "hexCode": "#007F5C",
+    "id": "mMkA3bBIHA",
+    "name": "Spanish viridian",
+    "redDecimal": 0,
+    "greenDecimal": 127,
+    "blueDecimal": 92
+  },
+  {
+    "hexCode": "#007F66",
+    "id": "OC7eMJ8Ch7",
+    "name": "Generic viridian",
+    "redDecimal": 0,
+    "greenDecimal": 127,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#007FFF",
+    "id": "TRmelBDd2G",
+    "name": "Azure",
+    "redDecimal": 0,
+    "greenDecimal": 127,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#008000",
+    "id": "Si2Vt1u0Sn",
+    "name": "Ao (English)",
+    "redDecimal": 0,
+    "greenDecimal": 128,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#008000",
+    "id": "GgsOb3N75z",
+    "name": "Green (web)",
+    "redDecimal": 0,
+    "greenDecimal": 128,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#008080",
+    "id": "EA6BrAtAyc",
+    "name": "Teal",
+    "redDecimal": 0,
+    "greenDecimal": 128,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#0087BD",
+    "id": "6spgMdZSQ2",
+    "name": "Blue (NCS)",
+    "redDecimal": 0,
+    "greenDecimal": 135,
+    "blueDecimal": 189
+  },
+  {
+    "hexCode": "#008B8B",
+    "id": "QEuuwrNx8M",
+    "name": "Dark cyan",
+    "redDecimal": 0,
+    "greenDecimal": 139,
+    "blueDecimal": 139
+  },
+  {
+    "hexCode": "#009150",
+    "id": "ADHf8VozEg",
+    "name": "Spanish green",
+    "redDecimal": 0,
+    "greenDecimal": 145,
+    "blueDecimal": 80
+  },
+  {
+    "hexCode": "#0093AF",
+    "id": "DuCUWWKwRN",
+    "name": "Blue (Munsell)",
+    "redDecimal": 0,
+    "greenDecimal": 147,
+    "blueDecimal": 175
+  },
+  {
+    "hexCode": "#009698",
+    "id": "2yvCxqTB8D",
+    "name": "Viridian green",
+    "redDecimal": 0,
+    "greenDecimal": 150,
+    "blueDecimal": 152
+  },
+  {
+    "hexCode": "#009966",
+    "id": "QhTcAbET7M",
+    "name": "Green-cyan",
+    "redDecimal": 0,
+    "greenDecimal": 153,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#009B7D",
+    "id": "njQMXspe6W",
+    "name": "Paolo Veronese green",
+    "redDecimal": 0,
+    "greenDecimal": 155,
+    "blueDecimal": 125
+  },
+  {
+    "hexCode": "#009E60",
+    "id": "CkyZD3VHuZ",
+    "name": "Shamrock green",
+    "redDecimal": 0,
+    "greenDecimal": 158,
+    "blueDecimal": 96
+  },
+  {
+    "hexCode": "#009F6B",
+    "id": "xbfeVtgFf6",
+    "name": "Green (NCS)",
+    "redDecimal": 0,
+    "greenDecimal": 159,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#00A550",
+    "id": "jykYF6quMk",
+    "name": "Green (pigment)",
+    "redDecimal": 0,
+    "greenDecimal": 165,
+    "blueDecimal": 80
+  },
+  {
+    "hexCode": "#00A693",
+    "id": "FYJWeg2CIb",
+    "name": "Persian green",
+    "redDecimal": 0,
+    "greenDecimal": 166,
+    "blueDecimal": 147
+  },
+  {
+    "hexCode": "#00A86B",
+    "id": "sd49X1NDug",
+    "name": "Jade",
+    "redDecimal": 0,
+    "greenDecimal": 168,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#00A877",
+    "id": "UTIHmiIkzi",
+    "name": "Green (Munsell)",
+    "redDecimal": 0,
+    "greenDecimal": 168,
+    "blueDecimal": 119
+  },
+  {
+    "hexCode": "#00AB66",
+    "id": "qakxwFpsqC",
+    "name": "GO green",
+    "redDecimal": 0,
+    "greenDecimal": 171,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#00AD43",
+    "id": "GTlSrRDYUk",
+    "name": "Green (Pantone)",
+    "redDecimal": 0,
+    "greenDecimal": 173,
+    "blueDecimal": 67
+  },
+  {
+    "hexCode": "#00B7EB",
+    "id": "T5FsEJCSFo",
+    "name": "Cyan (process)",
+    "redDecimal": 0,
+    "greenDecimal": 183,
+    "blueDecimal": 235
+  },
+  {
+    "hexCode": "#00BFFF",
+    "id": "TxnYcmKT8Q",
+    "name": "Capri",
+    "redDecimal": 0,
+    "greenDecimal": 191,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#00BFFF",
+    "id": "stvDOqEuI8",
+    "name": "Deep sky blue",
+    "redDecimal": 0,
+    "greenDecimal": 191,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#00CC99",
+    "id": "6s8Fb8sIna",
+    "name": "Caribbean green",
+    "redDecimal": 0,
+    "greenDecimal": 204,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#00CCCC",
+    "id": "KRU566zUIX",
+    "name": "Robin egg blue",
+    "redDecimal": 0,
+    "greenDecimal": 204,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#00CCFF",
+    "id": "dRb5p1Q1h5",
+    "name": "Vivid sky blue",
+    "redDecimal": 0,
+    "greenDecimal": 204,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#00CED1",
+    "id": "39Ugq8IJ5R",
+    "name": "Dark turquoise",
+    "redDecimal": 0,
+    "greenDecimal": 206,
+    "blueDecimal": 209
+  },
+  {
+    "hexCode": "#00FA9A",
+    "id": "Nlk3CDylzI",
+    "name": "Medium spring green",
+    "redDecimal": 0,
+    "greenDecimal": 250,
+    "blueDecimal": 154
+  },
+  {
+    "hexCode": "#00FF00",
+    "id": "ItF263lQI3",
+    "name": "Electric green",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#00FF00",
+    "id": "r3MirN5Ylc",
+    "name": "Green",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#00FF00",
+    "id": "kcPvz6VZBj",
+    "name": "Lime (web) (X11 green)",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#00FF40",
+    "id": "DMVmDLFZCe",
+    "name": "Erin",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 64
+  },
+  {
+    "hexCode": "#00FF7F",
+    "id": "izOne9rDWB",
+    "name": "Spring green",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 127
+  },
+  {
+    "hexCode": "#00FFCD",
+    "id": "6ZXpP9FmmA",
+    "name": "Sea green (Crayola)",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 205
+  },
+  {
+    "hexCode": "#00FFEF",
+    "id": "TXfIqTTbYp",
+    "name": "Turquoise blue",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 239
+  },
+  {
+    "hexCode": "#00FFFF",
+    "id": "C9DjAZ6dwP",
+    "name": "Aqua",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#00FFFF",
+    "id": "pVb1RPDoH5",
+    "name": "Cyan",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#00FFFF",
+    "id": "hdFoWfTyxY",
+    "name": "Spanish sky blue",
+    "redDecimal": 0,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#010203",
+    "id": "YD0LRazyxj",
+    "name": "Rich black (FOGRA39)",
+    "redDecimal": 1,
+    "greenDecimal": 2,
+    "blueDecimal": 3
+  },
+  {
+    "hexCode": "#010B13",
+    "id": "RY3cYB3kSj",
+    "name": "Rich black (FOGRA29)",
+    "redDecimal": 1,
+    "greenDecimal": 11,
+    "blueDecimal": 19
+  },
+  {
+    "hexCode": "#013220",
+    "id": "t0XS5hgEJZ",
+    "name": "Dark green",
+    "redDecimal": 1,
+    "greenDecimal": 50,
+    "blueDecimal": 32
+  },
+  {
+    "hexCode": "#014421",
+    "id": "o1ZUhGoK24",
+    "name": "Forest green (traditional)",
+    "redDecimal": 1,
+    "greenDecimal": 68,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#014421",
+    "id": "puVlnArw6j",
+    "name": "UP Forest green",
+    "redDecimal": 1,
+    "greenDecimal": 68,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#01796F",
+    "id": "AsKkFSEI5s",
+    "name": "Pine green",
+    "redDecimal": 1,
+    "greenDecimal": 121,
+    "blueDecimal": 111
+  },
+  {
+    "hexCode": "#0247FE",
+    "id": "xfUfmojU3a",
+    "name": "Blue (RYB)",
+    "redDecimal": 2,
+    "greenDecimal": 71,
+    "blueDecimal": 254
+  },
+  {
+    "hexCode": "#03C03C",
+    "id": "07TbWsxqIU",
+    "name": "Dark pastel green",
+    "redDecimal": 3,
+    "greenDecimal": 192,
+    "blueDecimal": 60
+  },
+  {
+    "hexCode": "#043927",
+    "id": "k1Deuie657",
+    "name": "Sacramento State green",
+    "redDecimal": 4,
+    "greenDecimal": 57,
+    "blueDecimal": 39
+  },
+  {
+    "hexCode": "#064E40",
+    "id": "FZc8wWeed4",
+    "name": "Blue-green (color wheel)",
+    "redDecimal": 6,
+    "greenDecimal": 78,
+    "blueDecimal": 64
+  },
+  {
+    "hexCode": "#0A7E8C",
+    "id": "tr55KfG5Hy",
+    "name": "Metallic Seaweed",
+    "redDecimal": 10,
+    "greenDecimal": 126,
+    "blueDecimal": 140
+  },
+  {
+    "hexCode": "#0ABAB5",
+    "id": "kG8s52kbiG",
+    "name": "Tiffany Blue",
+    "redDecimal": 10,
+    "greenDecimal": 186,
+    "blueDecimal": 181
+  },
+  {
+    "hexCode": "#0BDA51",
+    "id": "zw6wN35I3c",
+    "name": "Malachite",
+    "redDecimal": 11,
+    "greenDecimal": 218,
+    "blueDecimal": 81
+  },
+  {
+    "hexCode": "#0C020F",
+    "id": "rIxOBb7Weq",
+    "name": "Xiketic",
+    "redDecimal": 12,
+    "greenDecimal": 2,
+    "blueDecimal": 15
+  },
+  {
+    "hexCode": "#0D98BA",
+    "id": "ZHgEl1IVJ7",
+    "name": "Blue-green",
+    "redDecimal": 13,
+    "greenDecimal": 152,
+    "blueDecimal": 186
+  },
+  {
+    "hexCode": "#0F4D92",
+    "id": "eQZP58dQtH",
+    "name": "Yale Blue",
+    "redDecimal": 15,
+    "greenDecimal": 77,
+    "blueDecimal": 146
+  },
+  {
+    "hexCode": "#0F52BA",
+    "id": "Hj8zKrH546",
+    "name": "Sapphire",
+    "redDecimal": 15,
+    "greenDecimal": 82,
+    "blueDecimal": 186
+  },
+  {
+    "hexCode": "#100C08",
+    "id": "gu8R0O78rO",
+    "name": "Smoky black",
+    "redDecimal": 16,
+    "greenDecimal": 12,
+    "blueDecimal": 8
+  },
+  {
+    "hexCode": "#1034A6",
+    "id": "YcI9WTPE61",
+    "name": "Egyptian blue",
+    "redDecimal": 16,
+    "greenDecimal": 52,
+    "blueDecimal": 166
+  },
+  {
+    "hexCode": "#1164B4",
+    "id": "1xigZGuwNb",
+    "name": "Green-blue",
+    "redDecimal": 17,
+    "greenDecimal": 100,
+    "blueDecimal": 180
+  },
+  {
+    "hexCode": "#123524",
+    "id": "lcmTMDWF3J",
+    "name": "Phthalo green",
+    "redDecimal": 18,
+    "greenDecimal": 53,
+    "blueDecimal": 36
+  },
+  {
+    "hexCode": "#126180",
+    "id": "OLajs7EeLl",
+    "name": "Blue sapphire",
+    "redDecimal": 18,
+    "greenDecimal": 97,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#138808",
+    "id": "VInmMEECNl",
+    "name": "India green",
+    "redDecimal": 19,
+    "greenDecimal": 136,
+    "blueDecimal": 8
+  },
+  {
+    "hexCode": "#1560BD",
+    "id": "FJmNp5olCK",
+    "name": "Denim",
+    "redDecimal": 21,
+    "greenDecimal": 96,
+    "blueDecimal": 189
+  },
+  {
+    "hexCode": "#15F4EE",
+    "id": "edHePM5vQH",
+    "name": "Fluorescent blue",
+    "redDecimal": 21,
+    "greenDecimal": 244,
+    "blueDecimal": 238
+  },
+  {
+    "hexCode": "#177245",
+    "id": "m8VsVC70Gz",
+    "name": "Dark spring green",
+    "redDecimal": 23,
+    "greenDecimal": 114,
+    "blueDecimal": 69
+  },
+  {
+    "hexCode": "#18453B",
+    "id": "9aCovKgtnE",
+    "name": "MSU green",
+    "redDecimal": 24,
+    "greenDecimal": 69,
+    "blueDecimal": 59
+  },
+  {
+    "hexCode": "#191970",
+    "id": "5vI1ffw8kH",
+    "name": "Midnight blue",
+    "redDecimal": 25,
+    "greenDecimal": 25,
+    "blueDecimal": 112
+  },
+  {
+    "hexCode": "#195905",
+    "id": "IP4ZCXPaUh",
+    "name": "Lincoln green",
+    "redDecimal": 25,
+    "greenDecimal": 89,
+    "blueDecimal": 5
+  },
+  {
+    "hexCode": "#1974D2",
+    "id": "5QU4JrsXh7",
+    "name": "Bright navy blue",
+    "redDecimal": 25,
+    "greenDecimal": 116,
+    "blueDecimal": 210
+  },
+  {
+    "hexCode": "#1974D2",
+    "id": "gpb5J7nWrB",
+    "name": "Navy blue (Crayola)",
+    "redDecimal": 25,
+    "greenDecimal": 116,
+    "blueDecimal": 210
+  },
+  {
+    "hexCode": "#1A2421",
+    "id": "GhWoahK7Hm",
+    "name": "Dark jungle green",
+    "redDecimal": 26,
+    "greenDecimal": 36,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#1B1811",
+    "id": "q5eWnGsayt",
+    "name": "Black chocolate",
+    "redDecimal": 27,
+    "greenDecimal": 24,
+    "blueDecimal": 17
+  },
+  {
+    "hexCode": "#1B1B1B",
+    "id": "r12Tj5SLbc",
+    "name": "Eerie black",
+    "redDecimal": 27,
+    "greenDecimal": 27,
+    "blueDecimal": 27
+  },
+  {
+    "hexCode": "#1B4D3E",
+    "id": "9I7zkko0AB",
+    "name": "English green",
+    "redDecimal": 27,
+    "greenDecimal": 77,
+    "blueDecimal": 62
+  },
+  {
+    "hexCode": "#1B4D3E",
+    "id": "KHGOUjiSoX",
+    "name": "Brunswick green",
+    "redDecimal": 27,
+    "greenDecimal": 77,
+    "blueDecimal": 62
+  },
+  {
+    "hexCode": "#1C05B3",
+    "id": "5IXCaXZwgD",
+    "name": "Trypan Blue",
+    "redDecimal": 28,
+    "greenDecimal": 5,
+    "blueDecimal": 179
+  },
+  {
+    "hexCode": "#1C39BB",
+    "id": "lAmlqEBVhU",
+    "name": "Persian blue",
+    "redDecimal": 28,
+    "greenDecimal": 57,
+    "blueDecimal": 187
+  },
+  {
+    "hexCode": "#1CA9C9",
+    "id": "l8aPpybhWa",
+    "name": "Pacific blue",
+    "redDecimal": 28,
+    "greenDecimal": 169,
+    "blueDecimal": 201
+  },
+  {
+    "hexCode": "#1CAC78",
+    "id": "IxHwto3m9J",
+    "name": "Green (Crayola)",
+    "redDecimal": 28,
+    "greenDecimal": 172,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#1D2951",
+    "id": "f7vlZBAnRz",
+    "name": "Space cadet",
+    "redDecimal": 29,
+    "greenDecimal": 41,
+    "blueDecimal": 81
+  },
+  {
+    "hexCode": "#1DACD6",
+    "id": "PHqB8SLZSn",
+    "name": "Cerulean (Crayola)",
+    "redDecimal": 29,
+    "greenDecimal": 172,
+    "blueDecimal": 214
+  },
+  {
+    "hexCode": "#1E90FF",
+    "id": "uDMDDeEi6F",
+    "name": "Dodger blue",
+    "redDecimal": 30,
+    "greenDecimal": 144,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#1F75FE",
+    "id": "9hLXociALT",
+    "name": "Blue (Crayola)",
+    "redDecimal": 31,
+    "greenDecimal": 117,
+    "blueDecimal": 254
+  },
+  {
+    "hexCode": "#20B2AA",
+    "id": "OVmLpktA7r",
+    "name": "Light sea green",
+    "redDecimal": 32,
+    "greenDecimal": 178,
+    "blueDecimal": 170
+  },
+  {
+    "hexCode": "#2243B6",
+    "id": "GW4JRShzsz",
+    "name": "Denim blue",
+    "redDecimal": 34,
+    "greenDecimal": 67,
+    "blueDecimal": 182
+  },
+  {
+    "hexCode": "#228B22",
+    "id": "G4Gj4upk3O",
+    "name": "Forest green (web)",
+    "redDecimal": 34,
+    "greenDecimal": 139,
+    "blueDecimal": 34
+  },
+  {
+    "hexCode": "#23297A",
+    "id": "vPm5qIB4IP",
+    "name": "St. Patrick's blue",
+    "redDecimal": 35,
+    "greenDecimal": 41,
+    "blueDecimal": 122
+  },
+  {
+    "hexCode": "#232B2B",
+    "id": "BlJl9vHiDm",
+    "name": "Charleston green",
+    "redDecimal": 35,
+    "greenDecimal": 43,
+    "blueDecimal": 43
+  },
+  {
+    "hexCode": "#242124",
+    "id": "tUKEts0oNx",
+    "name": "Raisin black",
+    "redDecimal": 36,
+    "greenDecimal": 33,
+    "blueDecimal": 36
+  },
+  {
+    "hexCode": "#246BCE",
+    "id": "BGu3KvbHhM",
+    "name": "Celtic blue",
+    "redDecimal": 36,
+    "greenDecimal": 107,
+    "blueDecimal": 206
+  },
+  {
+    "hexCode": "#26428B",
+    "id": "D4HfSkol3e",
+    "name": "Dark cornflower blue",
+    "redDecimal": 38,
+    "greenDecimal": 66,
+    "blueDecimal": 139
+  },
+  {
+    "hexCode": "#26619C",
+    "id": "8zL2roGh4s",
+    "name": "Lapis lazuli",
+    "redDecimal": 38,
+    "greenDecimal": 97,
+    "blueDecimal": 156
+  },
+  {
+    "hexCode": "#2887C8",
+    "id": "RfzbFcTI62",
+    "name": "Green-blue (Crayola)",
+    "redDecimal": 40,
+    "greenDecimal": 135,
+    "blueDecimal": 200
+  },
+  {
+    "hexCode": "#299617",
+    "id": "oolGIWpAgq",
+    "name": "Slimy green",
+    "redDecimal": 41,
+    "greenDecimal": 150,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#29AB87",
+    "id": "sSFsGSxndC",
+    "name": "Jungle green",
+    "redDecimal": 41,
+    "greenDecimal": 171,
+    "blueDecimal": 135
+  },
+  {
+    "hexCode": "#2A2F23",
+    "id": "jPRClNJ32i",
+    "name": "Pine tree",
+    "redDecimal": 42,
+    "greenDecimal": 47,
+    "blueDecimal": 35
+  },
+  {
+    "hexCode": "#2A52BE",
+    "id": "ypv8sGTEzB",
+    "name": "Cerulean blue",
+    "redDecimal": 42,
+    "greenDecimal": 82,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#2D383A",
+    "id": "2VC4NVTzue",
+    "name": "Outer space (Crayola)",
+    "redDecimal": 45,
+    "greenDecimal": 56,
+    "blueDecimal": 58
+  },
+  {
+    "hexCode": "#2D68C4",
+    "id": "9pAkxdiz1i",
+    "name": "True Blue",
+    "redDecimal": 45,
+    "greenDecimal": 104,
+    "blueDecimal": 196
+  },
+  {
+    "hexCode": "#2E2787",
+    "id": "BgOKubyQJE",
+    "name": "Picotee blue",
+    "redDecimal": 46,
+    "greenDecimal": 39,
+    "blueDecimal": 135
+  },
+  {
+    "hexCode": "#2E2D88",
+    "id": "yRkEJoAGNI",
+    "name": "Cosmic cobalt",
+    "redDecimal": 46,
+    "greenDecimal": 45,
+    "blueDecimal": 136
+  },
+  {
+    "hexCode": "#2E5090",
+    "id": "kTswbKd5He",
+    "name": "YInMn Blue",
+    "redDecimal": 46,
+    "greenDecimal": 80,
+    "blueDecimal": 144
+  },
+  {
+    "hexCode": "#2E5894",
+    "id": "rBqzJ9ye9L",
+    "name": "B'dazzled blue",
+    "redDecimal": 46,
+    "greenDecimal": 88,
+    "blueDecimal": 148
+  },
+  {
+    "hexCode": "#2E8B57",
+    "id": "OG33Zbur8h",
+    "name": "Sea green",
+    "redDecimal": 46,
+    "greenDecimal": 139,
+    "blueDecimal": 87
+  },
+  {
+    "hexCode": "#2F4F4F",
+    "id": "RCLhCVC0eB",
+    "name": "Dark slate gray",
+    "redDecimal": 47,
+    "greenDecimal": 79,
+    "blueDecimal": 79
+  },
+  {
+    "hexCode": "#2F847C",
+    "id": "k8hqfzXkEB",
+    "name": "Celadon green",
+    "redDecimal": 47,
+    "greenDecimal": 132,
+    "blueDecimal": 124
+  },
+  {
+    "hexCode": "#2a3439",
+    "id": "86p0WdZlHp",
+    "name": "Gunmetal",
+    "redDecimal": 42,
+    "greenDecimal": 52,
+    "blueDecimal": 57
+  },
+  {
+    "hexCode": "#301934",
+    "id": "E4H6DLnJq1",
+    "name": "Dark purple",
+    "redDecimal": 48,
+    "greenDecimal": 25,
+    "blueDecimal": 52
+  },
+  {
+    "hexCode": "#30B21A",
+    "id": "EdAOADXfIp",
+    "name": "Yellow-green (Color Wheel)",
+    "redDecimal": 48,
+    "greenDecimal": 178,
+    "blueDecimal": 26
+  },
+  {
+    "hexCode": "#30BA8F",
+    "id": "AyGD3H9TsB",
+    "name": "Mountain Meadow",
+    "redDecimal": 48,
+    "greenDecimal": 186,
+    "blueDecimal": 143
+  },
+  {
+    "hexCode": "#30BFBF",
+    "id": "2AaC8hVGtj",
+    "name": "Maximum blue green",
+    "redDecimal": 48,
+    "greenDecimal": 191,
+    "blueDecimal": 191
+  },
+  {
+    "hexCode": "#317873",
+    "id": "Xb0YuheobH",
+    "name": "Myrtle green",
+    "redDecimal": 49,
+    "greenDecimal": 120,
+    "blueDecimal": 115
+  },
+  {
+    "hexCode": "#318CE7",
+    "id": "PXzl6iXsAV",
+    "name": "Bleu de France",
+    "redDecimal": 49,
+    "greenDecimal": 140,
+    "blueDecimal": 231
+  },
+  {
+    "hexCode": "#319177",
+    "id": "CFO9UAS4mc",
+    "name": "Illuminating emerald",
+    "redDecimal": 49,
+    "greenDecimal": 145,
+    "blueDecimal": 119
+  },
+  {
+    "hexCode": "#32127A",
+    "id": "fN5yB5ScIE",
+    "name": "Persian indigo",
+    "redDecimal": 50,
+    "greenDecimal": 18,
+    "blueDecimal": 122
+  },
+  {
+    "hexCode": "#32174D",
+    "id": "4WXBOU4EMF",
+    "name": "Russian violet",
+    "redDecimal": 50,
+    "greenDecimal": 23,
+    "blueDecimal": 77
+  },
+  {
+    "hexCode": "#324AB2",
+    "id": "MzmEDFw70A",
+    "name": "Violet-blue",
+    "redDecimal": 50,
+    "greenDecimal": 74,
+    "blueDecimal": 178
+  },
+  {
+    "hexCode": "#32CD32",
+    "id": "tJ28zxHxB7",
+    "name": "Lime green",
+    "redDecimal": 50,
+    "greenDecimal": 205,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#333399",
+    "id": "beKDILpoEo",
+    "name": "Blue (pigment)",
+    "redDecimal": 51,
+    "greenDecimal": 51,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#343434",
+    "id": "lVG6CDbTWE",
+    "name": "Jet",
+    "redDecimal": 52,
+    "greenDecimal": 52,
+    "blueDecimal": 52
+  },
+  {
+    "hexCode": "#353839",
+    "id": "S5j9aR8f6r",
+    "name": "Onyx",
+    "redDecimal": 53,
+    "greenDecimal": 56,
+    "blueDecimal": 57
+  },
+  {
+    "hexCode": "#354230",
+    "id": "qTBeuRGyZ9",
+    "name": "Kombu green",
+    "redDecimal": 53,
+    "greenDecimal": 66,
+    "blueDecimal": 48
+  },
+  {
+    "hexCode": "#355E3B",
+    "id": "bmLl6mxt3s",
+    "name": "Hunter green",
+    "redDecimal": 53,
+    "greenDecimal": 94,
+    "blueDecimal": 59
+  },
+  {
+    "hexCode": "#36454F",
+    "id": "XHxx0MYF7I",
+    "name": "Charcoal",
+    "redDecimal": 54,
+    "greenDecimal": 69,
+    "blueDecimal": 79
+  },
+  {
+    "hexCode": "#36747D",
+    "id": "HDYTETTv3x",
+    "name": "Ming",
+    "redDecimal": 54,
+    "greenDecimal": 116,
+    "blueDecimal": 125
+  },
+  {
+    "hexCode": "#367588",
+    "id": "tYCZnXDkjQ",
+    "name": "Teal blue",
+    "redDecimal": 54,
+    "greenDecimal": 117,
+    "blueDecimal": 136
+  },
+  {
+    "hexCode": "#39A78E",
+    "id": "UDVhmUyjmV",
+    "name": "Zomp",
+    "redDecimal": 57,
+    "greenDecimal": 167,
+    "blueDecimal": 142
+  },
+  {
+    "hexCode": "#39FF14",
+    "id": "bvzc3epDF3",
+    "name": "Neon green",
+    "redDecimal": 57,
+    "greenDecimal": 255,
+    "blueDecimal": 20
+  },
+  {
+    "hexCode": "#3AB09E",
+    "id": "Zz1mXOwECU",
+    "name": "Keppel",
+    "redDecimal": 58,
+    "greenDecimal": 176,
+    "blueDecimal": 158
+  },
+  {
+    "hexCode": "#3B2F2F",
+    "id": "L3SIiVbnfJ",
+    "name": "Black coffee",
+    "redDecimal": 59,
+    "greenDecimal": 47,
+    "blueDecimal": 47
+  },
+  {
+    "hexCode": "#3B3C36",
+    "id": "qFz4HF4BXq",
+    "name": "Black olive",
+    "redDecimal": 59,
+    "greenDecimal": 60,
+    "blueDecimal": 54
+  },
+  {
+    "hexCode": "#3B7A57",
+    "id": "DK2GGuWu6R",
+    "name": "Amazon",
+    "redDecimal": 59,
+    "greenDecimal": 122,
+    "blueDecimal": 87
+  },
+  {
+    "hexCode": "#3C1414",
+    "id": "25FP5if5uO",
+    "name": "Dark sienna",
+    "redDecimal": 60,
+    "greenDecimal": 20,
+    "blueDecimal": 20
+  },
+  {
+    "hexCode": "#3C341F",
+    "id": "DJVxqikTKw",
+    "name": "Olive Drab #7",
+    "redDecimal": 60,
+    "greenDecimal": 52,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#3C69E7",
+    "id": "KbgFwx3JCl",
+    "name": "Bluetiful",
+    "redDecimal": 60,
+    "greenDecimal": 105,
+    "blueDecimal": 231
+  },
+  {
+    "hexCode": "#3CB371",
+    "id": "SgmgwqY1hz",
+    "name": "Medium sea green",
+    "redDecimal": 60,
+    "greenDecimal": 179,
+    "blueDecimal": 113
+  },
+  {
+    "hexCode": "#3D0C02",
+    "id": "uIFT01Lgjc",
+    "name": "Black bean",
+    "redDecimal": 61,
+    "greenDecimal": 12,
+    "blueDecimal": 2
+  },
+  {
+    "hexCode": "#3D2B1F",
+    "id": "Im3ovNIpQX",
+    "name": "Bistre",
+    "redDecimal": 61,
+    "greenDecimal": 43,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#3E8EDE",
+    "id": "VATt7NgX6Q",
+    "name": "Tufts blue",
+    "redDecimal": 62,
+    "greenDecimal": 142,
+    "blueDecimal": 222
+  },
+  {
+    "hexCode": "#3EB489",
+    "id": "W0BZ6XLjp4",
+    "name": "Mint",
+    "redDecimal": 62,
+    "greenDecimal": 180,
+    "blueDecimal": 137
+  },
+  {
+    "hexCode": "#3F00FF",
+    "id": "ii6SWg5a2P",
+    "name": "Ultramarine",
+    "redDecimal": 63,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#3FFF00",
+    "id": "YEJfrsFzUi",
+    "name": "Harlequin",
+    "redDecimal": 63,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#40826D",
+    "id": "kIfHE5NLGS",
+    "name": "Viridian",
+    "redDecimal": 64,
+    "greenDecimal": 130,
+    "blueDecimal": 109
+  },
+  {
+    "hexCode": "#40E0D0",
+    "id": "sPHKZBq1SF",
+    "name": "Turquoise",
+    "redDecimal": 64,
+    "greenDecimal": 224,
+    "blueDecimal": 208
+  },
+  {
+    "hexCode": "#4166F5",
+    "id": "Qpa8IaE0mC",
+    "name": "Ultramarine blue",
+    "redDecimal": 65,
+    "greenDecimal": 102,
+    "blueDecimal": 245
+  },
+  {
+    "hexCode": "#4169E1",
+    "id": "smkivQuD3F",
+    "name": "Royal blue (light)",
+    "redDecimal": 65,
+    "greenDecimal": 105,
+    "blueDecimal": 225
+  },
+  {
+    "hexCode": "#43302E",
+    "id": "u0ggqPJBav",
+    "name": "Old burgundy",
+    "redDecimal": 67,
+    "greenDecimal": 48,
+    "blueDecimal": 46
+  },
+  {
+    "hexCode": "#436B95",
+    "id": "mTBo8eUcoM",
+    "name": "Queen blue",
+    "redDecimal": 67,
+    "greenDecimal": 107,
+    "blueDecimal": 149
+  },
+  {
+    "hexCode": "#43B3AE",
+    "id": "TfU8TTDVXX",
+    "name": "Verdigris",
+    "redDecimal": 67,
+    "greenDecimal": 179,
+    "blueDecimal": 174
+  },
+  {
+    "hexCode": "#444C38",
+    "id": "FVmDCtZnlH",
+    "name": "Rifle green",
+    "redDecimal": 68,
+    "greenDecimal": 76,
+    "blueDecimal": 56
+  },
+  {
+    "hexCode": "#446CCF",
+    "id": "5GsUoQHzB6",
+    "name": "Han blue",
+    "redDecimal": 68,
+    "greenDecimal": 108,
+    "blueDecimal": 207
+  },
+  {
+    "hexCode": "#4666FF",
+    "id": "9jzkKErCAj",
+    "name": "Neon blue",
+    "redDecimal": 70,
+    "greenDecimal": 102,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#4682B4",
+    "id": "MG01mHZwdX",
+    "name": "Steel blue",
+    "redDecimal": 70,
+    "greenDecimal": 130,
+    "blueDecimal": 180
+  },
+  {
+    "hexCode": "#47ABCC",
+    "id": "HFnTZXoSp3",
+    "name": "Maximum blue",
+    "redDecimal": 71,
+    "greenDecimal": 171,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#483C32",
+    "id": "KRCDOMRRd0",
+    "name": "Dark lava",
+    "redDecimal": 72,
+    "greenDecimal": 60,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#483C32",
+    "id": "Cls57H8y13",
+    "name": "Taupe",
+    "redDecimal": 72,
+    "greenDecimal": 60,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#483D8B",
+    "id": "DSm9AMqcwt",
+    "name": "Dark slate blue",
+    "redDecimal": 72,
+    "greenDecimal": 61,
+    "blueDecimal": 139
+  },
+  {
+    "hexCode": "#48BF91",
+    "id": "MYkJQEOanK",
+    "name": "Ocean green",
+    "redDecimal": 72,
+    "greenDecimal": 191,
+    "blueDecimal": 145
+  },
+  {
+    "hexCode": "#48D1CC",
+    "id": "0UisxvAwE4",
+    "name": "Medium turquoise",
+    "redDecimal": 72,
+    "greenDecimal": 209,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#49796B",
+    "id": "km6f3DmZS2",
+    "name": "Hooker's green",
+    "redDecimal": 73,
+    "greenDecimal": 121,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#4A5D23",
+    "id": "11GELMOs9k",
+    "name": "Dark moss green",
+    "redDecimal": 74,
+    "greenDecimal": 93,
+    "blueDecimal": 35
+  },
+  {
+    "hexCode": "#4A646C",
+    "id": "8eskaG7vFO",
+    "name": "Deep Space Sparkle",
+    "redDecimal": 74,
+    "greenDecimal": 100,
+    "blueDecimal": 108
+  },
+  {
+    "hexCode": "#4B0082",
+    "id": "SgOaQ7IkwO",
+    "name": "Indigo",
+    "redDecimal": 75,
+    "greenDecimal": 0,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#4B3621",
+    "id": "GsgFBJCXZt",
+    "name": "Café noir",
+    "redDecimal": 75,
+    "greenDecimal": 54,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#4B5320",
+    "id": "GqPk7hX9co",
+    "name": "Army green",
+    "redDecimal": 75,
+    "greenDecimal": 83,
+    "blueDecimal": 32
+  },
+  {
+    "hexCode": "#4C2882",
+    "id": "oFk0IMUeDD",
+    "name": "Spanish violet",
+    "redDecimal": 76,
+    "greenDecimal": 40,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#4C516D",
+    "id": "LSRYG4c9HN",
+    "name": "Independence",
+    "redDecimal": 76,
+    "greenDecimal": 81,
+    "blueDecimal": 109
+  },
+  {
+    "hexCode": "#4C9141",
+    "id": "s0G7YdRcsD",
+    "name": "May green",
+    "redDecimal": 76,
+    "greenDecimal": 145,
+    "blueDecimal": 65
+  },
+  {
+    "hexCode": "#4CBB17",
+    "id": "2LgOkAO8eG",
+    "name": "Kelly green",
+    "redDecimal": 76,
+    "greenDecimal": 187,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#4D1A7F",
+    "id": "sIG9Gw8wo0",
+    "name": "Blue-violet (color wheel)",
+    "redDecimal": 77,
+    "greenDecimal": 26,
+    "blueDecimal": 127
+  },
+  {
+    "hexCode": "#4D5D53",
+    "id": "lAD4CO0WK6",
+    "name": "Feldgrau",
+    "redDecimal": 77,
+    "greenDecimal": 93,
+    "blueDecimal": 83
+  },
+  {
+    "hexCode": "#4D8C57",
+    "id": "2GcJArCURB",
+    "name": "Middle green",
+    "redDecimal": 77,
+    "greenDecimal": 140,
+    "blueDecimal": 87
+  },
+  {
+    "hexCode": "#4E5180",
+    "id": "LFqzB01KNm",
+    "name": "Purple navy",
+    "redDecimal": 78,
+    "greenDecimal": 81,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#4F42B5",
+    "id": "SbBtOH4iaJ",
+    "name": "Ocean Blue",
+    "redDecimal": 79,
+    "greenDecimal": 66,
+    "blueDecimal": 181
+  },
+  {
+    "hexCode": "#4F7942",
+    "id": "rZlr3GwRiz",
+    "name": "Fern green",
+    "redDecimal": 79,
+    "greenDecimal": 121,
+    "blueDecimal": 66
+  },
+  {
+    "hexCode": "#5072A7",
+    "id": "NAWPjwep28",
+    "name": "Blue yonder",
+    "redDecimal": 80,
+    "greenDecimal": 114,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#507D2A",
+    "id": "w6zAxSJQE6",
+    "name": "Sap green",
+    "redDecimal": 80,
+    "greenDecimal": 125,
+    "blueDecimal": 42
+  },
+  {
+    "hexCode": "#50C878",
+    "id": "FywFXOSkHR",
+    "name": "Emerald",
+    "redDecimal": 80,
+    "greenDecimal": 200,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#50C878",
+    "id": "XBIYsmoVyN",
+    "name": "Paris Green",
+    "redDecimal": 80,
+    "greenDecimal": 200,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#512888",
+    "id": "VxObcg4FTi",
+    "name": "KSU purple",
+    "redDecimal": 81,
+    "greenDecimal": 40,
+    "blueDecimal": 136
+  },
+  {
+    "hexCode": "#5218FA",
+    "id": "g8pVQz3PYd",
+    "name": "Han purple",
+    "redDecimal": 82,
+    "greenDecimal": 24,
+    "blueDecimal": 250
+  },
+  {
+    "hexCode": "#534B4F",
+    "id": "Dwr3CtU7fI",
+    "name": "Dark liver",
+    "redDecimal": 83,
+    "greenDecimal": 75,
+    "blueDecimal": 79
+  },
+  {
+    "hexCode": "#536872",
+    "id": "4K7fGthmkv",
+    "name": "Cadet",
+    "redDecimal": 83,
+    "greenDecimal": 104,
+    "blueDecimal": 114
+  },
+  {
+    "hexCode": "#536878",
+    "id": "G5qjMNwrtn",
+    "name": "Dark electric blue",
+    "redDecimal": 83,
+    "greenDecimal": 104,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#536878",
+    "id": "Ezx1u8EB9c",
+    "name": "Payne's grey",
+    "redDecimal": 83,
+    "greenDecimal": 104,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#543D37",
+    "id": "uRjEzSADGq",
+    "name": "Dark liver (horses)",
+    "redDecimal": 84,
+    "greenDecimal": 61,
+    "blueDecimal": 55
+  },
+  {
+    "hexCode": "#545AA7",
+    "id": "v4w26wsd9C",
+    "name": "Liberty",
+    "redDecimal": 84,
+    "greenDecimal": 90,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#54626F",
+    "id": "vlXegmgTj8",
+    "name": "Black coral",
+    "redDecimal": 84,
+    "greenDecimal": 98,
+    "blueDecimal": 111
+  },
+  {
+    "hexCode": "#555555",
+    "id": "ba4TK02TOA",
+    "name": "Davy's grey",
+    "redDecimal": 85,
+    "greenDecimal": 85,
+    "blueDecimal": 85
+  },
+  {
+    "hexCode": "#555D50",
+    "id": "cE2NTOpka8",
+    "name": "Ebony",
+    "redDecimal": 85,
+    "greenDecimal": 93,
+    "blueDecimal": 80
+  },
+  {
+    "hexCode": "#556B2F",
+    "id": "PQM8ipOScF",
+    "name": "Dark olive green",
+    "redDecimal": 85,
+    "greenDecimal": 107,
+    "blueDecimal": 47
+  },
+  {
+    "hexCode": "#563C5C",
+    "id": "kUFlxiO4J2",
+    "name": "English violet",
+    "redDecimal": 86,
+    "greenDecimal": 60,
+    "blueDecimal": 92
+  },
+  {
+    "hexCode": "#568203",
+    "id": "EcTUeByto2",
+    "name": "Avocado",
+    "redDecimal": 86,
+    "greenDecimal": 130,
+    "blueDecimal": 3
+  },
+  {
+    "hexCode": "#56887D",
+    "id": "QdMbIsbg8a",
+    "name": "Wintergreen Dream",
+    "redDecimal": 86,
+    "greenDecimal": 136,
+    "blueDecimal": 125
+  },
+  {
+    "hexCode": "#56A0D3",
+    "id": "Q6pxbRV3uS",
+    "name": "Carolina blue",
+    "redDecimal": 86,
+    "greenDecimal": 160,
+    "blueDecimal": 211
+  },
+  {
+    "hexCode": "#58427C",
+    "id": "05oABS0gSA",
+    "name": "Cyber grape",
+    "redDecimal": 88,
+    "greenDecimal": 66,
+    "blueDecimal": 124
+  },
+  {
+    "hexCode": "#59260B",
+    "id": "CYGiL92vju",
+    "name": "Seal brown",
+    "redDecimal": 89,
+    "greenDecimal": 38,
+    "blueDecimal": 11
+  },
+  {
+    "hexCode": "#592720",
+    "id": "RlA7NVx2sF",
+    "name": "Caput mortuum",
+    "redDecimal": 89,
+    "greenDecimal": 39,
+    "blueDecimal": 32
+  },
+  {
+    "hexCode": "#5946B2",
+    "id": "vZsymJ6r5T",
+    "name": "Plump Purple",
+    "redDecimal": 89,
+    "greenDecimal": 70,
+    "blueDecimal": 178
+  },
+  {
+    "hexCode": "#5A4FCF",
+    "id": "IKjH0gM3bi",
+    "name": "Iris",
+    "redDecimal": 90,
+    "greenDecimal": 79,
+    "blueDecimal": 207
+  },
+  {
+    "hexCode": "#5B92E5",
+    "id": "Q6dxqk9dVq",
+    "name": "United Nations blue",
+    "redDecimal": 91,
+    "greenDecimal": 146,
+    "blueDecimal": 229
+  },
+  {
+    "hexCode": "#5D3954",
+    "id": "uAgImAycRZ",
+    "name": "Dark byzantium",
+    "redDecimal": 93,
+    "greenDecimal": 57,
+    "blueDecimal": 84
+  },
+  {
+    "hexCode": "#5DA493",
+    "id": "BdGowFva2C",
+    "name": "Polished Pine",
+    "redDecimal": 93,
+    "greenDecimal": 164,
+    "blueDecimal": 147
+  },
+  {
+    "hexCode": "#5DADEC",
+    "id": "Bj8dDYKNcD",
+    "name": "Blue jeans",
+    "redDecimal": 93,
+    "greenDecimal": 173,
+    "blueDecimal": 236
+  },
+  {
+    "hexCode": "#5E8C31",
+    "id": "gxgAwcVhqD",
+    "name": "Maximum green",
+    "redDecimal": 94,
+    "greenDecimal": 140,
+    "blueDecimal": 49
+  },
+  {
+    "hexCode": "#5F8A8B",
+    "id": "DmYrxnq28i",
+    "name": "Steel Teal",
+    "redDecimal": 95,
+    "greenDecimal": 138,
+    "blueDecimal": 139
+  },
+  {
+    "hexCode": "#5F9EA0",
+    "id": "iIbTfGp6MQ",
+    "name": "Cadet blue",
+    "redDecimal": 95,
+    "greenDecimal": 158,
+    "blueDecimal": 160
+  },
+  {
+    "hexCode": "#5FA777",
+    "id": "UCOBjHFkdE",
+    "name": "Forest green (Crayola)",
+    "redDecimal": 95,
+    "greenDecimal": 167,
+    "blueDecimal": 119
+  },
+  {
+    "hexCode": "#5FA778",
+    "id": "cWLleC2DUu",
+    "name": "Shiny Shamrock",
+    "redDecimal": 95,
+    "greenDecimal": 167,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#6050DC",
+    "id": "c2QIwiw9dm",
+    "name": "Majorelle blue",
+    "redDecimal": 96,
+    "greenDecimal": 80,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#6082B6",
+    "id": "a4V51UkGfh",
+    "name": "Glaucous",
+    "redDecimal": 96,
+    "greenDecimal": 130,
+    "blueDecimal": 182
+  },
+  {
+    "hexCode": "#614051",
+    "id": "hPFnRkIDrv",
+    "name": "Eggplant",
+    "redDecimal": 97,
+    "greenDecimal": 64,
+    "blueDecimal": 81
+  },
+  {
+    "hexCode": "#635147",
+    "id": "EXDNJBJAS3",
+    "name": "Umber",
+    "redDecimal": 99,
+    "greenDecimal": 81,
+    "blueDecimal": 71
+  },
+  {
+    "hexCode": "#644117",
+    "id": "riJhIfjet4",
+    "name": "Pullman Brown (UPS Brown)",
+    "redDecimal": 100,
+    "greenDecimal": 65,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#6495ED",
+    "id": "HQrUxBohBD",
+    "name": "Cornflower blue",
+    "redDecimal": 100,
+    "greenDecimal": 149,
+    "blueDecimal": 237
+  },
+  {
+    "hexCode": "#65000B",
+    "id": "0IMiFLxzER",
+    "name": "Rosewood",
+    "redDecimal": 101,
+    "greenDecimal": 0,
+    "blueDecimal": 11
+  },
+  {
+    "hexCode": "#654321",
+    "id": "NIDPbmVIR2",
+    "name": "Dark brown",
+    "redDecimal": 101,
+    "greenDecimal": 67,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#660000",
+    "id": "qLvVzhMuFH",
+    "name": "Blood red",
+    "redDecimal": 102,
+    "greenDecimal": 0,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#66023C",
+    "id": "OZGaTabP14",
+    "name": "Tyrian purple",
+    "redDecimal": 102,
+    "greenDecimal": 2,
+    "blueDecimal": 60
+  },
+  {
+    "hexCode": "#663399",
+    "id": "AaU9ETa5aN",
+    "name": "Rebecca Purple",
+    "redDecimal": 102,
+    "greenDecimal": 51,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#664228",
+    "id": "JMpWwqgzoU",
+    "name": "Van Dyke brown",
+    "redDecimal": 102,
+    "greenDecimal": 66,
+    "blueDecimal": 40
+  },
+  {
+    "hexCode": "#665D1E",
+    "id": "H8smN8b8Ce",
+    "name": "Antique bronze",
+    "redDecimal": 102,
+    "greenDecimal": 93,
+    "blueDecimal": 30
+  },
+  {
+    "hexCode": "#666699",
+    "id": "MSBkzQpN0c",
+    "name": "Dark blue-gray",
+    "redDecimal": 102,
+    "greenDecimal": 102,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#6699CC",
+    "id": "pie5pxQCAg",
+    "name": "Blue-gray",
+    "redDecimal": 102,
+    "greenDecimal": 153,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#6699CC",
+    "id": "JQx6QrGPTo",
+    "name": "Livid",
+    "redDecimal": 102,
+    "greenDecimal": 153,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#66B032",
+    "id": "J694nU2IVY",
+    "name": "Green (RYB)",
+    "redDecimal": 102,
+    "greenDecimal": 176,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#66DDAA",
+    "id": "YUihRHdo14",
+    "name": "Medium aquamarine",
+    "redDecimal": 102,
+    "greenDecimal": 221,
+    "blueDecimal": 170
+  },
+  {
+    "hexCode": "#66FF00",
+    "id": "FVujkrW8KB",
+    "name": "Bright green",
+    "redDecimal": 102,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#66FF66",
+    "id": "GGHYTvH5R6",
+    "name": "Screamin' Green",
+    "redDecimal": 102,
+    "greenDecimal": 255,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#673147",
+    "id": "S0ezEyQxEl",
+    "name": "Old mauve",
+    "redDecimal": 103,
+    "greenDecimal": 49,
+    "blueDecimal": 71
+  },
+  {
+    "hexCode": "#673147",
+    "id": "KcYMY54R2X",
+    "name": "Wine dregs",
+    "redDecimal": 103,
+    "greenDecimal": 49,
+    "blueDecimal": 71
+  },
+  {
+    "hexCode": "#674846",
+    "id": "SVHOtks4lh",
+    "name": "Rose ebony",
+    "redDecimal": 103,
+    "greenDecimal": 72,
+    "blueDecimal": 70
+  },
+  {
+    "hexCode": "#674C47",
+    "id": "gnlzIV0sK5",
+    "name": "Liver",
+    "redDecimal": 103,
+    "greenDecimal": 76,
+    "blueDecimal": 71
+  },
+  {
+    "hexCode": "#676767",
+    "id": "PSj7XdH9hG",
+    "name": "Granite gray",
+    "redDecimal": 103,
+    "greenDecimal": 103,
+    "blueDecimal": 103
+  },
+  {
+    "hexCode": "#679267",
+    "id": "7muNsuCveO",
+    "name": "Russian green",
+    "redDecimal": 103,
+    "greenDecimal": 146,
+    "blueDecimal": 103
+  },
+  {
+    "hexCode": "#682860",
+    "id": "WuIvBVCwr5",
+    "name": "Palatinate purple",
+    "redDecimal": 104,
+    "greenDecimal": 40,
+    "blueDecimal": 96
+  },
+  {
+    "hexCode": "#696969",
+    "id": "EY2su3vujt",
+    "name": "Dim gray",
+    "redDecimal": 105,
+    "greenDecimal": 105,
+    "blueDecimal": 105
+  },
+  {
+    "hexCode": "#6A0DAD",
+    "id": "UYu5Dsuzit",
+    "name": "Purple",
+    "redDecimal": 106,
+    "greenDecimal": 13,
+    "blueDecimal": 173
+  },
+  {
+    "hexCode": "#6A5ACD",
+    "id": "Sg2Tmron9l",
+    "name": "Slate blue",
+    "redDecimal": 106,
+    "greenDecimal": 90,
+    "blueDecimal": 205
+  },
+  {
+    "hexCode": "#6B4423",
+    "id": "GWc62hGmMW",
+    "name": "Kobicha",
+    "redDecimal": 107,
+    "greenDecimal": 68,
+    "blueDecimal": 35
+  },
+  {
+    "hexCode": "#6B8E23",
+    "id": "Ak8S0KbSLk",
+    "name": "Olive Drab (#3)",
+    "redDecimal": 107,
+    "greenDecimal": 142,
+    "blueDecimal": 35
+  },
+  {
+    "hexCode": "#6C2E1F",
+    "id": "Hm4iaUMDwC",
+    "name": "Liver (organ)",
+    "redDecimal": 108,
+    "greenDecimal": 46,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#6C3082",
+    "id": "Io2tSfK1Ut",
+    "name": "Eminence",
+    "redDecimal": 108,
+    "greenDecimal": 48,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#6C541E",
+    "id": "hOtrdeNfgC",
+    "name": "Field drab",
+    "redDecimal": 108,
+    "greenDecimal": 84,
+    "blueDecimal": 30
+  },
+  {
+    "hexCode": "#6CA0DC",
+    "id": "OKZyTZQ56J",
+    "name": "Little boy blue",
+    "redDecimal": 108,
+    "greenDecimal": 160,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#6D9BC3",
+    "id": "vGGfYuMPVG",
+    "name": "Cerulean frost",
+    "redDecimal": 109,
+    "greenDecimal": 155,
+    "blueDecimal": 195
+  },
+  {
+    "hexCode": "#6EAEA1",
+    "id": "YVM5iZPYZX",
+    "name": "Green Sheen",
+    "redDecimal": 110,
+    "greenDecimal": 174,
+    "blueDecimal": 161
+  },
+  {
+    "hexCode": "#6F00FF",
+    "id": "deveFNqxz5",
+    "name": "Electric indigo",
+    "redDecimal": 111,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#6F4E37",
+    "id": "F7tXB7kblL",
+    "name": "Coffee",
+    "redDecimal": 111,
+    "greenDecimal": 78,
+    "blueDecimal": 55
+  },
+  {
+    "hexCode": "#6F4E37",
+    "id": "zPJKJiQmtP",
+    "name": "Tuscan brown",
+    "redDecimal": 111,
+    "greenDecimal": 78,
+    "blueDecimal": 55
+  },
+  {
+    "hexCode": "#701C1C",
+    "id": "OpeslyAPrs",
+    "name": "Persian plum",
+    "redDecimal": 112,
+    "greenDecimal": 28,
+    "blueDecimal": 28
+  },
+  {
+    "hexCode": "#701C1C",
+    "id": "eGUIwxkjnN",
+    "name": "Prune",
+    "redDecimal": 112,
+    "greenDecimal": 28,
+    "blueDecimal": 28
+  },
+  {
+    "hexCode": "#702670",
+    "id": "wnvvPFSjl4",
+    "name": "Midnight",
+    "redDecimal": 112,
+    "greenDecimal": 38,
+    "blueDecimal": 112
+  },
+  {
+    "hexCode": "#702963",
+    "id": "yYoatCnExq",
+    "name": "Byzantium",
+    "redDecimal": 112,
+    "greenDecimal": 41,
+    "blueDecimal": 99
+  },
+  {
+    "hexCode": "#703642",
+    "id": "07WCu2aEsX",
+    "name": "Catawba",
+    "redDecimal": 112,
+    "greenDecimal": 54,
+    "blueDecimal": 66
+  },
+  {
+    "hexCode": "#704214",
+    "id": "yTC2luFZcZ",
+    "name": "Sepia",
+    "redDecimal": 112,
+    "greenDecimal": 66,
+    "blueDecimal": 20
+  },
+  {
+    "hexCode": "#708090",
+    "id": "wlqWzYScHg",
+    "name": "Slate gray",
+    "redDecimal": 112,
+    "greenDecimal": 128,
+    "blueDecimal": 144
+  },
+  {
+    "hexCode": "#71A6D2",
+    "id": "g28d03C2ST",
+    "name": "Iceberg",
+    "redDecimal": 113,
+    "greenDecimal": 166,
+    "blueDecimal": 210
+  },
+  {
+    "hexCode": "#722F37",
+    "id": "FoW4wo9UZP",
+    "name": "Wine",
+    "redDecimal": 114,
+    "greenDecimal": 47,
+    "blueDecimal": 55
+  },
+  {
+    "hexCode": "#727472",
+    "id": "mAUcvndvuF",
+    "name": "Nickel",
+    "redDecimal": 114,
+    "greenDecimal": 116,
+    "blueDecimal": 114
+  },
+  {
+    "hexCode": "#72A0C1",
+    "id": "y7QOGwVlUu",
+    "name": "Air superiority blue",
+    "redDecimal": 114,
+    "greenDecimal": 160,
+    "blueDecimal": 193
+  },
+  {
+    "hexCode": "#733380",
+    "id": "zGMq3sboPg",
+    "name": "Maximum purple",
+    "redDecimal": 115,
+    "greenDecimal": 51,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#7366BD",
+    "id": "Hxs0fOEEk7",
+    "name": "Blue-violet (Crayola)",
+    "redDecimal": 115,
+    "greenDecimal": 102,
+    "blueDecimal": 189
+  },
+  {
+    "hexCode": "#738678",
+    "id": "c2TUGxNnRe",
+    "name": "Xanadu",
+    "redDecimal": 115,
+    "greenDecimal": 134,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#73C2FB",
+    "id": "9Oft58u3Rv",
+    "name": "Maya blue",
+    "redDecimal": 115,
+    "greenDecimal": 194,
+    "blueDecimal": 251
+  },
+  {
+    "hexCode": "#74C365",
+    "id": "0rm1I5b6vC",
+    "name": "Mantis",
+    "redDecimal": 116,
+    "greenDecimal": 195,
+    "blueDecimal": 101
+  },
+  {
+    "hexCode": "#757575",
+    "id": "BpIcRSkEF9",
+    "name": "Sonic silver",
+    "redDecimal": 117,
+    "greenDecimal": 117,
+    "blueDecimal": 117
+  },
+  {
+    "hexCode": "#766EC8",
+    "id": "FgAb8hFx07",
+    "name": "Violet-blue (Crayola)",
+    "redDecimal": 118,
+    "greenDecimal": 110,
+    "blueDecimal": 200
+  },
+  {
+    "hexCode": "#76D7EA",
+    "id": "oGtCMaNjUH",
+    "name": "Sky blue (Crayola)",
+    "redDecimal": 118,
+    "greenDecimal": 215,
+    "blueDecimal": 234
+  },
+  {
+    "hexCode": "#777696",
+    "id": "wYsFwFVt1r",
+    "name": "Rhythm",
+    "redDecimal": 119,
+    "greenDecimal": 118,
+    "blueDecimal": 150
+  },
+  {
+    "hexCode": "#778899",
+    "id": "NKalsKGQME",
+    "name": "Light slate gray",
+    "redDecimal": 119,
+    "greenDecimal": 136,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#778BA5",
+    "id": "gJFNSGU3Kp",
+    "name": "Shadow blue",
+    "redDecimal": 119,
+    "greenDecimal": 139,
+    "blueDecimal": 165
+  },
+  {
+    "hexCode": "#77B5FE",
+    "id": "s0jbJPEB9C",
+    "name": "French sky blue",
+    "redDecimal": 119,
+    "greenDecimal": 181,
+    "blueDecimal": 254
+  },
+  {
+    "hexCode": "#78184A",
+    "id": "ynJcXacg9G",
+    "name": "Pansy purple",
+    "redDecimal": 120,
+    "greenDecimal": 24,
+    "blueDecimal": 74
+  },
+  {
+    "hexCode": "#7851A9",
+    "id": "jKtZzEsB3B",
+    "name": "Royal purple",
+    "redDecimal": 120,
+    "greenDecimal": 81,
+    "blueDecimal": 169
+  },
+  {
+    "hexCode": "#79443B",
+    "id": "o83xUJaaMA",
+    "name": "Bole",
+    "redDecimal": 121,
+    "greenDecimal": 68,
+    "blueDecimal": 59
+  },
+  {
+    "hexCode": "#796878",
+    "id": "Gn7swXu308",
+    "name": "Old lavender",
+    "redDecimal": 121,
+    "greenDecimal": 104,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#7B1113",
+    "id": "S60XEZ973A",
+    "name": "UP maroon",
+    "redDecimal": 123,
+    "greenDecimal": 17,
+    "blueDecimal": 19
+  },
+  {
+    "hexCode": "#7B3F00",
+    "id": "BL5YoxUyH9",
+    "name": "Chocolate (traditional)",
+    "redDecimal": 123,
+    "greenDecimal": 63,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#7B68EE",
+    "id": "Z47HRldB0Y",
+    "name": "Medium slate blue",
+    "redDecimal": 123,
+    "greenDecimal": 104,
+    "blueDecimal": 238
+  },
+  {
+    "hexCode": "#7BB661",
+    "id": "wc96lmqVvB",
+    "name": "Bud green",
+    "redDecimal": 123,
+    "greenDecimal": 182,
+    "blueDecimal": 97
+  },
+  {
+    "hexCode": "#7C0A02",
+    "id": "XcK0mhOb94",
+    "name": "Barn red",
+    "redDecimal": 124,
+    "greenDecimal": 10,
+    "blueDecimal": 2
+  },
+  {
+    "hexCode": "#7C4848",
+    "id": "V5psxLEUF5",
+    "name": "Tuscan red",
+    "redDecimal": 124,
+    "greenDecimal": 72,
+    "blueDecimal": 72
+  },
+  {
+    "hexCode": "#7CB9E8",
+    "id": "1qaBnNk7Op",
+    "name": "Aero",
+    "redDecimal": 124,
+    "greenDecimal": 185,
+    "blueDecimal": 232
+  },
+  {
+    "hexCode": "#7CFC00",
+    "id": "N6N7VNQmHo",
+    "name": "Lawn green",
+    "redDecimal": 124,
+    "greenDecimal": 252,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#7DF9FF",
+    "id": "ezEdWE1cF5",
+    "name": "Electric blue",
+    "redDecimal": 125,
+    "greenDecimal": 249,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#7E5E60",
+    "id": "f2nz8B2EwY",
+    "name": "Deep taupe",
+    "redDecimal": 126,
+    "greenDecimal": 94,
+    "blueDecimal": 96
+  },
+  {
+    "hexCode": "#7ED4E6",
+    "id": "NNjZOuQtOS",
+    "name": "Middle blue",
+    "redDecimal": 126,
+    "greenDecimal": 212,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#7F00FF",
+    "id": "uExK8BopGa",
+    "name": "Violet (color wheel)",
+    "redDecimal": 127,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#7F1734",
+    "id": "31U9fX86AB",
+    "name": "Claret",
+    "redDecimal": 127,
+    "greenDecimal": 23,
+    "blueDecimal": 52
+  },
+  {
+    "hexCode": "#7FFF00",
+    "id": "HOiKW4BDLP",
+    "name": "Chartreuse (web)",
+    "redDecimal": 127,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#7FFFD4",
+    "id": "jVG5MgfGqn",
+    "name": "Aquamarine",
+    "redDecimal": 127,
+    "greenDecimal": 255,
+    "blueDecimal": 212
+  },
+  {
+    "hexCode": "#800000",
+    "id": "ASyyPXFfxl",
+    "name": "Maroon (web)",
+    "redDecimal": 128,
+    "greenDecimal": 0,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#800020",
+    "id": "7MjsqODmZg",
+    "name": "Burgundy",
+    "redDecimal": 128,
+    "greenDecimal": 0,
+    "blueDecimal": 32
+  },
+  {
+    "hexCode": "#800020",
+    "id": "SC8MPEG1sD",
+    "name": "Oxblood",
+    "redDecimal": 128,
+    "greenDecimal": 0,
+    "blueDecimal": 32
+  },
+  {
+    "hexCode": "#800080",
+    "id": "Zr04wycIut",
+    "name": "Patriarch",
+    "redDecimal": 128,
+    "greenDecimal": 0,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#800080",
+    "id": "oA5Gx2uAUH",
+    "name": "Purple (web)",
+    "redDecimal": 128,
+    "greenDecimal": 0,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#801818",
+    "id": "kfBpZzSuW0",
+    "name": "Falu red",
+    "redDecimal": 128,
+    "greenDecimal": 24,
+    "blueDecimal": 24
+  },
+  {
+    "hexCode": "#80461B",
+    "id": "8sGnQP6bsU",
+    "name": "Russet",
+    "redDecimal": 128,
+    "greenDecimal": 70,
+    "blueDecimal": 27
+  },
+  {
+    "hexCode": "#807532",
+    "id": "nb91dTZY1U",
+    "name": "Spanish bistre",
+    "redDecimal": 128,
+    "greenDecimal": 117,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#808000",
+    "id": "xR8Lz5EEj5",
+    "name": "Olive",
+    "redDecimal": 128,
+    "greenDecimal": 128,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#808080",
+    "id": "cBRUOppYyX",
+    "name": "Gray (web)",
+    "redDecimal": 128,
+    "greenDecimal": 128,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#81613C",
+    "id": "rOfM8ZGV3w",
+    "name": "Coyote brown",
+    "redDecimal": 129,
+    "greenDecimal": 97,
+    "blueDecimal": 60
+  },
+  {
+    "hexCode": "#826644",
+    "id": "OaCBQK0DDk",
+    "name": "Raw umber",
+    "redDecimal": 130,
+    "greenDecimal": 102,
+    "blueDecimal": 68
+  },
+  {
+    "hexCode": "#838996",
+    "id": "xU03XySosy",
+    "name": "Roman silver",
+    "redDecimal": 131,
+    "greenDecimal": 137,
+    "blueDecimal": 150
+  },
+  {
+    "hexCode": "#841617",
+    "id": "xk9766O04v",
+    "name": "OU Crimson red",
+    "redDecimal": 132,
+    "greenDecimal": 22,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#841B2D",
+    "id": "ySgWj3Aw8J",
+    "name": "Antique ruby",
+    "redDecimal": 132,
+    "greenDecimal": 27,
+    "blueDecimal": 45
+  },
+  {
+    "hexCode": "#848482",
+    "id": "wHBIaClPdB",
+    "name": "Battleship grey",
+    "redDecimal": 132,
+    "greenDecimal": 132,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#848482",
+    "id": "StLaubDvII",
+    "name": "Old silver",
+    "redDecimal": 132,
+    "greenDecimal": 132,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#856088",
+    "id": "QlHXJ6zzag",
+    "name": "Chinese violet",
+    "redDecimal": 133,
+    "greenDecimal": 96,
+    "blueDecimal": 136
+  },
+  {
+    "hexCode": "#856D4D",
+    "id": "tz0QE0BmDs",
+    "name": "French bistre",
+    "redDecimal": 133,
+    "greenDecimal": 109,
+    "blueDecimal": 77
+  },
+  {
+    "hexCode": "#85754E",
+    "id": "FHUzOw9cH6",
+    "name": "Gold Fusion",
+    "redDecimal": 133,
+    "greenDecimal": 117,
+    "blueDecimal": 78
+  },
+  {
+    "hexCode": "#8601AF",
+    "id": "mvAPhdGN4q",
+    "name": "Violet (RYB)",
+    "redDecimal": 134,
+    "greenDecimal": 1,
+    "blueDecimal": 175
+  },
+  {
+    "hexCode": "#86608E",
+    "id": "d6z6mULzMP",
+    "name": "French lilac",
+    "redDecimal": 134,
+    "greenDecimal": 96,
+    "blueDecimal": 142
+  },
+  {
+    "hexCode": "#86608E",
+    "id": "uLr5neGECL",
+    "name": "Pomp and Power",
+    "redDecimal": 134,
+    "greenDecimal": 96,
+    "blueDecimal": 142
+  },
+  {
+    "hexCode": "#87413F",
+    "id": "CirAfoY6U5",
+    "name": "Brandy",
+    "redDecimal": 135,
+    "greenDecimal": 65,
+    "blueDecimal": 63
+  },
+  {
+    "hexCode": "#87421F",
+    "id": "hZWwNBmR41",
+    "name": "Fuzzy Wuzzy",
+    "redDecimal": 135,
+    "greenDecimal": 66,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#87A96B",
+    "id": "MSzDpalECx",
+    "name": "Asparagus",
+    "redDecimal": 135,
+    "greenDecimal": 169,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#87CEEB",
+    "id": "Pz9JEjyLnC",
+    "name": "Sky blue",
+    "redDecimal": 135,
+    "greenDecimal": 206,
+    "blueDecimal": 235
+  },
+  {
+    "hexCode": "#87CEFA",
+    "id": "fTBpHfB9cA",
+    "name": "Light sky blue",
+    "redDecimal": 135,
+    "greenDecimal": 206,
+    "blueDecimal": 250
+  },
+  {
+    "hexCode": "#87FF2A",
+    "id": "01djldfO0o",
+    "name": "Spring Frost",
+    "redDecimal": 135,
+    "greenDecimal": 255,
+    "blueDecimal": 42
+  },
+  {
+    "hexCode": "#880085",
+    "id": "sc2934whVq",
+    "name": "Mardi Gras",
+    "redDecimal": 136,
+    "greenDecimal": 0,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#8806CE",
+    "id": "IKHqkLmQQA",
+    "name": "French violet",
+    "redDecimal": 136,
+    "greenDecimal": 6,
+    "blueDecimal": 206
+  },
+  {
+    "hexCode": "#882D17",
+    "id": "zLiABGObkS",
+    "name": "Kobe",
+    "redDecimal": 136,
+    "greenDecimal": 45,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#882D17",
+    "id": "PrWHR1sutw",
+    "name": "Sienna",
+    "redDecimal": 136,
+    "greenDecimal": 45,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#88540B",
+    "id": "Pn4WXNfubO",
+    "name": "Brown",
+    "redDecimal": 136,
+    "greenDecimal": 84,
+    "blueDecimal": 11
+  },
+  {
+    "hexCode": "#893843",
+    "id": "qs6unDfckr",
+    "name": "Solid pink",
+    "redDecimal": 137,
+    "greenDecimal": 56,
+    "blueDecimal": 67
+  },
+  {
+    "hexCode": "#893F45",
+    "id": "x9RwCV9MJp",
+    "name": "Cordovan",
+    "redDecimal": 137,
+    "greenDecimal": 63,
+    "blueDecimal": 69
+  },
+  {
+    "hexCode": "#89CFF0",
+    "id": "SsFWuKPWS5",
+    "name": "Baby blue",
+    "redDecimal": 137,
+    "greenDecimal": 207,
+    "blueDecimal": 240
+  },
+  {
+    "hexCode": "#8A2BE2",
+    "id": "M6Q5kWMRjY",
+    "name": "Blue-violet",
+    "redDecimal": 138,
+    "greenDecimal": 43,
+    "blueDecimal": 226
+  },
+  {
+    "hexCode": "#8A3324",
+    "id": "wuoiNsLrW6",
+    "name": "Burnt umber",
+    "redDecimal": 138,
+    "greenDecimal": 51,
+    "blueDecimal": 36
+  },
+  {
+    "hexCode": "#8A496B",
+    "id": "xJFo5AtqZA",
+    "name": "Twilight lavender",
+    "redDecimal": 138,
+    "greenDecimal": 73,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#8A795D",
+    "id": "PAI59fEi3l",
+    "name": "Shadow",
+    "redDecimal": 138,
+    "greenDecimal": 121,
+    "blueDecimal": 93
+  },
+  {
+    "hexCode": "#8A7F80",
+    "id": "Aj56cwpYxw",
+    "name": "Rocket metallic",
+    "redDecimal": 138,
+    "greenDecimal": 127,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#8A9A5B",
+    "id": "SGfhtiUqMo",
+    "name": "Moss green",
+    "redDecimal": 138,
+    "greenDecimal": 154,
+    "blueDecimal": 91
+  },
+  {
+    "hexCode": "#8A9A5B",
+    "id": "VAjpFxdAhH",
+    "name": "Turtle green",
+    "redDecimal": 138,
+    "greenDecimal": 154,
+    "blueDecimal": 91
+  },
+  {
+    "hexCode": "#8B0000",
+    "id": "2uHEJwZDYO",
+    "name": "Dark red",
+    "redDecimal": 139,
+    "greenDecimal": 0,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#8B008B",
+    "id": "ffzspMm9C3",
+    "name": "Dark magenta",
+    "redDecimal": 139,
+    "greenDecimal": 0,
+    "blueDecimal": 139
+  },
+  {
+    "hexCode": "#8B4513",
+    "id": "FYFHRyVf6d",
+    "name": "Saddle brown",
+    "redDecimal": 139,
+    "greenDecimal": 69,
+    "blueDecimal": 19
+  },
+  {
+    "hexCode": "#8B72BE",
+    "id": "HMpiliqVSa",
+    "name": "Middle blue purple",
+    "redDecimal": 139,
+    "greenDecimal": 114,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#8B8589",
+    "id": "d5Bu9GSxWh",
+    "name": "Taupe gray",
+    "redDecimal": 139,
+    "greenDecimal": 133,
+    "blueDecimal": 137
+  },
+  {
+    "hexCode": "#8B8680",
+    "id": "xwuIk6OPmA",
+    "name": "Middle grey",
+    "redDecimal": 139,
+    "greenDecimal": 134,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#8BA8B7",
+    "id": "ETgDLlaaNt",
+    "name": "Pewter Blue",
+    "redDecimal": 139,
+    "greenDecimal": 168,
+    "blueDecimal": 183
+  },
+  {
+    "hexCode": "#8C92AC",
+    "id": "TE6hPlbctf",
+    "name": "Cool grey",
+    "redDecimal": 140,
+    "greenDecimal": 146,
+    "blueDecimal": 172
+  },
+  {
+    "hexCode": "#8CBED6",
+    "id": "5uqqbuUKhr",
+    "name": "Dark sky blue",
+    "redDecimal": 140,
+    "greenDecimal": 190,
+    "blueDecimal": 214
+  },
+  {
+    "hexCode": "#8D4E85",
+    "id": "Mau4bEpNef",
+    "name": "Razzmic Berry",
+    "redDecimal": 141,
+    "greenDecimal": 78,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#8DA399",
+    "id": "QCOlV3g8TH",
+    "name": "Morning blue",
+    "redDecimal": 141,
+    "greenDecimal": 163,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#8DB600",
+    "id": "DVPknfUKAp",
+    "name": "Apple green",
+    "redDecimal": 141,
+    "greenDecimal": 182,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#8DD9CC",
+    "id": "cFXRoVfB0B",
+    "name": "Middle blue green",
+    "redDecimal": 141,
+    "greenDecimal": 217,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#8E3A59",
+    "id": "pbrKHQH3q2",
+    "name": "Quinacridone magenta",
+    "redDecimal": 142,
+    "greenDecimal": 58,
+    "blueDecimal": 89
+  },
+  {
+    "hexCode": "#8E4585",
+    "id": "QpPMLWdsld",
+    "name": "Plum",
+    "redDecimal": 142,
+    "greenDecimal": 69,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#8F00FF",
+    "id": "HhTab6E9XX",
+    "name": "Electric violet",
+    "redDecimal": 143,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#8F00FF",
+    "id": "O5BFTSAajP",
+    "name": "Violet",
+    "redDecimal": 143,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#8F9779",
+    "id": "q3foRBmDvq",
+    "name": "Artichoke",
+    "redDecimal": 143,
+    "greenDecimal": 151,
+    "blueDecimal": 121
+  },
+  {
+    "hexCode": "#8FBC8F",
+    "id": "ne9C0yn2N9",
+    "name": "Dark sea green",
+    "redDecimal": 143,
+    "greenDecimal": 188,
+    "blueDecimal": 143
+  },
+  {
+    "hexCode": "#8FD400",
+    "id": "JDbeuHgYJ8",
+    "name": "Sheen green",
+    "redDecimal": 143,
+    "greenDecimal": 212,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#905D5D",
+    "id": "8DveqHXZWw",
+    "name": "Rose taupe",
+    "redDecimal": 144,
+    "greenDecimal": 93,
+    "blueDecimal": 93
+  },
+  {
+    "hexCode": "#90EE90",
+    "id": "dY5fzpPQgC",
+    "name": "Light green",
+    "redDecimal": 144,
+    "greenDecimal": 238,
+    "blueDecimal": 144
+  },
+  {
+    "hexCode": "#914E75",
+    "id": "tTmfC3sCUw",
+    "name": "Sugar Plum",
+    "redDecimal": 145,
+    "greenDecimal": 78,
+    "blueDecimal": 117
+  },
+  {
+    "hexCode": "#915C83",
+    "id": "XXYdZjKXLV",
+    "name": "Antique fuchsia",
+    "redDecimal": 145,
+    "greenDecimal": 92,
+    "blueDecimal": 131
+  },
+  {
+    "hexCode": "#915F6D",
+    "id": "mEGDIpXKEL",
+    "name": "Mauve taupe",
+    "redDecimal": 145,
+    "greenDecimal": 95,
+    "blueDecimal": 109
+  },
+  {
+    "hexCode": "#915F6D",
+    "id": "rbnoZquFzx",
+    "name": "Raspberry glace",
+    "redDecimal": 145,
+    "greenDecimal": 95,
+    "blueDecimal": 109
+  },
+  {
+    "hexCode": "#91A3B0",
+    "id": "mCm149o4TP",
+    "name": "Cadet grey",
+    "redDecimal": 145,
+    "greenDecimal": 163,
+    "blueDecimal": 176
+  },
+  {
+    "hexCode": "#922B3E",
+    "id": "WtHildUWTB",
+    "name": "Red-violet (Color wheel)",
+    "redDecimal": 146,
+    "greenDecimal": 43,
+    "blueDecimal": 62
+  },
+  {
+    "hexCode": "#9370DB",
+    "id": "Ru8EkfzVnZ",
+    "name": "Medium purple",
+    "redDecimal": 147,
+    "greenDecimal": 112,
+    "blueDecimal": 219
+  },
+  {
+    "hexCode": "#93C572",
+    "id": "XEuoXFPhP1",
+    "name": "Pistachio",
+    "redDecimal": 147,
+    "greenDecimal": 197,
+    "blueDecimal": 114
+  },
+  {
+    "hexCode": "#93CCEA",
+    "id": "DDf0WKuXLj",
+    "name": "Light cornflower blue",
+    "redDecimal": 147,
+    "greenDecimal": 204,
+    "blueDecimal": 234
+  },
+  {
+    "hexCode": "#9400D3",
+    "id": "UxmO0WH3dU",
+    "name": "Dark violet",
+    "redDecimal": 148,
+    "greenDecimal": 0,
+    "blueDecimal": 211
+  },
+  {
+    "hexCode": "#954535",
+    "id": "zCy9yYNiwk",
+    "name": "Chestnut",
+    "redDecimal": 149,
+    "greenDecimal": 69,
+    "blueDecimal": 53
+  },
+  {
+    "hexCode": "#960018",
+    "id": "G2NsvDonbU",
+    "name": "Carmine",
+    "redDecimal": 150,
+    "greenDecimal": 0,
+    "blueDecimal": 24
+  },
+  {
+    "hexCode": "#963D7F",
+    "id": "wKDDORFg81",
+    "name": "Violet (crayola)",
+    "redDecimal": 150,
+    "greenDecimal": 61,
+    "blueDecimal": 127
+  },
+  {
+    "hexCode": "#967117",
+    "id": "vCn1WIOeoV",
+    "name": "Drab",
+    "redDecimal": 150,
+    "greenDecimal": 113,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#967117",
+    "id": "rZfKS7A1EM",
+    "name": "Bistre brown",
+    "redDecimal": 150,
+    "greenDecimal": 113,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#967117",
+    "id": "kW9cpLp08m",
+    "name": "Mode beige",
+    "redDecimal": 150,
+    "greenDecimal": 113,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#967117",
+    "id": "1aIuqEsG3G",
+    "name": "Sand dune",
+    "redDecimal": 150,
+    "greenDecimal": 113,
+    "blueDecimal": 23
+  },
+  {
+    "hexCode": "#9678B6",
+    "id": "7HjEvlI5GX",
+    "name": "Purple mountain majesty",
+    "redDecimal": 150,
+    "greenDecimal": 120,
+    "blueDecimal": 182
+  },
+  {
+    "hexCode": "#96C8A2",
+    "id": "YPnSm0uEPd",
+    "name": "Eton blue",
+    "redDecimal": 150,
+    "greenDecimal": 200,
+    "blueDecimal": 162
+  },
+  {
+    "hexCode": "#979AAA",
+    "id": "P5u1ioOHnX",
+    "name": "Manatee",
+    "redDecimal": 151,
+    "greenDecimal": 154,
+    "blueDecimal": 170
+  },
+  {
+    "hexCode": "#987456",
+    "id": "SgpyikWaun",
+    "name": "Liver chestnut",
+    "redDecimal": 152,
+    "greenDecimal": 116,
+    "blueDecimal": 86
+  },
+  {
+    "hexCode": "#98817B",
+    "id": "iZG5Mg1Mor",
+    "name": "Cinereous",
+    "redDecimal": 152,
+    "greenDecimal": 129,
+    "blueDecimal": 123
+  },
+  {
+    "hexCode": "#989898",
+    "id": "Ub8YJEYpRx",
+    "name": "Spanish gray",
+    "redDecimal": 152,
+    "greenDecimal": 152,
+    "blueDecimal": 152
+  },
+  {
+    "hexCode": "#98FF98",
+    "id": "RtXEsIflCZ",
+    "name": "Mint green",
+    "redDecimal": 152,
+    "greenDecimal": 255,
+    "blueDecimal": 152
+  },
+  {
+    "hexCode": "#9932CC",
+    "id": "HbuUNXQnbi",
+    "name": "Dark orchid",
+    "redDecimal": 153,
+    "greenDecimal": 50,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#996515",
+    "id": "BhZ9GO1d3M",
+    "name": "Golden brown",
+    "redDecimal": 153,
+    "greenDecimal": 101,
+    "blueDecimal": 21
+  },
+  {
+    "hexCode": "#996666",
+    "id": "25hUCrdsnF",
+    "name": "Copper rose",
+    "redDecimal": 153,
+    "greenDecimal": 102,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#9966CC",
+    "id": "vdZHHsID17",
+    "name": "Amethyst",
+    "redDecimal": 153,
+    "greenDecimal": 102,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#997A8D",
+    "id": "SDpVyRzdgR",
+    "name": "Mountbatten pink",
+    "redDecimal": 153,
+    "greenDecimal": 122,
+    "blueDecimal": 141
+  },
+  {
+    "hexCode": "#9A4EAE",
+    "id": "27lFwAJvbQ",
+    "name": "Purpureus",
+    "redDecimal": 154,
+    "greenDecimal": 78,
+    "blueDecimal": 174
+  },
+  {
+    "hexCode": "#9AB973",
+    "id": "i7GLCXeQcE",
+    "name": "Olivine",
+    "redDecimal": 154,
+    "greenDecimal": 185,
+    "blueDecimal": 115
+  },
+  {
+    "hexCode": "#9ACD32",
+    "id": "cqjQUJ7g9L",
+    "name": "Yellow-green",
+    "redDecimal": 154,
+    "greenDecimal": 205,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#9B111E",
+    "id": "gbRdOx1qHW",
+    "name": "Ruby red",
+    "redDecimal": 155,
+    "greenDecimal": 17,
+    "blueDecimal": 30
+  },
+  {
+    "hexCode": "#9BC4E2",
+    "id": "uyLEvckCEj",
+    "name": "Pale cerulean",
+    "redDecimal": 155,
+    "greenDecimal": 196,
+    "blueDecimal": 226
+  },
+  {
+    "hexCode": "#9C2542",
+    "id": "etq9XCE5Nl",
+    "name": "Big dip o’ruby",
+    "redDecimal": 156,
+    "greenDecimal": 37,
+    "blueDecimal": 66
+  },
+  {
+    "hexCode": "#9C51B6",
+    "id": "un0yPTESyB",
+    "name": "Purple Plum",
+    "redDecimal": 156,
+    "greenDecimal": 81,
+    "blueDecimal": 182
+  },
+  {
+    "hexCode": "#9C7C38",
+    "id": "tdgcZHZjwd",
+    "name": "Metallic Sunburst",
+    "redDecimal": 156,
+    "greenDecimal": 124,
+    "blueDecimal": 56
+  },
+  {
+    "hexCode": "#9E1B32",
+    "id": "X69ISKbQfq",
+    "name": "Crimson (UA)",
+    "redDecimal": 158,
+    "greenDecimal": 27,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#9E5E6F",
+    "id": "UhtO8AYyFR",
+    "name": "Rose Dust",
+    "redDecimal": 158,
+    "greenDecimal": 94,
+    "blueDecimal": 111
+  },
+  {
+    "hexCode": "#9EFD38",
+    "id": "gI6GZaNfQa",
+    "name": "French lime",
+    "redDecimal": 158,
+    "greenDecimal": 253,
+    "blueDecimal": 56
+  },
+  {
+    "hexCode": "#9F00C5",
+    "id": "ynDhyx7pSE",
+    "name": "Purple (Munsell)",
+    "redDecimal": 159,
+    "greenDecimal": 0,
+    "blueDecimal": 197
+  },
+  {
+    "hexCode": "#9F00FF",
+    "id": "yiSqgPgrl8",
+    "name": "Vivid violet",
+    "redDecimal": 159,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#9F1D35",
+    "id": "k6IeRhjmEJ",
+    "name": "Vivid burgundy",
+    "redDecimal": 159,
+    "greenDecimal": 29,
+    "blueDecimal": 53
+  },
+  {
+    "hexCode": "#9F2B68",
+    "id": "lyVPACqwjE",
+    "name": "Amaranth (M&P)",
+    "redDecimal": 159,
+    "greenDecimal": 43,
+    "blueDecimal": 104
+  },
+  {
+    "hexCode": "#9F4576",
+    "id": "hsgXPzoBDa",
+    "name": "Magenta haze",
+    "redDecimal": 159,
+    "greenDecimal": 69,
+    "blueDecimal": 118
+  },
+  {
+    "hexCode": "#9F8170",
+    "id": "PHyhixzDEX",
+    "name": "Beaver",
+    "redDecimal": 159,
+    "greenDecimal": 129,
+    "blueDecimal": 112
+  },
+  {
+    "hexCode": "#9FA91F",
+    "id": "0D1Ct58jos",
+    "name": "Citron",
+    "redDecimal": 159,
+    "greenDecimal": 169,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#A020F0",
+    "id": "q2BLKBfO5e",
+    "name": "Purple (X11)",
+    "redDecimal": 160,
+    "greenDecimal": 32,
+    "blueDecimal": 240
+  },
+  {
+    "hexCode": "#A020F0",
+    "id": "mfNXJkz5k4",
+    "name": "Veronica",
+    "redDecimal": 160,
+    "greenDecimal": 32,
+    "blueDecimal": 240
+  },
+  {
+    "hexCode": "#A0D6B4",
+    "id": "DrH3O90mZ2",
+    "name": "Turquoise green",
+    "redDecimal": 160,
+    "greenDecimal": 214,
+    "blueDecimal": 180
+  },
+  {
+    "hexCode": "#A17A74",
+    "id": "8RcAXxeEPt",
+    "name": "Burnished brown",
+    "redDecimal": 161,
+    "greenDecimal": 122,
+    "blueDecimal": 116
+  },
+  {
+    "hexCode": "#A1CAF1",
+    "id": "1uy6DstFEa",
+    "name": "Baby blue eyes",
+    "redDecimal": 161,
+    "greenDecimal": 202,
+    "blueDecimal": 241
+  },
+  {
+    "hexCode": "#A2006D",
+    "id": "B3dhSlI0r4",
+    "name": "Flirt",
+    "redDecimal": 162,
+    "greenDecimal": 0,
+    "blueDecimal": 109
+  },
+  {
+    "hexCode": "#A2A2D0",
+    "id": "LKwMdvr3YF",
+    "name": "Blue bell",
+    "redDecimal": 162,
+    "greenDecimal": 162,
+    "blueDecimal": 208
+  },
+  {
+    "hexCode": "#A2ADD0",
+    "id": "8OcGPh9a8G",
+    "name": "Wild blue yonder",
+    "redDecimal": 162,
+    "greenDecimal": 173,
+    "blueDecimal": 208
+  },
+  {
+    "hexCode": "#A3C1AD",
+    "id": "1kWZkFRzbh",
+    "name": "Cambridge blue",
+    "redDecimal": 163,
+    "greenDecimal": 193,
+    "blueDecimal": 173
+  },
+  {
+    "hexCode": "#A45A52",
+    "id": "nrrosIQ4Yt",
+    "name": "Redwood",
+    "redDecimal": 164,
+    "greenDecimal": 90,
+    "blueDecimal": 82
+  },
+  {
+    "hexCode": "#A4C639",
+    "id": "lxXmKtDXkS",
+    "name": "Android green",
+    "redDecimal": 164,
+    "greenDecimal": 198,
+    "blueDecimal": 57
+  },
+  {
+    "hexCode": "#A4DDED",
+    "id": "jxe2wbeKiO",
+    "name": "Non-photo blue",
+    "redDecimal": 164,
+    "greenDecimal": 221,
+    "blueDecimal": 237
+  },
+  {
+    "hexCode": "#A50B5E",
+    "id": "mm1gE8u6pI",
+    "name": "Jazzberry jam",
+    "redDecimal": 165,
+    "greenDecimal": 11,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#A52A2A",
+    "id": "bq8Vbk0ASj",
+    "name": "Auburn",
+    "redDecimal": 165,
+    "greenDecimal": 42,
+    "blueDecimal": 42
+  },
+  {
+    "hexCode": "#A55353",
+    "id": "OD05M5lmew",
+    "name": "Middle red purple",
+    "redDecimal": 165,
+    "greenDecimal": 83,
+    "blueDecimal": 83
+  },
+  {
+    "hexCode": "#A57164",
+    "id": "gTJYPuNazN",
+    "name": "Blast-off bronze",
+    "redDecimal": 165,
+    "greenDecimal": 113,
+    "blueDecimal": 100
+  },
+  {
+    "hexCode": "#A57C00",
+    "id": "MvkZZjekB6",
+    "name": "Gold",
+    "redDecimal": 165,
+    "greenDecimal": 124,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#A63A79",
+    "id": "JTSoPaof7p",
+    "name": "Maximum red purple",
+    "redDecimal": 166,
+    "greenDecimal": 58,
+    "blueDecimal": 121
+  },
+  {
+    "hexCode": "#A67B5B",
+    "id": "mxwNjL6crG",
+    "name": "Café au lait",
+    "redDecimal": 166,
+    "greenDecimal": 123,
+    "blueDecimal": 91
+  },
+  {
+    "hexCode": "#A67B5B",
+    "id": "GrGfXNDQ6Y",
+    "name": "French beige",
+    "redDecimal": 166,
+    "greenDecimal": 123,
+    "blueDecimal": 91
+  },
+  {
+    "hexCode": "#A67B5B",
+    "id": "CVmkwQhN6x",
+    "name": "Tuscan tan",
+    "redDecimal": 166,
+    "greenDecimal": 123,
+    "blueDecimal": 91
+  },
+  {
+    "hexCode": "#A6A6A6",
+    "id": "yo5XXrZ1HX",
+    "name": "Quick Silver",
+    "redDecimal": 166,
+    "greenDecimal": 166,
+    "blueDecimal": 166
+  },
+  {
+    "hexCode": "#A75502",
+    "id": "oLiF11IQUH",
+    "name": "Windsor tan",
+    "redDecimal": 167,
+    "greenDecimal": 85,
+    "blueDecimal": 2
+  },
+  {
+    "hexCode": "#A7F432",
+    "id": "dcLZCZazBi",
+    "name": "Green Lizard",
+    "redDecimal": 167,
+    "greenDecimal": 244,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#A7FC00",
+    "id": "oSn2eSUVF4",
+    "name": "Spring bud",
+    "redDecimal": 167,
+    "greenDecimal": 252,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#A81C07",
+    "id": "OKnTnHqNGv",
+    "name": "Rufous",
+    "redDecimal": 168,
+    "greenDecimal": 28,
+    "blueDecimal": 7
+  },
+  {
+    "hexCode": "#A83731",
+    "id": "cHMB4VbilF",
+    "name": "Sweet Brown",
+    "redDecimal": 168,
+    "greenDecimal": 55,
+    "blueDecimal": 49
+  },
+  {
+    "hexCode": "#A8516E",
+    "id": "QEpRulIvCK",
+    "name": "China rose",
+    "redDecimal": 168,
+    "greenDecimal": 81,
+    "blueDecimal": 110
+  },
+  {
+    "hexCode": "#A8C3BC",
+    "id": "r2Yf4hVQ6C",
+    "name": "Opal",
+    "redDecimal": 168,
+    "greenDecimal": 195,
+    "blueDecimal": 188
+  },
+  {
+    "hexCode": "#A8E4A0",
+    "id": "EBJkewqHWO",
+    "name": "Granny Smith apple",
+    "redDecimal": 168,
+    "greenDecimal": 228,
+    "blueDecimal": 160
+  },
+  {
+    "hexCode": "#A99A86",
+    "id": "GpXSy0N7Me",
+    "name": "Grullo",
+    "redDecimal": 169,
+    "greenDecimal": 154,
+    "blueDecimal": 134
+  },
+  {
+    "hexCode": "#A9B2C3",
+    "id": "oYH1hkDzHu",
+    "name": "Cadet blue (Crayola)",
+    "redDecimal": 169,
+    "greenDecimal": 178,
+    "blueDecimal": 195
+  },
+  {
+    "hexCode": "#A9BA9D",
+    "id": "EUcKIYMLMK",
+    "name": "Laurel green",
+    "redDecimal": 169,
+    "greenDecimal": 186,
+    "blueDecimal": 157
+  },
+  {
+    "hexCode": "#AA381E",
+    "id": "6nWcNzNjuV",
+    "name": "Chinese red",
+    "redDecimal": 170,
+    "greenDecimal": 56,
+    "blueDecimal": 30
+  },
+  {
+    "hexCode": "#AA98A9",
+    "id": "r1ZTsjAXb9",
+    "name": "Heliotrope gray",
+    "redDecimal": 170,
+    "greenDecimal": 152,
+    "blueDecimal": 169
+  },
+  {
+    "hexCode": "#AA98A9",
+    "id": "GeXz2LaJ7K",
+    "name": "Rose quartz",
+    "redDecimal": 170,
+    "greenDecimal": 152,
+    "blueDecimal": 169
+  },
+  {
+    "hexCode": "#AAA9AD",
+    "id": "DDX3HNiEHC",
+    "name": "Silver (Metallic)",
+    "redDecimal": 170,
+    "greenDecimal": 169,
+    "blueDecimal": 173
+  },
+  {
+    "hexCode": "#AAF0D1",
+    "id": "AtgcegUmEF",
+    "name": "Magic mint",
+    "redDecimal": 170,
+    "greenDecimal": 240,
+    "blueDecimal": 209
+  },
+  {
+    "hexCode": "#AB274F",
+    "id": "zeJK2qSI5k",
+    "name": "Amaranth purple",
+    "redDecimal": 171,
+    "greenDecimal": 39,
+    "blueDecimal": 79
+  },
+  {
+    "hexCode": "#AB4B52",
+    "id": "DwJWRCBADt",
+    "name": "English red",
+    "redDecimal": 171,
+    "greenDecimal": 75,
+    "blueDecimal": 82
+  },
+  {
+    "hexCode": "#AB4E52",
+    "id": "Yhg5HokcAb",
+    "name": "Rose vale",
+    "redDecimal": 171,
+    "greenDecimal": 78,
+    "blueDecimal": 82
+  },
+  {
+    "hexCode": "#AB92B3",
+    "id": "iYPI8gDFcC",
+    "name": "Glossy grape",
+    "redDecimal": 171,
+    "greenDecimal": 146,
+    "blueDecimal": 179
+  },
+  {
+    "hexCode": "#ACACAC",
+    "id": "oS2vFbDyBa",
+    "name": "Silver chalice",
+    "redDecimal": 172,
+    "greenDecimal": 172,
+    "blueDecimal": 172
+  },
+  {
+    "hexCode": "#ACACE6",
+    "id": "pNaIPrQq1U",
+    "name": "Maximum blue purple",
+    "redDecimal": 172,
+    "greenDecimal": 172,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#ACBF60",
+    "id": "7RnObynUAX",
+    "name": "Middle green yellow",
+    "redDecimal": 172,
+    "greenDecimal": 191,
+    "blueDecimal": 96
+  },
+  {
+    "hexCode": "#ACE1AF",
+    "id": "eFfuZCCk1H",
+    "name": "Celadon",
+    "redDecimal": 172,
+    "greenDecimal": 225,
+    "blueDecimal": 175
+  },
+  {
+    "hexCode": "#ACE5EE",
+    "id": "Ud6YndAn87",
+    "name": "Blizzard blue",
+    "redDecimal": 172,
+    "greenDecimal": 229,
+    "blueDecimal": 238
+  },
+  {
+    "hexCode": "#AD4379",
+    "id": "BEUa5fkOFR",
+    "name": "Mystic maroon",
+    "redDecimal": 173,
+    "greenDecimal": 67,
+    "blueDecimal": 121
+  },
+  {
+    "hexCode": "#AD6F69",
+    "id": "Fvv4XRwG1T",
+    "name": "Copper penny",
+    "redDecimal": 173,
+    "greenDecimal": 111,
+    "blueDecimal": 105
+  },
+  {
+    "hexCode": "#ADD8E6",
+    "id": "zlgy5ZFeXV",
+    "name": "Light blue",
+    "redDecimal": 173,
+    "greenDecimal": 216,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#ADFF2F",
+    "id": "iEnF4AQRk9",
+    "name": "Green-yellow",
+    "redDecimal": 173,
+    "greenDecimal": 255,
+    "blueDecimal": 47
+  },
+  {
+    "hexCode": "#AE2029",
+    "id": "Nfbq4AyS6P",
+    "name": "Upsdell red",
+    "redDecimal": 174,
+    "greenDecimal": 32,
+    "blueDecimal": 41
+  },
+  {
+    "hexCode": "#AE98AA",
+    "id": "68gErp0wJt",
+    "name": "Lilac Luster",
+    "redDecimal": 174,
+    "greenDecimal": 152,
+    "blueDecimal": 170
+  },
+  {
+    "hexCode": "#AF4035",
+    "id": "yzyOXn4PZu",
+    "name": "Medium carmine",
+    "redDecimal": 175,
+    "greenDecimal": 64,
+    "blueDecimal": 53
+  },
+  {
+    "hexCode": "#AF6E4D",
+    "id": "HQbFiFRaeN",
+    "name": "Brown sugar",
+    "redDecimal": 175,
+    "greenDecimal": 110,
+    "blueDecimal": 77
+  },
+  {
+    "hexCode": "#AFDBF5",
+    "id": "QFpAX0FTfm",
+    "name": "Uranian blue",
+    "redDecimal": 175,
+    "greenDecimal": 219,
+    "blueDecimal": 245
+  },
+  {
+    "hexCode": "#B03060",
+    "id": "pArjZ4a2wH",
+    "name": "Maroon (X11)",
+    "redDecimal": 176,
+    "greenDecimal": 48,
+    "blueDecimal": 96
+  },
+  {
+    "hexCode": "#B0BF1A",
+    "id": "F0nTcwK922",
+    "name": "Acid green",
+    "redDecimal": 176,
+    "greenDecimal": 191,
+    "blueDecimal": 26
+  },
+  {
+    "hexCode": "#B0C4DE",
+    "id": "dLmuxBEVu8",
+    "name": "Light steel blue",
+    "redDecimal": 176,
+    "greenDecimal": 196,
+    "blueDecimal": 222
+  },
+  {
+    "hexCode": "#B0E0E6",
+    "id": "fmYxuEY9jq",
+    "name": "Powder blue",
+    "redDecimal": 176,
+    "greenDecimal": 224,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#B22222",
+    "id": "4zJgo4PEIl",
+    "name": "Firebrick",
+    "redDecimal": 178,
+    "greenDecimal": 34,
+    "blueDecimal": 34
+  },
+  {
+    "hexCode": "#B284BE",
+    "id": "hFEWNWbkPN",
+    "name": "African violet",
+    "redDecimal": 178,
+    "greenDecimal": 132,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#B2BEB5",
+    "id": "m9xFE1HEvo",
+    "name": "Ash gray",
+    "redDecimal": 178,
+    "greenDecimal": 190,
+    "blueDecimal": 181
+  },
+  {
+    "hexCode": "#B2EC5D",
+    "id": "5y6sVWEPBb",
+    "name": "Inchworm",
+    "redDecimal": 178,
+    "greenDecimal": 236,
+    "blueDecimal": 93
+  },
+  {
+    "hexCode": "#B2FFFF",
+    "id": "AiqWHIldaI",
+    "name": "Celeste",
+    "redDecimal": 178,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#B2FFFF",
+    "id": "WDXsFSB4UN",
+    "name": "Italian sky blue",
+    "redDecimal": 178,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#B31B1B",
+    "id": "HD5RqI27Fn",
+    "name": "Carnelian",
+    "redDecimal": 179,
+    "greenDecimal": 27,
+    "blueDecimal": 27
+  },
+  {
+    "hexCode": "#B3446C",
+    "id": "M6kxYFQydJ",
+    "name": "Irresistible",
+    "redDecimal": 179,
+    "greenDecimal": 68,
+    "blueDecimal": 108
+  },
+  {
+    "hexCode": "#B3446C",
+    "id": "3LsXCjBy4A",
+    "name": "Raspberry rose",
+    "redDecimal": 179,
+    "greenDecimal": 68,
+    "blueDecimal": 108
+  },
+  {
+    "hexCode": "#B48395",
+    "id": "IEpEO0szLD",
+    "name": "English lavender",
+    "redDecimal": 180,
+    "greenDecimal": 131,
+    "blueDecimal": 149
+  },
+  {
+    "hexCode": "#B53389",
+    "id": "e3fneaIWRG",
+    "name": "Fandango",
+    "redDecimal": 181,
+    "greenDecimal": 51,
+    "blueDecimal": 137
+  },
+  {
+    "hexCode": "#B57EDC",
+    "id": "aLjiPhxt0h",
+    "name": "Lavender (floral)",
+    "redDecimal": 181,
+    "greenDecimal": 126,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#B5B35C",
+    "id": "cDLyM7w1Dq",
+    "name": "Olive green",
+    "redDecimal": 181,
+    "greenDecimal": 179,
+    "blueDecimal": 92
+  },
+  {
+    "hexCode": "#B7410E",
+    "id": "Jd3rzKxGlV",
+    "name": "Rust",
+    "redDecimal": 183,
+    "greenDecimal": 65,
+    "blueDecimal": 14
+  },
+  {
+    "hexCode": "#B768A2",
+    "id": "EoArbunP7m",
+    "name": "Pearly purple",
+    "redDecimal": 183,
+    "greenDecimal": 104,
+    "blueDecimal": 162
+  },
+  {
+    "hexCode": "#B784A7",
+    "id": "5GEo5HSUaH",
+    "name": "Opera mauve",
+    "redDecimal": 183,
+    "greenDecimal": 132,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#B86D29",
+    "id": "3hpMaUNHdc",
+    "name": "Liver (dogs)",
+    "redDecimal": 184,
+    "greenDecimal": 109,
+    "blueDecimal": 41
+  },
+  {
+    "hexCode": "#B87333",
+    "id": "wnGuYnO9IS",
+    "name": "Copper",
+    "redDecimal": 184,
+    "greenDecimal": 115,
+    "blueDecimal": 51
+  },
+  {
+    "hexCode": "#B8860B",
+    "id": "isHVHGiC8h",
+    "name": "Dark goldenrod",
+    "redDecimal": 184,
+    "greenDecimal": 134,
+    "blueDecimal": 11
+  },
+  {
+    "hexCode": "#B94E48",
+    "id": "DCusqRKh93",
+    "name": "Deep chestnut",
+    "redDecimal": 185,
+    "greenDecimal": 78,
+    "blueDecimal": 72
+  },
+  {
+    "hexCode": "#B9D9EB",
+    "id": "aEzZ6nscbq",
+    "name": "Columbia Blue",
+    "redDecimal": 185,
+    "greenDecimal": 217,
+    "blueDecimal": 235
+  },
+  {
+    "hexCode": "#BA160C",
+    "id": "Xm4hTvPANO",
+    "name": "International orange",
+    "redDecimal": 186,
+    "greenDecimal": 22,
+    "blueDecimal": 12
+  },
+  {
+    "hexCode": "#BA55D3",
+    "id": "fkBS1SJVnH",
+    "name": "Medium orchid",
+    "redDecimal": 186,
+    "greenDecimal": 85,
+    "blueDecimal": 211
+  },
+  {
+    "hexCode": "#BBB477",
+    "id": "KOEcI2ejV8",
+    "name": "Misty moss",
+    "redDecimal": 187,
+    "greenDecimal": 180,
+    "blueDecimal": 119
+  },
+  {
+    "hexCode": "#BC8F8F",
+    "id": "TRSqIlDKYR",
+    "name": "Rosy brown",
+    "redDecimal": 188,
+    "greenDecimal": 143,
+    "blueDecimal": 143
+  },
+  {
+    "hexCode": "#BCB88A",
+    "id": "mAxCf5Pp2A",
+    "name": "Sage",
+    "redDecimal": 188,
+    "greenDecimal": 184,
+    "blueDecimal": 138
+  },
+  {
+    "hexCode": "#BCD4E6",
+    "id": "rLZnPitdD0",
+    "name": "Beau blue",
+    "redDecimal": 188,
+    "greenDecimal": 212,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#BCD4E6",
+    "id": "HutrANikdc",
+    "name": "Pale aqua",
+    "redDecimal": 188,
+    "greenDecimal": 212,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#BD33A4",
+    "id": "TRL5ZovrJ2",
+    "name": "Byzantine",
+    "redDecimal": 189,
+    "greenDecimal": 51,
+    "blueDecimal": 164
+  },
+  {
+    "hexCode": "#BDB76B",
+    "id": "rWvW6yNAeR",
+    "name": "Dark khaki",
+    "redDecimal": 189,
+    "greenDecimal": 183,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#BDDA57",
+    "id": "kYKmW8mllu",
+    "name": "June bud",
+    "redDecimal": 189,
+    "greenDecimal": 218,
+    "blueDecimal": 87
+  },
+  {
+    "hexCode": "#BE4F62",
+    "id": "nQBL1Ok3Dg",
+    "name": "Popstar",
+    "redDecimal": 190,
+    "greenDecimal": 79,
+    "blueDecimal": 98
+  },
+  {
+    "hexCode": "#BEBEBE",
+    "id": "NPB5eTT6yV",
+    "name": "Gray (X11 gray)",
+    "redDecimal": 190,
+    "greenDecimal": 190,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#BF00FF",
+    "id": "NAbfFf8UKB",
+    "name": "Electric purple",
+    "redDecimal": 191,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#BF4F51",
+    "id": "uramfD0ZsU",
+    "name": "Bittersweet shimmer",
+    "redDecimal": 191,
+    "greenDecimal": 79,
+    "blueDecimal": 81
+  },
+  {
+    "hexCode": "#BFAFB2",
+    "id": "XVq2EcBE67",
+    "name": "Black Shadows",
+    "redDecimal": 191,
+    "greenDecimal": 175,
+    "blueDecimal": 178
+  },
+  {
+    "hexCode": "#BFC1C2",
+    "id": "upM2v020KJ",
+    "name": "Silver sand",
+    "redDecimal": 191,
+    "greenDecimal": 193,
+    "blueDecimal": 194
+  },
+  {
+    "hexCode": "#BFFF00",
+    "id": "hR9EsAOTPu",
+    "name": "Bitter lime",
+    "redDecimal": 191,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#BFFF00",
+    "id": "V1wIeTtK7J",
+    "name": "Lime (color wheel)",
+    "redDecimal": 191,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#C0362C",
+    "id": "jVT4HHdbFk",
+    "name": "International orange",
+    "redDecimal": 192,
+    "greenDecimal": 54,
+    "blueDecimal": 44
+  },
+  {
+    "hexCode": "#C04000",
+    "id": "1mQt9i1xyq",
+    "name": "Mahogany",
+    "redDecimal": 192,
+    "greenDecimal": 64,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#C0448F",
+    "id": "alG0GZnJ8m",
+    "name": "Red-violet (Crayola)",
+    "redDecimal": 192,
+    "greenDecimal": 68,
+    "blueDecimal": 143
+  },
+  {
+    "hexCode": "#C08081",
+    "id": "75xzHLWmuJ",
+    "name": "Old rose",
+    "redDecimal": 192,
+    "greenDecimal": 128,
+    "blueDecimal": 129
+  },
+  {
+    "hexCode": "#C09999",
+    "id": "Yfz8nDmHvP",
+    "name": "Tuscany",
+    "redDecimal": 192,
+    "greenDecimal": 153,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#C0C0C0",
+    "id": "u5DQowUFBG",
+    "name": "Silver",
+    "redDecimal": 192,
+    "greenDecimal": 192,
+    "blueDecimal": 192
+  },
+  {
+    "hexCode": "#C154C1",
+    "id": "J7yYBVyexB",
+    "name": "Fuchsia (Crayola)",
+    "redDecimal": 193,
+    "greenDecimal": 84,
+    "blueDecimal": 193
+  },
+  {
+    "hexCode": "#C19A6B",
+    "id": "F9eVvyPjye",
+    "name": "Camel",
+    "redDecimal": 193,
+    "greenDecimal": 154,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#C19A6B",
+    "id": "2LM8qJuaBo",
+    "name": "Desert",
+    "redDecimal": 193,
+    "greenDecimal": 154,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#C19A6B",
+    "id": "0XCyXVIDyx",
+    "name": "Fallow",
+    "redDecimal": 193,
+    "greenDecimal": 154,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#C19A6B",
+    "id": "Pb3TpqlsiP",
+    "name": "Lion",
+    "redDecimal": 193,
+    "greenDecimal": 154,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#C19A6B",
+    "id": "zBCJcOFaDQ",
+    "name": "Wood brown",
+    "redDecimal": 193,
+    "greenDecimal": 154,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#C21E56",
+    "id": "KSOUYW9SZI",
+    "name": "Rose red",
+    "redDecimal": 194,
+    "greenDecimal": 30,
+    "blueDecimal": 86
+  },
+  {
+    "hexCode": "#C2B280",
+    "id": "BhrOQeUTEj",
+    "name": "Ecru",
+    "redDecimal": 194,
+    "greenDecimal": 178,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#C2B280",
+    "id": "Rak8ifmYCQ",
+    "name": "Sand",
+    "redDecimal": 194,
+    "greenDecimal": 178,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#C30B4E",
+    "id": "zq94ikS6QJ",
+    "name": "Pictorial carmine",
+    "redDecimal": 195,
+    "greenDecimal": 11,
+    "blueDecimal": 78
+  },
+  {
+    "hexCode": "#C32148",
+    "id": "jwTKINnMAV",
+    "name": "Bright maroon",
+    "redDecimal": 195,
+    "greenDecimal": 33,
+    "blueDecimal": 72
+  },
+  {
+    "hexCode": "#C32148",
+    "id": "6e7qBVps8P",
+    "name": "Maroon (Crayola)",
+    "redDecimal": 195,
+    "greenDecimal": 33,
+    "blueDecimal": 72
+  },
+  {
+    "hexCode": "#C3B091",
+    "id": "c6FHgyC7v4",
+    "name": "Khaki (web)",
+    "redDecimal": 195,
+    "greenDecimal": 176,
+    "blueDecimal": 145
+  },
+  {
+    "hexCode": "#C3CDE6",
+    "id": "WRn6JRav3c",
+    "name": "Periwinkle (Crayola)",
+    "redDecimal": 195,
+    "greenDecimal": 205,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#C40233",
+    "id": "Tasx878Jde",
+    "name": "Red (NCS)",
+    "redDecimal": 196,
+    "greenDecimal": 2,
+    "blueDecimal": 51
+  },
+  {
+    "hexCode": "#C41E3A",
+    "id": "Tzk1s5R0XO",
+    "name": "Cardinal",
+    "redDecimal": 196,
+    "greenDecimal": 30,
+    "blueDecimal": 58
+  },
+  {
+    "hexCode": "#C46210",
+    "id": "DPhJlQJ3F0",
+    "name": "Alloy orange",
+    "redDecimal": 196,
+    "greenDecimal": 98,
+    "blueDecimal": 16
+  },
+  {
+    "hexCode": "#C4AEAD",
+    "id": "SsEKa3wZGQ",
+    "name": "Silver pink",
+    "redDecimal": 196,
+    "greenDecimal": 174,
+    "blueDecimal": 173
+  },
+  {
+    "hexCode": "#C4C3D0",
+    "id": "LqQqvne0BU",
+    "name": "Lavender gray",
+    "redDecimal": 196,
+    "greenDecimal": 195,
+    "blueDecimal": 208
+  },
+  {
+    "hexCode": "#C54B8C",
+    "id": "7PCogf0w6j",
+    "name": "Mulberry",
+    "redDecimal": 197,
+    "greenDecimal": 75,
+    "blueDecimal": 140
+  },
+  {
+    "hexCode": "#C5B358",
+    "id": "yHfwZdKJfO",
+    "name": "Vegas gold",
+    "redDecimal": 197,
+    "greenDecimal": 179,
+    "blueDecimal": 88
+  },
+  {
+    "hexCode": "#C5CBE1",
+    "id": "5z6LcIVxFx",
+    "name": "Light periwinkle",
+    "redDecimal": 197,
+    "greenDecimal": 203,
+    "blueDecimal": 225
+  },
+  {
+    "hexCode": "#C5E384",
+    "id": "9IYQ87BLd0",
+    "name": "Yellow-green (Crayola)",
+    "redDecimal": 197,
+    "greenDecimal": 227,
+    "blueDecimal": 132
+  },
+  {
+    "hexCode": "#C71585",
+    "id": "7AqlbL3TE5",
+    "name": "Medium violet-red",
+    "redDecimal": 199,
+    "greenDecimal": 21,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#C71585",
+    "id": "9vUH24yveE",
+    "name": "Red-violet",
+    "redDecimal": 199,
+    "greenDecimal": 21,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#C72C48",
+    "id": "UaLvljI9kQ",
+    "name": "French raspberry",
+    "redDecimal": 199,
+    "greenDecimal": 44,
+    "blueDecimal": 72
+  },
+  {
+    "hexCode": "#C74375",
+    "id": "gG4ODhqAdX",
+    "name": "Fuchsia rose",
+    "redDecimal": 199,
+    "greenDecimal": 67,
+    "blueDecimal": 117
+  },
+  {
+    "hexCode": "#C80815",
+    "id": "lAdd1KZWlf",
+    "name": "Venetian red",
+    "redDecimal": 200,
+    "greenDecimal": 8,
+    "blueDecimal": 21
+  },
+  {
+    "hexCode": "#C84186",
+    "id": "2KVVVHdQb5",
+    "name": "Smitten",
+    "redDecimal": 200,
+    "greenDecimal": 65,
+    "blueDecimal": 134
+  },
+  {
+    "hexCode": "#C8509B",
+    "id": "AgCcVwlYdB",
+    "name": "Mulberry (Crayola)",
+    "redDecimal": 200,
+    "greenDecimal": 80,
+    "blueDecimal": 155
+  },
+  {
+    "hexCode": "#C8A2C8",
+    "id": "L3Cvdnh64O",
+    "name": "Lilac",
+    "redDecimal": 200,
+    "greenDecimal": 162,
+    "blueDecimal": 200
+  },
+  {
+    "hexCode": "#C8AD7F",
+    "id": "Z88JUvL9wy",
+    "name": "Light French beige",
+    "redDecimal": 200,
+    "greenDecimal": 173,
+    "blueDecimal": 127
+  },
+  {
+    "hexCode": "#C95A49",
+    "id": "lyaUfmgUGB",
+    "name": "Cedar Chest",
+    "redDecimal": 201,
+    "greenDecimal": 90,
+    "blueDecimal": 73
+  },
+  {
+    "hexCode": "#C9A0DC",
+    "id": "n3lXXuowRE",
+    "name": "Wisteria",
+    "redDecimal": 201,
+    "greenDecimal": 160,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#C9C0BB",
+    "id": "hwMEUd91BI",
+    "name": "Pale silver",
+    "redDecimal": 201,
+    "greenDecimal": 192,
+    "blueDecimal": 187
+  },
+  {
+    "hexCode": "#C9C0BB",
+    "id": "28hawrgrhp",
+    "name": "Silver (Crayola)",
+    "redDecimal": 201,
+    "greenDecimal": 192,
+    "blueDecimal": 187
+  },
+  {
+    "hexCode": "#C9FFE5",
+    "id": "lAWncOoL5W",
+    "name": "Aero blue",
+    "redDecimal": 201,
+    "greenDecimal": 255,
+    "blueDecimal": 229
+  },
+  {
+    "hexCode": "#CA1F7B",
+    "id": "jcEvaAsHXp",
+    "name": "Magenta (dye)",
+    "redDecimal": 202,
+    "greenDecimal": 31,
+    "blueDecimal": 123
+  },
+  {
+    "hexCode": "#CAE00D",
+    "id": "Mo2kE05yco",
+    "name": "Bitter lemon",
+    "redDecimal": 202,
+    "greenDecimal": 224,
+    "blueDecimal": 13
+  },
+  {
+    "hexCode": "#CB410B",
+    "id": "U2lBqZsXEC",
+    "name": "Sinopia",
+    "redDecimal": 203,
+    "greenDecimal": 65,
+    "blueDecimal": 11
+  },
+  {
+    "hexCode": "#CB4154",
+    "id": "cnrkoTnXmC",
+    "name": "Brick red",
+    "redDecimal": 203,
+    "greenDecimal": 65,
+    "blueDecimal": 84
+  },
+  {
+    "hexCode": "#CB6D51",
+    "id": "G6tHahOUj3",
+    "name": "Copper red",
+    "redDecimal": 203,
+    "greenDecimal": 109,
+    "blueDecimal": 81
+  },
+  {
+    "hexCode": "#CBA135",
+    "id": "HrR8qYdfGJ",
+    "name": "Satin sheen gold",
+    "redDecimal": 203,
+    "greenDecimal": 161,
+    "blueDecimal": 53
+  },
+  {
+    "hexCode": "#CC3333",
+    "id": "hNDqLjHbBR",
+    "name": "Persian red",
+    "redDecimal": 204,
+    "greenDecimal": 51,
+    "blueDecimal": 51
+  },
+  {
+    "hexCode": "#CC3336",
+    "id": "JjhhKTxGTi",
+    "name": "Madder Lake",
+    "redDecimal": 204,
+    "greenDecimal": 51,
+    "blueDecimal": 54
+  },
+  {
+    "hexCode": "#CC33CC",
+    "id": "rDiIAte48B",
+    "name": "Steel pink",
+    "redDecimal": 204,
+    "greenDecimal": 51,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#CC397B",
+    "id": "wmRmCLKqkZ",
+    "name": "Fuchsia purple",
+    "redDecimal": 204,
+    "greenDecimal": 57,
+    "blueDecimal": 123
+  },
+  {
+    "hexCode": "#CC474B",
+    "id": "yMSdkqxoOn",
+    "name": "English vermillion",
+    "redDecimal": 204,
+    "greenDecimal": 71,
+    "blueDecimal": 75
+  },
+  {
+    "hexCode": "#CC5500",
+    "id": "A7Z3Qou4KZ",
+    "name": "Burnt orange",
+    "redDecimal": 204,
+    "greenDecimal": 85,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#CC7722",
+    "id": "EN2gMg9OW1",
+    "name": "Ochre",
+    "redDecimal": 204,
+    "greenDecimal": 119,
+    "blueDecimal": 34
+  },
+  {
+    "hexCode": "#CC8899",
+    "id": "ZHykTXvNAD",
+    "name": "Puce",
+    "redDecimal": 204,
+    "greenDecimal": 136,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#CCA01D",
+    "id": "ILGnpcTUOm",
+    "name": "Lemon curry",
+    "redDecimal": 204,
+    "greenDecimal": 160,
+    "blueDecimal": 29
+  },
+  {
+    "hexCode": "#CCCCFF",
+    "id": "pM6gsRR8QD",
+    "name": "Lavender blue",
+    "redDecimal": 204,
+    "greenDecimal": 204,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#CCCCFF",
+    "id": "Gx6n6nNPTr",
+    "name": "Periwinkle",
+    "redDecimal": 204,
+    "greenDecimal": 204,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#CCFF00",
+    "id": "XJMG5tDbA8",
+    "name": "Electric lime",
+    "redDecimal": 204,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#CD5700",
+    "id": "J9h0LJabH2",
+    "name": "Tenné (tawny)",
+    "redDecimal": 205,
+    "greenDecimal": 87,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#CD5C5C",
+    "id": "RuXU7BHh07",
+    "name": "Indian red",
+    "redDecimal": 205,
+    "greenDecimal": 92,
+    "blueDecimal": 92
+  },
+  {
+    "hexCode": "#CD607E",
+    "id": "Gf3Q6mCBgi",
+    "name": "Cinnamon Satin",
+    "redDecimal": 205,
+    "greenDecimal": 96,
+    "blueDecimal": 126
+  },
+  {
+    "hexCode": "#CD7F32",
+    "id": "y02boDo7lJ",
+    "name": "Bronze",
+    "redDecimal": 205,
+    "greenDecimal": 127,
+    "blueDecimal": 50
+  },
+  {
+    "hexCode": "#CD9575",
+    "id": "vShXA4Szyh",
+    "name": "Antique brass",
+    "redDecimal": 205,
+    "greenDecimal": 149,
+    "blueDecimal": 117
+  },
+  {
+    "hexCode": "#CE2029",
+    "id": "1Lo62aLLHM",
+    "name": "Fire engine red",
+    "redDecimal": 206,
+    "greenDecimal": 32,
+    "blueDecimal": 41
+  },
+  {
+    "hexCode": "#CE4676",
+    "id": "MguwOfGjak",
+    "name": "Ruber",
+    "redDecimal": 206,
+    "greenDecimal": 70,
+    "blueDecimal": 118
+  },
+  {
+    "hexCode": "#CEFF00",
+    "id": "YdzijJweRr",
+    "name": "Volt",
+    "redDecimal": 206,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#CF1020",
+    "id": "A8xLxeNBCt",
+    "name": "Lava",
+    "redDecimal": 207,
+    "greenDecimal": 16,
+    "blueDecimal": 32
+  },
+  {
+    "hexCode": "#CF3476",
+    "id": "o1BlmYohmU",
+    "name": "Telemagenta",
+    "redDecimal": 207,
+    "greenDecimal": 52,
+    "blueDecimal": 118
+  },
+  {
+    "hexCode": "#CF6BA9",
+    "id": "icHFRyzqHm",
+    "name": "Super pink",
+    "redDecimal": 207,
+    "greenDecimal": 107,
+    "blueDecimal": 169
+  },
+  {
+    "hexCode": "#CF71AF",
+    "id": "zxEwL2heTV",
+    "name": "Sky magenta",
+    "redDecimal": 207,
+    "greenDecimal": 113,
+    "blueDecimal": 175
+  },
+  {
+    "hexCode": "#CFB53B",
+    "id": "zGFheAIYjH",
+    "name": "Old gold",
+    "redDecimal": 207,
+    "greenDecimal": 181,
+    "blueDecimal": 59
+  },
+  {
+    "hexCode": "#D0417E",
+    "id": "NEF0qdIz7Z",
+    "name": "Magenta (Pantone)",
+    "redDecimal": 208,
+    "greenDecimal": 65,
+    "blueDecimal": 126
+  },
+  {
+    "hexCode": "#D0F0C0",
+    "id": "nw7FtRBFdz",
+    "name": "Tea green",
+    "redDecimal": 208,
+    "greenDecimal": 240,
+    "blueDecimal": 192
+  },
+  {
+    "hexCode": "#D0FF14",
+    "id": "8sVtCH7GNr",
+    "name": "Arctic lime",
+    "redDecimal": 208,
+    "greenDecimal": 255,
+    "blueDecimal": 20
+  },
+  {
+    "hexCode": "#D10047",
+    "id": "RBn0k277jB",
+    "name": "Spanish carmine",
+    "redDecimal": 209,
+    "greenDecimal": 0,
+    "blueDecimal": 71
+  },
+  {
+    "hexCode": "#D10056",
+    "id": "MIwSExeBcC",
+    "name": "Rubine red",
+    "redDecimal": 209,
+    "greenDecimal": 0,
+    "blueDecimal": 86
+  },
+  {
+    "hexCode": "#D1E231",
+    "id": "ImSGIDre1r",
+    "name": "Pear",
+    "redDecimal": 209,
+    "greenDecimal": 226,
+    "blueDecimal": 49
+  },
+  {
+    "hexCode": "#D2691E",
+    "id": "lEGYWgpdDu",
+    "name": "Chocolate (web)",
+    "redDecimal": 210,
+    "greenDecimal": 105,
+    "blueDecimal": 30
+  },
+  {
+    "hexCode": "#D2691E",
+    "id": "TfHhT1HaLB",
+    "name": "Cocoa brown",
+    "redDecimal": 210,
+    "greenDecimal": 105,
+    "blueDecimal": 30
+  },
+  {
+    "hexCode": "#D2B48C",
+    "id": "0Vxo3dUG5X",
+    "name": "Tan",
+    "redDecimal": 210,
+    "greenDecimal": 180,
+    "blueDecimal": 140
+  },
+  {
+    "hexCode": "#D3212D",
+    "id": "tGuAj5afoj",
+    "name": "Amaranth red",
+    "redDecimal": 211,
+    "greenDecimal": 33,
+    "blueDecimal": 45
+  },
+  {
+    "hexCode": "#D3AF37",
+    "id": "s06EwIwKee",
+    "name": "Metallic gold",
+    "redDecimal": 211,
+    "greenDecimal": 175,
+    "blueDecimal": 55
+  },
+  {
+    "hexCode": "#D3D3D3",
+    "id": "vhgSc2SsSX",
+    "name": "Light gray",
+    "redDecimal": 211,
+    "greenDecimal": 211,
+    "blueDecimal": 211
+  },
+  {
+    "hexCode": "#D40000",
+    "id": "zXNjG6vGmX",
+    "name": "Rosso corsa",
+    "redDecimal": 212,
+    "greenDecimal": 0,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#D470A2",
+    "id": "TKNGk4Q5mR",
+    "name": "Wild orchid",
+    "redDecimal": 212,
+    "greenDecimal": 112,
+    "blueDecimal": 162
+  },
+  {
+    "hexCode": "#D473D4",
+    "id": "cbjZNd2FKs",
+    "name": "French mauve",
+    "redDecimal": 212,
+    "greenDecimal": 115,
+    "blueDecimal": 212
+  },
+  {
+    "hexCode": "#D4AF37",
+    "id": "M8FFaZIzj2",
+    "name": "Gold (metallic)",
+    "redDecimal": 212,
+    "greenDecimal": 175,
+    "blueDecimal": 55
+  },
+  {
+    "hexCode": "#D65282",
+    "id": "1MkYy8aAIt",
+    "name": "Mystic",
+    "redDecimal": 214,
+    "greenDecimal": 82,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#D68A59",
+    "id": "jKlAJSz8JQ",
+    "name": "Raw Sienna",
+    "redDecimal": 214,
+    "greenDecimal": 138,
+    "blueDecimal": 89
+  },
+  {
+    "hexCode": "#D6CADD",
+    "id": "aQMuFqMizB",
+    "name": "Languid lavender",
+    "redDecimal": 214,
+    "greenDecimal": 202,
+    "blueDecimal": 221
+  },
+  {
+    "hexCode": "#D70040",
+    "id": "qDH3jTARKq",
+    "name": "Carmine (M&P)",
+    "redDecimal": 215,
+    "greenDecimal": 0,
+    "blueDecimal": 64
+  },
+  {
+    "hexCode": "#D71868",
+    "id": "RA5EtxWWEj",
+    "name": "Dogwood rose",
+    "redDecimal": 215,
+    "greenDecimal": 24,
+    "blueDecimal": 104
+  },
+  {
+    "hexCode": "#D74894",
+    "id": "Qj0JoKuq4j",
+    "name": "Pink (Pantone)",
+    "redDecimal": 215,
+    "greenDecimal": 72,
+    "blueDecimal": 148
+  },
+  {
+    "hexCode": "#D7837F",
+    "id": "YCCGD89Mk9",
+    "name": "New York pink",
+    "redDecimal": 215,
+    "greenDecimal": 131,
+    "blueDecimal": 127
+  },
+  {
+    "hexCode": "#D891EF",
+    "id": "9vOmpIESv9",
+    "name": "Bright lilac",
+    "redDecimal": 216,
+    "greenDecimal": 145,
+    "blueDecimal": 239
+  },
+  {
+    "hexCode": "#D8B2D1",
+    "id": "dqGOIB2vxB",
+    "name": "Pink lavender",
+    "redDecimal": 216,
+    "greenDecimal": 178,
+    "blueDecimal": 209
+  },
+  {
+    "hexCode": "#D8BFD8",
+    "id": "CVAwSKFpoz",
+    "name": "Thistle",
+    "redDecimal": 216,
+    "greenDecimal": 191,
+    "blueDecimal": 216
+  },
+  {
+    "hexCode": "#D9004C",
+    "id": "ZvWChcIGIF",
+    "name": "UA red",
+    "redDecimal": 217,
+    "greenDecimal": 0,
+    "blueDecimal": 76
+  },
+  {
+    "hexCode": "#D92121",
+    "id": "k4jtXgVVrJ",
+    "name": "Maximum red",
+    "redDecimal": 217,
+    "greenDecimal": 33,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#D9381E",
+    "id": "zJ2RuERWM0",
+    "name": "Vermilion",
+    "redDecimal": 217,
+    "greenDecimal": 56,
+    "blueDecimal": 30
+  },
+  {
+    "hexCode": "#D982B5",
+    "id": "rnjGyIMfPq",
+    "name": "Middle purple",
+    "redDecimal": 217,
+    "greenDecimal": 130,
+    "blueDecimal": 181
+  },
+  {
+    "hexCode": "#D98695",
+    "id": "H9Ly8zFCnS",
+    "name": "Shimmering Blush",
+    "redDecimal": 217,
+    "greenDecimal": 134,
+    "blueDecimal": 149
+  },
+  {
+    "hexCode": "#D99058",
+    "id": "SPCBIvolqG",
+    "name": "Persian orange",
+    "redDecimal": 217,
+    "greenDecimal": 144,
+    "blueDecimal": 88
+  },
+  {
+    "hexCode": "#D99A6C",
+    "id": "PYuLToHAHS",
+    "name": "Tan (Crayola)",
+    "redDecimal": 217,
+    "greenDecimal": 154,
+    "blueDecimal": 108
+  },
+  {
+    "hexCode": "#D9E650",
+    "id": "v9cCMPPCY9",
+    "name": "Maximum green yellow",
+    "redDecimal": 217,
+    "greenDecimal": 230,
+    "blueDecimal": 80
+  },
+  {
+    "hexCode": "#DA1884",
+    "id": "qfdyiR6JNo",
+    "name": "Barbie Pink",
+    "redDecimal": 218,
+    "greenDecimal": 24,
+    "blueDecimal": 132
+  },
+  {
+    "hexCode": "#DA2C43",
+    "id": "MuzCXh7NJV",
+    "name": "Rusty red",
+    "redDecimal": 218,
+    "greenDecimal": 44,
+    "blueDecimal": 67
+  },
+  {
+    "hexCode": "#DA3287",
+    "id": "0vxh4faCDU",
+    "name": "Deep cerise",
+    "redDecimal": 218,
+    "greenDecimal": 50,
+    "blueDecimal": 135
+  },
+  {
+    "hexCode": "#DA70D6",
+    "id": "FKWAwMxOh5",
+    "name": "Orchid",
+    "redDecimal": 218,
+    "greenDecimal": 112,
+    "blueDecimal": 214
+  },
+  {
+    "hexCode": "#DA8A67",
+    "id": "NILAlsMKbz",
+    "name": "Copper (Crayola)",
+    "redDecimal": 218,
+    "greenDecimal": 138,
+    "blueDecimal": 103
+  },
+  {
+    "hexCode": "#DA9100",
+    "id": "J5OmF4JnUh",
+    "name": "Harvest gold",
+    "redDecimal": 218,
+    "greenDecimal": 145,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#DAA520",
+    "id": "KVjfoL5jPC",
+    "name": "Goldenrod",
+    "redDecimal": 218,
+    "greenDecimal": 165,
+    "blueDecimal": 32
+  },
+  {
+    "hexCode": "#DBD7D2",
+    "id": "r0CYfyXtW1",
+    "name": "Timberwolf",
+    "redDecimal": 219,
+    "greenDecimal": 215,
+    "blueDecimal": 210
+  },
+  {
+    "hexCode": "#DC143C",
+    "id": "crCjzt8Q11",
+    "name": "Crimson",
+    "redDecimal": 220,
+    "greenDecimal": 20,
+    "blueDecimal": 60
+  },
+  {
+    "hexCode": "#DCDCDC",
+    "id": "1kPR0u2pyb",
+    "name": "Gainsboro",
+    "redDecimal": 220,
+    "greenDecimal": 220,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#DDA0DD",
+    "id": "1TxB7m9PLZ",
+    "name": "Plum (web)",
+    "redDecimal": 221,
+    "greenDecimal": 160,
+    "blueDecimal": 221
+  },
+  {
+    "hexCode": "#DE3163",
+    "id": "JS1InI1lx0",
+    "name": "Cerise",
+    "redDecimal": 222,
+    "greenDecimal": 49,
+    "blueDecimal": 99
+  },
+  {
+    "hexCode": "#DE4E31",
+    "id": "t2XaT3Hu00",
+    "name": "Salmon Magistrate",
+    "redDecimal": null,
+    "greenDecimal": 228,
+    "blueDecimal": 227
+  },
+  {
+    "hexCode": "#DE5285",
+    "id": "5XTjZL6paa",
+    "name": "Fandango pink",
+    "redDecimal": 222,
+    "greenDecimal": 82,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#DE5D83",
+    "id": "K6yzZF3bzV",
+    "name": "Blush",
+    "redDecimal": 222,
+    "greenDecimal": 93,
+    "blueDecimal": 131
+  },
+  {
+    "hexCode": "#DE6FA1",
+    "id": "1GEgTJracE",
+    "name": "China pink",
+    "redDecimal": 222,
+    "greenDecimal": 111,
+    "blueDecimal": 161
+  },
+  {
+    "hexCode": "#DE6FA1",
+    "id": "1VwFE7A7aP",
+    "name": "Liseran purple",
+    "redDecimal": 222,
+    "greenDecimal": 111,
+    "blueDecimal": 161
+  },
+  {
+    "hexCode": "#DE6FA1",
+    "id": "diHUHdtwjf",
+    "name": "Thulian pink",
+    "redDecimal": 222,
+    "greenDecimal": 111,
+    "blueDecimal": 161
+  },
+  {
+    "hexCode": "#DEA5A4",
+    "id": "knC8tC5pJR",
+    "name": "Pastel pink",
+    "redDecimal": 222,
+    "greenDecimal": 165,
+    "blueDecimal": 164
+  },
+  {
+    "hexCode": "#DEAA88",
+    "id": "lDRTTAZn0T",
+    "name": "Tumbleweed",
+    "redDecimal": 222,
+    "greenDecimal": 170,
+    "blueDecimal": 136
+  },
+  {
+    "hexCode": "#DEB887",
+    "id": "kFyR0hHySE",
+    "name": "Burlywood",
+    "redDecimal": 222,
+    "greenDecimal": 184,
+    "blueDecimal": 135
+  },
+  {
+    "hexCode": "#DF00FF",
+    "id": "C8z75lwZ0c",
+    "name": "Phlox",
+    "redDecimal": 223,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#DF00FF",
+    "id": "bPJKmPBMYh",
+    "name": "Psychedelic purple",
+    "redDecimal": 223,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#DF73FF",
+    "id": "IHHLlvgDaZ",
+    "name": "Heliotrope",
+    "redDecimal": 223,
+    "greenDecimal": 115,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#DFFF00",
+    "id": "0qYfViyy7g",
+    "name": "Chartreuse (traditional)",
+    "redDecimal": 223,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#E0115F",
+    "id": "LBESzXibgH",
+    "name": "Ruby",
+    "redDecimal": 224,
+    "greenDecimal": 17,
+    "blueDecimal": 95
+  },
+  {
+    "hexCode": "#E03C31",
+    "id": "yDBgcZpOGc",
+    "name": "CG red",
+    "redDecimal": 224,
+    "greenDecimal": 60,
+    "blueDecimal": 49
+  },
+  {
+    "hexCode": "#E0B0FF",
+    "id": "8yoHdFRjfE",
+    "name": "Mauve",
+    "redDecimal": 224,
+    "greenDecimal": 176,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#E0FFFF",
+    "id": "xkLWzbdjz1",
+    "name": "Light cyan",
+    "redDecimal": 224,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#E12C2C",
+    "id": "0KVQ0Y1AgK",
+    "name": "Permanent Geranium Lake",
+    "redDecimal": 225,
+    "greenDecimal": 44,
+    "blueDecimal": 44
+  },
+  {
+    "hexCode": "#E1A95F",
+    "id": "wta4ZLHX6h",
+    "name": "Earth yellow",
+    "redDecimal": 225,
+    "greenDecimal": 169,
+    "blueDecimal": 95
+  },
+  {
+    "hexCode": "#E2062C",
+    "id": "EJYgXX4LCj",
+    "name": "Medium candy apple red",
+    "redDecimal": 226,
+    "greenDecimal": 6,
+    "blueDecimal": 44
+  },
+  {
+    "hexCode": "#E25822",
+    "id": "FVBNzgWOIb",
+    "name": "Flame",
+    "redDecimal": 226,
+    "greenDecimal": 88,
+    "blueDecimal": 34
+  },
+  {
+    "hexCode": "#E2725B",
+    "id": "MMCa4PlCJ1",
+    "name": "Terra cotta",
+    "redDecimal": 226,
+    "greenDecimal": 114,
+    "blueDecimal": 91
+  },
+  {
+    "hexCode": "#E29CD2",
+    "id": "1PKklpQngp",
+    "name": "Orchid (Crayola)",
+    "redDecimal": 226,
+    "greenDecimal": 156,
+    "blueDecimal": 210
+  },
+  {
+    "hexCode": "#E30022",
+    "id": "Q86NnhHFQz",
+    "name": "Cadmium red",
+    "redDecimal": 227,
+    "greenDecimal": 0,
+    "blueDecimal": 34
+  },
+  {
+    "hexCode": "#E30B5D",
+    "id": "pEwl7xjBN8",
+    "name": "Raspberry",
+    "redDecimal": 227,
+    "greenDecimal": 11,
+    "blueDecimal": 93
+  },
+  {
+    "hexCode": "#E3256B",
+    "id": "nDy1aCdHS8",
+    "name": "Razzmatazz",
+    "redDecimal": 227,
+    "greenDecimal": 37,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#E32636",
+    "id": "vanWBxTouC",
+    "name": "Rose madder",
+    "redDecimal": 227,
+    "greenDecimal": 38,
+    "blueDecimal": 54
+  },
+  {
+    "hexCode": "#E34234",
+    "id": "u6DmRWaqGF",
+    "name": "Cinnabar",
+    "redDecimal": 227,
+    "greenDecimal": 66,
+    "blueDecimal": 52
+  },
+  {
+    "hexCode": "#E34234",
+    "id": "bAhL1ybOhk",
+    "name": "Vermilion",
+    "redDecimal": 227,
+    "greenDecimal": 66,
+    "blueDecimal": 52
+  },
+  {
+    "hexCode": "#E3A857",
+    "id": "nDrS5WcKxr",
+    "name": "Indian yellow",
+    "redDecimal": 227,
+    "greenDecimal": 168,
+    "blueDecimal": 87
+  },
+  {
+    "hexCode": "#E3AB57",
+    "id": "XkbnporjBS",
+    "name": "Sunray",
+    "redDecimal": 227,
+    "greenDecimal": 171,
+    "blueDecimal": 87
+  },
+  {
+    "hexCode": "#E3DAC9",
+    "id": "OHqRV9Q27c",
+    "name": "Bone",
+    "redDecimal": 227,
+    "greenDecimal": 218,
+    "blueDecimal": 201
+  },
+  {
+    "hexCode": "#E3F988",
+    "id": "svsjyhD4LE",
+    "name": "Mindaro",
+    "redDecimal": 227,
+    "greenDecimal": 249,
+    "blueDecimal": 136
+  },
+  {
+    "hexCode": "#E40078",
+    "id": "bQTJi7FErQ",
+    "name": "Red-purple",
+    "redDecimal": 228,
+    "greenDecimal": 0,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#E4007C",
+    "id": "PDn7V6ArHb",
+    "name": "Mexican pink",
+    "redDecimal": 228,
+    "greenDecimal": 0,
+    "blueDecimal": 124
+  },
+  {
+    "hexCode": "#E4717A",
+    "id": "AmF5NsnD7B",
+    "name": "Candy pink",
+    "redDecimal": 228,
+    "greenDecimal": 113,
+    "blueDecimal": 122
+  },
+  {
+    "hexCode": "#E4717A",
+    "id": "OFwkEAGGrG",
+    "name": "Tango pink",
+    "redDecimal": 228,
+    "greenDecimal": 113,
+    "blueDecimal": 122
+  },
+  {
+    "hexCode": "#E48400",
+    "id": "LESqLIwCMi",
+    "name": "Fulvous",
+    "redDecimal": 228,
+    "greenDecimal": 132,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#E49B0F",
+    "id": "WjEPJPtYDD",
+    "name": "Gamboge",
+    "redDecimal": 228,
+    "greenDecimal": 155,
+    "blueDecimal": 15
+  },
+  {
+    "hexCode": "#E4D00A",
+    "id": "HxFRE5dA8P",
+    "name": "Citrine",
+    "redDecimal": 228,
+    "greenDecimal": 208,
+    "blueDecimal": 10
+  },
+  {
+    "hexCode": "#E4D96F",
+    "id": "tYhHU8GDUx",
+    "name": "Straw",
+    "redDecimal": 228,
+    "greenDecimal": 217,
+    "blueDecimal": 111
+  },
+  {
+    "hexCode": "#E52B50",
+    "id": "p8PgCK5BMg",
+    "name": "Amaranth",
+    "redDecimal": 229,
+    "greenDecimal": 43,
+    "blueDecimal": 80
+  },
+  {
+    "hexCode": "#E58E73",
+    "id": "z1v8MixudD",
+    "name": "Middle red",
+    "redDecimal": 229,
+    "greenDecimal": 142,
+    "blueDecimal": 115
+  },
+  {
+    "hexCode": "#E5AA70",
+    "id": "PeWmF8SsYD",
+    "name": "Fawn",
+    "redDecimal": 229,
+    "greenDecimal": 170,
+    "blueDecimal": 112
+  },
+  {
+    "hexCode": "#E5E4E2",
+    "id": "cZkMsjvfBV",
+    "name": "Platinum",
+    "redDecimal": 229,
+    "greenDecimal": 228,
+    "blueDecimal": 226
+  },
+  {
+    "hexCode": "#E60026",
+    "id": "3cHdfrQ2tC",
+    "name": "Spanish red",
+    "redDecimal": 230,
+    "greenDecimal": 0,
+    "blueDecimal": 38
+  },
+  {
+    "hexCode": "#E63E62",
+    "id": "fv5DE1oO34",
+    "name": "Paradise pink",
+    "redDecimal": 230,
+    "greenDecimal": 62,
+    "blueDecimal": 98
+  },
+  {
+    "hexCode": "#E68FAC",
+    "id": "7ldwQQyS2Y",
+    "name": "Charm pink",
+    "redDecimal": 230,
+    "greenDecimal": 143,
+    "blueDecimal": 172
+  },
+  {
+    "hexCode": "#E6BE8A",
+    "id": "YYEJ3JWwGK",
+    "name": "Gold (Crayola)",
+    "redDecimal": 230,
+    "greenDecimal": 190,
+    "blueDecimal": 138
+  },
+  {
+    "hexCode": "#E6E6FA",
+    "id": "YFNhjUTxmj",
+    "name": "Lavender (web)",
+    "redDecimal": 230,
+    "greenDecimal": 230,
+    "blueDecimal": 250
+  },
+  {
+    "hexCode": "#E79FC4",
+    "id": "BD0rILuUOn",
+    "name": "Kobi",
+    "redDecimal": 231,
+    "greenDecimal": 159,
+    "blueDecimal": 196
+  },
+  {
+    "hexCode": "#E86100",
+    "id": "4mHWMrWTDR",
+    "name": "Spanish orange",
+    "redDecimal": 232,
+    "greenDecimal": 97,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#E8CCD7",
+    "id": "OIGMvXn2ip",
+    "name": "Queen pink",
+    "redDecimal": 232,
+    "greenDecimal": 204,
+    "blueDecimal": 215
+  },
+  {
+    "hexCode": "#E8F48C",
+    "id": "k1nTEGHIFt",
+    "name": "Key lime",
+    "redDecimal": 232,
+    "greenDecimal": 244,
+    "blueDecimal": 140
+  },
+  {
+    "hexCode": "#E936A7",
+    "id": "HS2PFvpJFb",
+    "name": "Frostbite",
+    "redDecimal": 233,
+    "greenDecimal": 54,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#E95C4B",
+    "id": "0m1SpFp1HE",
+    "name": "Fire opal",
+    "redDecimal": 233,
+    "greenDecimal": 92,
+    "blueDecimal": 75
+  },
+  {
+    "hexCode": "#E97451",
+    "id": "rzt5hwSfS4",
+    "name": "Burnt sienna",
+    "redDecimal": 233,
+    "greenDecimal": 116,
+    "blueDecimal": 81
+  },
+  {
+    "hexCode": "#E9967A",
+    "id": "rlWSBgFUR4",
+    "name": "Dark salmon",
+    "redDecimal": 233,
+    "greenDecimal": 150,
+    "blueDecimal": 122
+  },
+  {
+    "hexCode": "#E9D66B",
+    "id": "5IKrcKecAW",
+    "name": "Arylide yellow",
+    "redDecimal": 233,
+    "greenDecimal": 214,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#E9D66B",
+    "id": "1vFikc9H7R",
+    "name": "Hansa yellow",
+    "redDecimal": 233,
+    "greenDecimal": 214,
+    "blueDecimal": 107
+  },
+  {
+    "hexCode": "#E9FFDB",
+    "id": "KwbiL030Xs",
+    "name": "Nyanza",
+    "redDecimal": 233,
+    "greenDecimal": 255,
+    "blueDecimal": 219
+  },
+  {
+    "hexCode": "#EAA221",
+    "id": "dqMnA7HYWI",
+    "name": "Marigold",
+    "redDecimal": 234,
+    "greenDecimal": 162,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#EC5800",
+    "id": "7CRRuS5YX7",
+    "name": "Persimmon",
+    "redDecimal": 236,
+    "greenDecimal": 88,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#ECB176",
+    "id": "4t0OkdBJr2",
+    "name": "Middle yellow red",
+    "redDecimal": 236,
+    "greenDecimal": 177,
+    "blueDecimal": 118
+  },
+  {
+    "hexCode": "#ECEBBD",
+    "id": "MKC7I29Er3",
+    "name": "Pale spring bud",
+    "redDecimal": 236,
+    "greenDecimal": 235,
+    "blueDecimal": 189
+  },
+  {
+    "hexCode": "#ECEBBD",
+    "id": "mVaPPCKIEV",
+    "name": "Spring green (Crayola)",
+    "redDecimal": 236,
+    "greenDecimal": 235,
+    "blueDecimal": 189
+  },
+  {
+    "hexCode": "#ED1C24",
+    "id": "3GwiOzfiym",
+    "name": "Red (pigment)",
+    "redDecimal": 237,
+    "greenDecimal": 28,
+    "blueDecimal": 36
+  },
+  {
+    "hexCode": "#ED2939",
+    "id": "EDgArAesb2",
+    "name": "Imperial red",
+    "redDecimal": 237,
+    "greenDecimal": 41,
+    "blueDecimal": 57
+  },
+  {
+    "hexCode": "#ED2939",
+    "id": "Vc4IIzBqMX",
+    "name": "Red (Pantone)",
+    "redDecimal": 237,
+    "greenDecimal": 41,
+    "blueDecimal": 57
+  },
+  {
+    "hexCode": "#ED872D",
+    "id": "djjmPcGRJ5",
+    "name": "Cadmium orange",
+    "redDecimal": 237,
+    "greenDecimal": 135,
+    "blueDecimal": 45
+  },
+  {
+    "hexCode": "#ED9121",
+    "id": "TGacbllNQB",
+    "name": "Carrot orange",
+    "redDecimal": 237,
+    "greenDecimal": 145,
+    "blueDecimal": 33
+  },
+  {
+    "hexCode": "#EDC9AF",
+    "id": "LSfKlwWH9W",
+    "name": "Desert sand",
+    "redDecimal": 237,
+    "greenDecimal": 201,
+    "blueDecimal": 175
+  },
+  {
+    "hexCode": "#EDEAE0",
+    "id": "5EGVUG5YgQ",
+    "name": "Alabaster",
+    "redDecimal": 237,
+    "greenDecimal": 234,
+    "blueDecimal": 224
+  },
+  {
+    "hexCode": "#EE204D",
+    "id": "Uqcunkyeuz",
+    "name": "Red (Crayola)",
+    "redDecimal": 238,
+    "greenDecimal": 32,
+    "blueDecimal": 77
+  },
+  {
+    "hexCode": "#EE82EE",
+    "id": "T2g5ZQWX8g",
+    "name": "Violet (web)",
+    "redDecimal": 238,
+    "greenDecimal": 130,
+    "blueDecimal": 238
+  },
+  {
+    "hexCode": "#EED202",
+    "id": "Bwc5FV52Lr",
+    "name": "Safety yellow",
+    "redDecimal": 238,
+    "greenDecimal": 210,
+    "blueDecimal": 2
+  },
+  {
+    "hexCode": "#EEDC82",
+    "id": "F2iMoTC8id",
+    "name": "Flax",
+    "redDecimal": 238,
+    "greenDecimal": 220,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#EEE600",
+    "id": "o0eFauheJM",
+    "name": "Titanium yellow",
+    "redDecimal": 238,
+    "greenDecimal": 230,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#EEED09",
+    "id": "W9fz4wKF2P",
+    "name": "Xanthic",
+    "redDecimal": 238,
+    "greenDecimal": 237,
+    "blueDecimal": 9
+  },
+  {
+    "hexCode": "#EF98AA",
+    "id": "oBFwgjL65G",
+    "name": "Mauvelous",
+    "redDecimal": 239,
+    "greenDecimal": 152,
+    "blueDecimal": 170
+  },
+  {
+    "hexCode": "#EFBBCC",
+    "id": "pYS8p4sdCY",
+    "name": "Cameo pink",
+    "redDecimal": 239,
+    "greenDecimal": 187,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#EFCC00",
+    "id": "y8fWGVtNP4",
+    "name": "Yellow (Munsell)",
+    "redDecimal": 239,
+    "greenDecimal": 204,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#EFDECD",
+    "id": "STnHF1vC45",
+    "name": "Almond",
+    "redDecimal": 239,
+    "greenDecimal": 222,
+    "blueDecimal": 205
+  },
+  {
+    "hexCode": "#EFDFBB",
+    "id": "He2duXwg6e",
+    "name": "Dutch white",
+    "redDecimal": 239,
+    "greenDecimal": 223,
+    "blueDecimal": 187
+  },
+  {
+    "hexCode": "#F08080",
+    "id": "vIvTPI6Tma",
+    "name": "Light coral",
+    "redDecimal": 240,
+    "greenDecimal": 128,
+    "blueDecimal": 128
+  },
+  {
+    "hexCode": "#F0DC82",
+    "id": "iukfuWGVie",
+    "name": "Buff",
+    "redDecimal": 240,
+    "greenDecimal": 220,
+    "blueDecimal": 130
+  },
+  {
+    "hexCode": "#F0E68C",
+    "id": "MABgbZ8xsR",
+    "name": "Khaki (X11) (Light khaki)",
+    "redDecimal": 240,
+    "greenDecimal": 230,
+    "blueDecimal": 140
+  },
+  {
+    "hexCode": "#F0E891",
+    "id": "d8VAQl8dra",
+    "name": "Green-yellow (Crayola)",
+    "redDecimal": 240,
+    "greenDecimal": 232,
+    "blueDecimal": 145
+  },
+  {
+    "hexCode": "#F0EAD6",
+    "id": "rmNEN8LCk0",
+    "name": "Eggshell",
+    "redDecimal": 240,
+    "greenDecimal": 234,
+    "blueDecimal": 214
+  },
+  {
+    "hexCode": "#F0F8FF",
+    "id": "AhMU0ohH7z",
+    "name": "Alice blue",
+    "redDecimal": 240,
+    "greenDecimal": 248,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#F0FFF0",
+    "id": "lftIftvCRb",
+    "name": "Honeydew",
+    "redDecimal": 240,
+    "greenDecimal": 255,
+    "blueDecimal": 240
+  },
+  {
+    "hexCode": "#F0FFFF",
+    "id": "QvvgaBDzE6",
+    "name": "Azure (X11/web color)",
+    "redDecimal": 240,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#F19CBB",
+    "id": "TFea09OnG3",
+    "name": "Amaranth pink",
+    "redDecimal": 241,
+    "greenDecimal": 156,
+    "blueDecimal": 187
+  },
+  {
+    "hexCode": "#F1DDCF",
+    "id": "K4zbgF8C4n",
+    "name": "Champagne pink",
+    "redDecimal": 241,
+    "greenDecimal": 221,
+    "blueDecimal": 207
+  },
+  {
+    "hexCode": "#F2003C",
+    "id": "eomXD6Ch7b",
+    "name": "Red (Munsell)",
+    "redDecimal": 242,
+    "greenDecimal": 0,
+    "blueDecimal": 60
+  },
+  {
+    "hexCode": "#F28500",
+    "id": "2FzrziFBei",
+    "name": "Tangerine",
+    "redDecimal": 242,
+    "greenDecimal": 133,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#F2BA49",
+    "id": "dSOIViyaPJ",
+    "name": "Maximum yellow red",
+    "redDecimal": 242,
+    "greenDecimal": 186,
+    "blueDecimal": 73
+  },
+  {
+    "hexCode": "#F2BDCD",
+    "id": "5HZEuN8iz1",
+    "name": "Orchid pink",
+    "redDecimal": 242,
+    "greenDecimal": 189,
+    "blueDecimal": 205
+  },
+  {
+    "hexCode": "#F2C649",
+    "id": "pCGYtyitQu",
+    "name": "Maize (Crayola)",
+    "redDecimal": 242,
+    "greenDecimal": 198,
+    "blueDecimal": 73
+  },
+  {
+    "hexCode": "#F37A48",
+    "id": "uhdQLSe7CZ",
+    "name": "Mandarin",
+    "redDecimal": 243,
+    "greenDecimal": 122,
+    "blueDecimal": 72
+  },
+  {
+    "hexCode": "#F38FA9",
+    "id": "UhfBD914Qz",
+    "name": "Vanilla ice",
+    "redDecimal": 243,
+    "greenDecimal": 143,
+    "blueDecimal": 169
+  },
+  {
+    "hexCode": "#F3E5AB",
+    "id": "Q9fKkmuLJo",
+    "name": "Medium champagne",
+    "redDecimal": 243,
+    "greenDecimal": 229,
+    "blueDecimal": 171
+  },
+  {
+    "hexCode": "#F3E5AB",
+    "id": "EWHhhNGeAb",
+    "name": "Vanilla",
+    "redDecimal": 243,
+    "greenDecimal": 229,
+    "blueDecimal": 171
+  },
+  {
+    "hexCode": "#F400A1",
+    "id": "wTVjRIsZFr",
+    "name": "Fashion fuchsia",
+    "redDecimal": 244,
+    "greenDecimal": 0,
+    "blueDecimal": 161
+  },
+  {
+    "hexCode": "#F400A1",
+    "id": "lGHByFitNw",
+    "name": "Hollywood cerise",
+    "redDecimal": 244,
+    "greenDecimal": 0,
+    "blueDecimal": 161
+  },
+  {
+    "hexCode": "#F4A460",
+    "id": "GvDxpBtaxD",
+    "name": "Sandy brown",
+    "redDecimal": 244,
+    "greenDecimal": 164,
+    "blueDecimal": 96
+  },
+  {
+    "hexCode": "#F4C2C2",
+    "id": "fGgVpKmBTI",
+    "name": "Baby pink",
+    "redDecimal": 244,
+    "greenDecimal": 194,
+    "blueDecimal": 194
+  },
+  {
+    "hexCode": "#F4C2C2",
+    "id": "tPNV073k0v",
+    "name": "Tea rose",
+    "redDecimal": 244,
+    "greenDecimal": 194,
+    "blueDecimal": 194
+  },
+  {
+    "hexCode": "#F4C430",
+    "id": "vtp3k6t5Qz",
+    "name": "Saffron",
+    "redDecimal": 244,
+    "greenDecimal": 196,
+    "blueDecimal": 48
+  },
+  {
+    "hexCode": "#F4CA16",
+    "id": "uRu1VVgrkJ",
+    "name": "Jonquil",
+    "redDecimal": 244,
+    "greenDecimal": 202,
+    "blueDecimal": 22
+  },
+  {
+    "hexCode": "#F4F0EC",
+    "id": "mrMeAMXQaf",
+    "name": "Isabelline",
+    "redDecimal": 244,
+    "greenDecimal": 240,
+    "blueDecimal": 236
+  },
+  {
+    "hexCode": "#F56FA1",
+    "id": "GXYTUy6pdK",
+    "name": "Cyclamen",
+    "redDecimal": 245,
+    "greenDecimal": 111,
+    "blueDecimal": 161
+  },
+  {
+    "hexCode": "#F58025",
+    "id": "fY09zOhFzq",
+    "name": "Princeton orange",
+    "redDecimal": 245,
+    "greenDecimal": 128,
+    "blueDecimal": 37
+  },
+  {
+    "hexCode": "#F5BD1F",
+    "id": "8gi50A6RdV",
+    "name": "Orange-yellow",
+    "redDecimal": 245,
+    "greenDecimal": 189,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#F5DEB3",
+    "id": "mAPN7ZMfzB",
+    "name": "Wheat",
+    "redDecimal": 245,
+    "greenDecimal": 222,
+    "blueDecimal": 179
+  },
+  {
+    "hexCode": "#F5E050",
+    "id": "oMGGETW0zh",
+    "name": "Minion yellow",
+    "redDecimal": 245,
+    "greenDecimal": 224,
+    "blueDecimal": 80
+  },
+  {
+    "hexCode": "#F5F5DC",
+    "id": "BFGOQYq34y",
+    "name": "Beige",
+    "redDecimal": 245,
+    "greenDecimal": 245,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#F5F5F5",
+    "id": "ROqsjngp6b",
+    "name": "Cultured",
+    "redDecimal": 245,
+    "greenDecimal": 245,
+    "blueDecimal": 245
+  },
+  {
+    "hexCode": "#F5FFFA",
+    "id": "SMQZlSFC6d",
+    "name": "Mint cream",
+    "redDecimal": 245,
+    "greenDecimal": 255,
+    "blueDecimal": 250
+  },
+  {
+    "hexCode": "#F64A8A",
+    "id": "FPwXfGmbhA",
+    "name": "French rose",
+    "redDecimal": 246,
+    "greenDecimal": 74,
+    "blueDecimal": 138
+  },
+  {
+    "hexCode": "#F653A6",
+    "id": "4jSucdKbyd",
+    "name": "Magenta (Crayola)",
+    "redDecimal": 246,
+    "greenDecimal": 83,
+    "blueDecimal": 166
+  },
+  {
+    "hexCode": "#F6ADC6",
+    "id": "iHdP1JmWSQ",
+    "name": "Nadeshiko pink",
+    "redDecimal": 246,
+    "greenDecimal": 173,
+    "blueDecimal": 198
+  },
+  {
+    "hexCode": "#F6EABE",
+    "id": "rO6j0x7ysR",
+    "name": "Lemon meringue",
+    "redDecimal": 246,
+    "greenDecimal": 234,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#F75394",
+    "id": "d0SfukGPgV",
+    "name": "Violet-red",
+    "redDecimal": 247,
+    "greenDecimal": 83,
+    "blueDecimal": 148
+  },
+  {
+    "hexCode": "#F77FBE",
+    "id": "FActn6ftEe",
+    "name": "Persian pink",
+    "redDecimal": 247,
+    "greenDecimal": 127,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#F78FA7",
+    "id": "0J9PXuMtcE",
+    "name": "Pink Sherbet",
+    "redDecimal": 247,
+    "greenDecimal": 143,
+    "blueDecimal": 167
+  },
+  {
+    "hexCode": "#F7BFBE",
+    "id": "F4x3yWS5lq",
+    "name": "Spanish pink",
+    "redDecimal": 247,
+    "greenDecimal": 191,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#F7E7CE",
+    "id": "6WBlY3F2yv",
+    "name": "Champagne",
+    "redDecimal": 247,
+    "greenDecimal": 231,
+    "blueDecimal": 206
+  },
+  {
+    "hexCode": "#F88379",
+    "id": "G4dZJw2aqA",
+    "name": "Coral pink",
+    "redDecimal": 248,
+    "greenDecimal": 131,
+    "blueDecimal": 121
+  },
+  {
+    "hexCode": "#F88379",
+    "id": "tic43ACRPh",
+    "name": "Congo pink",
+    "redDecimal": 248,
+    "greenDecimal": 131,
+    "blueDecimal": 121
+  },
+  {
+    "hexCode": "#F88379",
+    "id": "rwmeD0fAGW",
+    "name": "Tea rose",
+    "redDecimal": 248,
+    "greenDecimal": 131,
+    "blueDecimal": 121
+  },
+  {
+    "hexCode": "#F8B878",
+    "id": "PO0IoR0kGX",
+    "name": "Mellow apricot",
+    "redDecimal": 248,
+    "greenDecimal": 184,
+    "blueDecimal": 120
+  },
+  {
+    "hexCode": "#F8D568",
+    "id": "qPAekNgEaC",
+    "name": "Orange-yellow (Crayola)",
+    "redDecimal": 248,
+    "greenDecimal": 213,
+    "blueDecimal": 104
+  },
+  {
+    "hexCode": "#F8DE7E",
+    "id": "zdGBf2Qtwb",
+    "name": "Jasmine",
+    "redDecimal": 248,
+    "greenDecimal": 222,
+    "blueDecimal": 126
+  },
+  {
+    "hexCode": "#F8DE7E",
+    "id": "ucfmTROINP",
+    "name": "Mellow yellow",
+    "redDecimal": 248,
+    "greenDecimal": 222,
+    "blueDecimal": 126
+  },
+  {
+    "hexCode": "#F8F4FF",
+    "id": "AR6K62CQCS",
+    "name": "Magnolia",
+    "redDecimal": 248,
+    "greenDecimal": 244,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#F8F8FF",
+    "id": "vHkOJ4SqT0",
+    "name": "Ghost white",
+    "redDecimal": 248,
+    "greenDecimal": 248,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#F9429E",
+    "id": "m8QuqEDK3p",
+    "name": "Rose bonbon",
+    "redDecimal": 249,
+    "greenDecimal": 66,
+    "blueDecimal": 158
+  },
+  {
+    "hexCode": "#FA5B3D",
+    "id": "KpBTfFZNA7",
+    "name": "Orange soda",
+    "redDecimal": 250,
+    "greenDecimal": 91,
+    "blueDecimal": 61
+  },
+  {
+    "hexCode": "#FA8072",
+    "id": "2sgTRqoBrP",
+    "name": "Salmon",
+    "redDecimal": 250,
+    "greenDecimal": 128,
+    "blueDecimal": 114
+  },
+  {
+    "hexCode": "#FAD6A5",
+    "id": "zc1BTwB51S",
+    "name": "Deep champagne",
+    "redDecimal": 250,
+    "greenDecimal": 214,
+    "blueDecimal": 165
+  },
+  {
+    "hexCode": "#FAD6A5",
+    "id": "QWayI8cfRu",
+    "name": "Sunset",
+    "redDecimal": 250,
+    "greenDecimal": 214,
+    "blueDecimal": 165
+  },
+  {
+    "hexCode": "#FAD6A5",
+    "id": "pINGdFVFQf",
+    "name": "Tuscan",
+    "redDecimal": 250,
+    "greenDecimal": 214,
+    "blueDecimal": 165
+  },
+  {
+    "hexCode": "#FADA5E",
+    "id": "n4T1fzcDUu",
+    "name": "Naples yellow",
+    "redDecimal": 250,
+    "greenDecimal": 218,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#FADA5E",
+    "id": "T9Z1OdB7Dc",
+    "name": "Royal yellow",
+    "redDecimal": 250,
+    "greenDecimal": 218,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#FADA5E",
+    "id": "m71Ev2Mx53",
+    "name": "Stil de grain yellow",
+    "redDecimal": 250,
+    "greenDecimal": 218,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#FADADD",
+    "id": "pB7zgkIxP4",
+    "name": "Pale pink",
+    "redDecimal": 250,
+    "greenDecimal": 218,
+    "blueDecimal": 221
+  },
+  {
+    "hexCode": "#FAE6FA",
+    "id": "S2lLoUgqca",
+    "name": "Pale purple (Pantone)",
+    "redDecimal": 250,
+    "greenDecimal": 230,
+    "blueDecimal": 250
+  },
+  {
+    "hexCode": "#FAE7B5",
+    "id": "tsqXZWPFIi",
+    "name": "Banana Mania",
+    "redDecimal": 250,
+    "greenDecimal": 231,
+    "blueDecimal": 181
+  },
+  {
+    "hexCode": "#FAEBD7",
+    "id": "sq3Ynk0Stz",
+    "name": "Antique white",
+    "redDecimal": 250,
+    "greenDecimal": 235,
+    "blueDecimal": 215
+  },
+  {
+    "hexCode": "#FAF0BE",
+    "id": "VPpNMNwYbw",
+    "name": "Blond",
+    "redDecimal": 250,
+    "greenDecimal": 240,
+    "blueDecimal": 190
+  },
+  {
+    "hexCode": "#FAF0E6",
+    "id": "OPtIrplKpY",
+    "name": "Linen",
+    "redDecimal": 250,
+    "greenDecimal": 240,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#FAFA37",
+    "id": "VCzWQviYWV",
+    "name": "Maximum yellow",
+    "redDecimal": 250,
+    "greenDecimal": 250,
+    "blueDecimal": 55
+  },
+  {
+    "hexCode": "#FAFAD2",
+    "id": "l1VGkOMnRo",
+    "name": "Light goldenrod yellow",
+    "redDecimal": 250,
+    "greenDecimal": 250,
+    "blueDecimal": 210
+  },
+  {
+    "hexCode": "#FB0081",
+    "id": "17IHjiWFQy",
+    "name": "Flickr Pink",
+    "redDecimal": 251,
+    "greenDecimal": 0,
+    "blueDecimal": 129
+  },
+  {
+    "hexCode": "#FB4D46",
+    "id": "929zi1VuC1",
+    "name": "Tart Orange",
+    "redDecimal": 251,
+    "greenDecimal": 77,
+    "blueDecimal": 70
+  },
+  {
+    "hexCode": "#FB607F",
+    "id": "FDEqdE1b7X",
+    "name": "Brink pink",
+    "redDecimal": 251,
+    "greenDecimal": 96,
+    "blueDecimal": 127
+  },
+  {
+    "hexCode": "#FBAB60",
+    "id": "mt7rU2rJKf",
+    "name": "Rajah",
+    "redDecimal": 251,
+    "greenDecimal": 171,
+    "blueDecimal": 96
+  },
+  {
+    "hexCode": "#FBCEB1",
+    "id": "QNv4OhdRgf",
+    "name": "Apricot",
+    "redDecimal": 251,
+    "greenDecimal": 206,
+    "blueDecimal": 177
+  },
+  {
+    "hexCode": "#FBEC5D",
+    "id": "MTXUHwjgCp",
+    "name": "Corn",
+    "redDecimal": 251,
+    "greenDecimal": 236,
+    "blueDecimal": 93
+  },
+  {
+    "hexCode": "#FBEC5D",
+    "id": "7obieLL7pS",
+    "name": "Maize",
+    "redDecimal": 251,
+    "greenDecimal": 236,
+    "blueDecimal": 93
+  },
+  {
+    "hexCode": "#FC0FC0",
+    "id": "XZAfFsb0MB",
+    "name": "Shocking pink",
+    "redDecimal": 252,
+    "greenDecimal": 15,
+    "blueDecimal": 192
+  },
+  {
+    "hexCode": "#FC6C85",
+    "id": "onfguT5fBm",
+    "name": "Ultra red",
+    "redDecimal": 252,
+    "greenDecimal": 108,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#FC6C85",
+    "id": "C6h9cjoAao",
+    "name": "Wild watermelon",
+    "redDecimal": 252,
+    "greenDecimal": 108,
+    "blueDecimal": 133
+  },
+  {
+    "hexCode": "#FC74FD",
+    "id": "fCqtobpgDF",
+    "name": "Pink flamingo",
+    "redDecimal": 252,
+    "greenDecimal": 116,
+    "blueDecimal": 253
+  },
+  {
+    "hexCode": "#FC89AC",
+    "id": "p6hxtplpcY",
+    "name": "Tickle Me Pink",
+    "redDecimal": 252,
+    "greenDecimal": 137,
+    "blueDecimal": 172
+  },
+  {
+    "hexCode": "#FCC200",
+    "id": "LPoi1LnjXF",
+    "name": "Golden poppy",
+    "redDecimal": 252,
+    "greenDecimal": 194,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FCE883",
+    "id": "fyDvdEdX4M",
+    "name": "Yellow (Crayola)",
+    "redDecimal": 252,
+    "greenDecimal": 232,
+    "blueDecimal": 131
+  },
+  {
+    "hexCode": "#FCF75E",
+    "id": "NtO8LKZlsB",
+    "name": "Icterine",
+    "redDecimal": 252,
+    "greenDecimal": 247,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#FD3A4A",
+    "id": "BnOVKpZZsP",
+    "name": "Red Salsa",
+    "redDecimal": 253,
+    "greenDecimal": 58,
+    "blueDecimal": 74
+  },
+  {
+    "hexCode": "#FD3F92",
+    "id": "QYzzuFnRiX",
+    "name": "French fuchsia",
+    "redDecimal": 253,
+    "greenDecimal": 63,
+    "blueDecimal": 146
+  },
+  {
+    "hexCode": "#FD6C9E",
+    "id": "MXJZhV6BlH",
+    "name": "French pink",
+    "redDecimal": 253,
+    "greenDecimal": 108,
+    "blueDecimal": 158
+  },
+  {
+    "hexCode": "#FDBE02",
+    "id": "Mk2bz7zIPs",
+    "name": "Mango",
+    "redDecimal": 253,
+    "greenDecimal": 190,
+    "blueDecimal": 2
+  },
+  {
+    "hexCode": "#FDDDE6",
+    "id": "99Ifb9BNVJ",
+    "name": "Piggy pink",
+    "redDecimal": 253,
+    "greenDecimal": 221,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#FDEE00",
+    "id": "2Qi2uxlBAg",
+    "name": "Aureolin",
+    "redDecimal": 253,
+    "greenDecimal": 238,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FDF5E6",
+    "id": "eX3bY9ZQgG",
+    "name": "Old lace",
+    "redDecimal": 253,
+    "greenDecimal": 245,
+    "blueDecimal": 230
+  },
+  {
+    "hexCode": "#FDFF00",
+    "id": "Fs7dYgTzrz",
+    "name": "Lemon glacier",
+    "redDecimal": 253,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FE2712",
+    "id": "sG1uTvsAtl",
+    "name": "Red (RYB)",
+    "redDecimal": 254,
+    "greenDecimal": 39,
+    "blueDecimal": 18
+  },
+  {
+    "hexCode": "#FE28A2",
+    "id": "888iBTuI9E",
+    "name": "Persian rose",
+    "redDecimal": 254,
+    "greenDecimal": 40,
+    "blueDecimal": 162
+  },
+  {
+    "hexCode": "#FE4EDA",
+    "id": "OGY79034Zz",
+    "name": "Purple pizzazz",
+    "redDecimal": 254,
+    "greenDecimal": 78,
+    "blueDecimal": 218
+  },
+  {
+    "hexCode": "#FE6F5E",
+    "id": "rGeq4VN3JU",
+    "name": "Bittersweet",
+    "redDecimal": 254,
+    "greenDecimal": 111,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#FEBAAD",
+    "id": "cUgMmuFYZ5",
+    "name": "Melon",
+    "redDecimal": 254,
+    "greenDecimal": 186,
+    "blueDecimal": 173
+  },
+  {
+    "hexCode": "#FED8B1",
+    "id": "TOTAgfRGGu",
+    "name": "Light orange",
+    "redDecimal": 254,
+    "greenDecimal": 216,
+    "blueDecimal": 177
+  },
+  {
+    "hexCode": "#FEDF00",
+    "id": "04z34LIP1z",
+    "name": "Yellow (Pantone)",
+    "redDecimal": 254,
+    "greenDecimal": 223,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FEFE33",
+    "id": "MpALn1erSy",
+    "name": "Yellow (RYB)",
+    "redDecimal": 254,
+    "greenDecimal": 254,
+    "blueDecimal": 51
+  },
+  {
+    "hexCode": "#FEFEFA",
+    "id": "kxgtUbMkFt",
+    "name": "Baby powder",
+    "redDecimal": 254,
+    "greenDecimal": 254,
+    "blueDecimal": 250
+  },
+  {
+    "hexCode": "#FF0000",
+    "id": "kuVR1X33J1",
+    "name": "Red",
+    "redDecimal": 255,
+    "greenDecimal": 0,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF007C",
+    "id": "5pDTZCV9wh",
+    "name": "Winter Sky",
+    "redDecimal": 255,
+    "greenDecimal": 0,
+    "blueDecimal": 124
+  },
+  {
+    "hexCode": "#FF007F",
+    "id": "RI3Ao2nNsR",
+    "name": "Rose",
+    "redDecimal": 255,
+    "greenDecimal": 0,
+    "blueDecimal": 127
+  },
+  {
+    "hexCode": "#FF0090",
+    "id": "sH3yZbE9TP",
+    "name": "Magenta (process)",
+    "redDecimal": 255,
+    "greenDecimal": 0,
+    "blueDecimal": 144
+  },
+  {
+    "hexCode": "#FF00FF",
+    "id": "xlbZESWj7x",
+    "name": "Fuchsia",
+    "redDecimal": 255,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#FF00FF",
+    "id": "FH2M2hh0eS",
+    "name": "Magenta",
+    "redDecimal": 255,
+    "greenDecimal": 0,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#FF0800",
+    "id": "7P5vGvs7KF",
+    "name": "Candy apple red",
+    "redDecimal": 255,
+    "greenDecimal": 8,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF1493",
+    "id": "RVnR8KrNiC",
+    "name": "Deep pink",
+    "redDecimal": 255,
+    "greenDecimal": 20,
+    "blueDecimal": 147
+  },
+  {
+    "hexCode": "#FF1DCE",
+    "id": "sP4iLMsXX5",
+    "name": "Hot magenta",
+    "redDecimal": 255,
+    "greenDecimal": 29,
+    "blueDecimal": 206
+  },
+  {
+    "hexCode": "#FF2400",
+    "id": "GFfEDxc2vk",
+    "name": "Scarlet",
+    "redDecimal": 255,
+    "greenDecimal": 36,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF33CC",
+    "id": "WfDquZOGZ9",
+    "name": "Razzle dazzle rose",
+    "redDecimal": 255,
+    "greenDecimal": 51,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#FF355E",
+    "id": "Gnnbwt8Ra6",
+    "name": "Radical Red",
+    "redDecimal": 255,
+    "greenDecimal": 53,
+    "blueDecimal": 94
+  },
+  {
+    "hexCode": "#FF3800",
+    "id": "R6Mq6lwM0Z",
+    "name": "Coquelicot",
+    "redDecimal": 255,
+    "greenDecimal": 56,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF3855",
+    "id": "YACQculsce",
+    "name": "Sizzling Red",
+    "redDecimal": 255,
+    "greenDecimal": 56,
+    "blueDecimal": 85
+  },
+  {
+    "hexCode": "#FF43A4",
+    "id": "R8VzsWiIZh",
+    "name": "Wild Strawberry",
+    "redDecimal": 255,
+    "greenDecimal": 67,
+    "blueDecimal": 164
+  },
+  {
+    "hexCode": "#FF4500",
+    "id": "zOlJy8gaIf",
+    "name": "Red-orange (Color wheel)",
+    "redDecimal": 255,
+    "greenDecimal": 69,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF4F00",
+    "id": "bYmBEdoaU9",
+    "name": "International orange",
+    "redDecimal": 255,
+    "greenDecimal": 79,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF5349",
+    "id": "COTrRKxGAU",
+    "name": "Orange-red (Crayola)",
+    "redDecimal": 255,
+    "greenDecimal": 83,
+    "blueDecimal": 73
+  },
+  {
+    "hexCode": "#FF5349",
+    "id": "CIl9ge2h4y",
+    "name": "Red-orange",
+    "redDecimal": 255,
+    "greenDecimal": 83,
+    "blueDecimal": 73
+  },
+  {
+    "hexCode": "#FF5470",
+    "id": "3ShSxyV4w2",
+    "name": "Fiery rose",
+    "redDecimal": 255,
+    "greenDecimal": 84,
+    "blueDecimal": 112
+  },
+  {
+    "hexCode": "#FF55A3",
+    "id": "B9p30ZvnBG",
+    "name": "Brilliant rose",
+    "redDecimal": 255,
+    "greenDecimal": 85,
+    "blueDecimal": 163
+  },
+  {
+    "hexCode": "#FF5800",
+    "id": "XYQadnIiEc",
+    "name": "Orange (Pantone)",
+    "redDecimal": 255,
+    "greenDecimal": 88,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF5A36",
+    "id": "K9spgCNSnH",
+    "name": "Portland Orange",
+    "redDecimal": 255,
+    "greenDecimal": 90,
+    "blueDecimal": 54
+  },
+  {
+    "hexCode": "#FF6347",
+    "id": "TeeDbRRLyV",
+    "name": "Tomato",
+    "redDecimal": 255,
+    "greenDecimal": 99,
+    "blueDecimal": 71
+  },
+  {
+    "hexCode": "#FF66CC",
+    "id": "iOOj33QicO",
+    "name": "Rose pink",
+    "redDecimal": 255,
+    "greenDecimal": 102,
+    "blueDecimal": 204
+  },
+  {
+    "hexCode": "#FF6700",
+    "id": "3Z0xhxVnIN",
+    "name": "Safety orange (blaze orange)",
+    "redDecimal": 255,
+    "greenDecimal": 103,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF681F",
+    "id": "p5RipajPx4",
+    "name": "Orange-red",
+    "redDecimal": 255,
+    "greenDecimal": 104,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#FF681F",
+    "id": "yveN1TigTV",
+    "name": "Red-orange (Crayola)",
+    "redDecimal": 255,
+    "greenDecimal": 104,
+    "blueDecimal": 31
+  },
+  {
+    "hexCode": "#FF69B4",
+    "id": "LeezIClZX8",
+    "name": "Hot pink",
+    "redDecimal": 255,
+    "greenDecimal": 105,
+    "blueDecimal": 180
+  },
+  {
+    "hexCode": "#FF6E4A",
+    "id": "EACS5QBWos",
+    "name": "Outrageous Orange",
+    "redDecimal": 255,
+    "greenDecimal": 110,
+    "blueDecimal": 74
+  },
+  {
+    "hexCode": "#FF6FFF",
+    "id": "QdDWgGC6yi",
+    "name": "Shocking pink (Crayola)",
+    "redDecimal": 255,
+    "greenDecimal": 111,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#FF6FFF",
+    "id": "PkQ2nLgSEk",
+    "name": "Ultra pink",
+    "redDecimal": 255,
+    "greenDecimal": 111,
+    "blueDecimal": 255
+  },
+  {
+    "hexCode": "#FF7518",
+    "id": "FCYXLpCjDD",
+    "name": "Pumpkin",
+    "redDecimal": 255,
+    "greenDecimal": 117,
+    "blueDecimal": 24
+  },
+  {
+    "hexCode": "#FF7538",
+    "id": "GdDQKcVK8g",
+    "name": "Orange (Crayola)",
+    "redDecimal": 255,
+    "greenDecimal": 117,
+    "blueDecimal": 56
+  },
+  {
+    "hexCode": "#FF7800",
+    "id": "hx0BC56ven",
+    "name": "Safety orange",
+    "redDecimal": 255,
+    "greenDecimal": 120,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF7A00",
+    "id": "6a8a4V7wa7",
+    "name": "Heat Wave",
+    "redDecimal": 255,
+    "greenDecimal": 122,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF7E00",
+    "id": "3tlbqwPRqd",
+    "name": "Amber (SAE/ECE)",
+    "redDecimal": 255,
+    "greenDecimal": 126,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF7F00",
+    "id": "gM8hVxVciM",
+    "name": "Orange",
+    "redDecimal": 255,
+    "greenDecimal": 127,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF7F50",
+    "id": "tHNhwaSyIP",
+    "name": "Coral",
+    "redDecimal": 255,
+    "greenDecimal": 127,
+    "blueDecimal": 80
+  },
+  {
+    "hexCode": "#FF8243",
+    "id": "6eg09F4MzT",
+    "name": "Mango Tango",
+    "redDecimal": 255,
+    "greenDecimal": 130,
+    "blueDecimal": 67
+  },
+  {
+    "hexCode": "#FF8C00",
+    "id": "yRPatAAaC6",
+    "name": "Dark orange",
+    "redDecimal": 255,
+    "greenDecimal": 140,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FF91A4",
+    "id": "A435MvE4YJ",
+    "name": "Salmon pink",
+    "redDecimal": 255,
+    "greenDecimal": 145,
+    "blueDecimal": 164
+  },
+  {
+    "hexCode": "#FF91AF",
+    "id": "k8i7HSjQOr",
+    "name": "Baker-Miller pink",
+    "redDecimal": 255,
+    "greenDecimal": 145,
+    "blueDecimal": 175
+  },
+  {
+    "hexCode": "#FF91AF",
+    "id": "Kh0sbsLouE",
+    "name": "Schauss pink",
+    "redDecimal": 255,
+    "greenDecimal": 145,
+    "blueDecimal": 175
+  },
+  {
+    "hexCode": "#FF9505",
+    "id": "rN3ApdA9OA",
+    "name": "Yellow Orange (Color Wheel)",
+    "redDecimal": 255,
+    "greenDecimal": 149,
+    "blueDecimal": 5
+  },
+  {
+    "hexCode": "#FF9933",
+    "id": "O8y2sqpCs7",
+    "name": "Deep saffron",
+    "redDecimal": 255,
+    "greenDecimal": 153,
+    "blueDecimal": 51
+  },
+  {
+    "hexCode": "#FF9966",
+    "id": "7e8uiNAoWI",
+    "name": "Atomic tangerine",
+    "redDecimal": 255,
+    "greenDecimal": 153,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#FF9F00",
+    "id": "V9md0lUdcH",
+    "name": "Orange peel",
+    "redDecimal": 255,
+    "greenDecimal": 159,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFA07A",
+    "id": "GzcKzjbiHQ",
+    "name": "Light salmon",
+    "redDecimal": 255,
+    "greenDecimal": 160,
+    "blueDecimal": 122
+  },
+  {
+    "hexCode": "#FFA089",
+    "id": "lgjL4njxdb",
+    "name": "Vivid tangerine",
+    "redDecimal": 255,
+    "greenDecimal": 160,
+    "blueDecimal": 137
+  },
+  {
+    "hexCode": "#FFA500",
+    "id": "gTa70VEIqP",
+    "name": "Orange (web)",
+    "redDecimal": 255,
+    "greenDecimal": 165,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFA6C9",
+    "id": "5AGsZlnJSa",
+    "name": "Carnation pink",
+    "redDecimal": 255,
+    "greenDecimal": 166,
+    "blueDecimal": 201
+  },
+  {
+    "hexCode": "#FFA700",
+    "id": "Mr3oz7UKG5",
+    "name": "Chrome yellow",
+    "redDecimal": 255,
+    "greenDecimal": 167,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFAA1D",
+    "id": "tQKOLnCLdy",
+    "name": "Bright yellow (Crayola)",
+    "redDecimal": 255,
+    "greenDecimal": 170,
+    "blueDecimal": 29
+  },
+  {
+    "hexCode": "#FFAE42",
+    "id": "J3jpHhs2jz",
+    "name": "Yellow Orange",
+    "redDecimal": 255,
+    "greenDecimal": 174,
+    "blueDecimal": 66
+  },
+  {
+    "hexCode": "#FFB200",
+    "id": "oW79T1aSbu",
+    "name": "Chinese yellow",
+    "redDecimal": 255,
+    "greenDecimal": 178,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFB6C1",
+    "id": "5WKDRGVMzd",
+    "name": "Light pink",
+    "redDecimal": 255,
+    "greenDecimal": 182,
+    "blueDecimal": 193
+  },
+  {
+    "hexCode": "#FFB7C5",
+    "id": "nkaCm5pFI8",
+    "name": "Cherry blossom pink",
+    "redDecimal": 255,
+    "greenDecimal": 183,
+    "blueDecimal": 197
+  },
+  {
+    "hexCode": "#FFBA00",
+    "id": "4Sg1b0vMml",
+    "name": "Selective yellow",
+    "redDecimal": 255,
+    "greenDecimal": 186,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFBCD9",
+    "id": "YYUuv2dNB9",
+    "name": "Cotton candy",
+    "redDecimal": 255,
+    "greenDecimal": 188,
+    "blueDecimal": 217
+  },
+  {
+    "hexCode": "#FFBD88",
+    "id": "Smhz7yGhWS",
+    "name": "Macaroni and Cheese",
+    "redDecimal": 255,
+    "greenDecimal": 189,
+    "blueDecimal": 136
+  },
+  {
+    "hexCode": "#FFBF00",
+    "id": "pNTkJMF5Bj",
+    "name": "Amber",
+    "redDecimal": 255,
+    "greenDecimal": 191,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFC0CB",
+    "id": "kcGscG5RMB",
+    "name": "Pink",
+    "redDecimal": 255,
+    "greenDecimal": 192,
+    "blueDecimal": 203
+  },
+  {
+    "hexCode": "#FFC40C",
+    "id": "wxCryZNCwG",
+    "name": "Mikado yellow",
+    "redDecimal": 255,
+    "greenDecimal": 196,
+    "blueDecimal": 12
+  },
+  {
+    "hexCode": "#FFCBA4",
+    "id": "pN5Yfq5w9a",
+    "name": "Peach (Crayola)",
+    "redDecimal": 255,
+    "greenDecimal": 203,
+    "blueDecimal": 164
+  },
+  {
+    "hexCode": "#FFCC33",
+    "id": "8SPeJr88m6",
+    "name": "Sunglow",
+    "redDecimal": 255,
+    "greenDecimal": 204,
+    "blueDecimal": 51
+  },
+  {
+    "hexCode": "#FFD300",
+    "id": "JsC7fXR27q",
+    "name": "Cyber yellow",
+    "redDecimal": 255,
+    "greenDecimal": 211,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFD300",
+    "id": "bTYC9cCdTA",
+    "name": "Yellow (NCS)",
+    "redDecimal": 255,
+    "greenDecimal": 211,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFD700",
+    "id": "I1j8jLfUN6",
+    "name": "Gold (web) (Golden)",
+    "redDecimal": 255,
+    "greenDecimal": 215,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFD800",
+    "id": "01VSpysRms",
+    "name": "School bus yellow",
+    "redDecimal": 255,
+    "greenDecimal": 216,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFDAB9",
+    "id": "ppCXdHhXkL",
+    "name": "Peach puff",
+    "redDecimal": 255,
+    "greenDecimal": 218,
+    "blueDecimal": 185
+  },
+  {
+    "hexCode": "#FFDAE9",
+    "id": "9nRuSMsJpq",
+    "name": "Mimi pink",
+    "redDecimal": 255,
+    "greenDecimal": 218,
+    "blueDecimal": 233
+  },
+  {
+    "hexCode": "#FFDB00",
+    "id": "55TDWrhkIf",
+    "name": "Sizzling Sunrise",
+    "redDecimal": 255,
+    "greenDecimal": 219,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFDB58",
+    "id": "HtAU4cfovV",
+    "name": "Mustard",
+    "redDecimal": 255,
+    "greenDecimal": 219,
+    "blueDecimal": 88
+  },
+  {
+    "hexCode": "#FFDDCA",
+    "id": "QCwVJHdtzR",
+    "name": "Unbleached silk",
+    "redDecimal": 255,
+    "greenDecimal": 221,
+    "blueDecimal": 202
+  },
+  {
+    "hexCode": "#FFDDF4",
+    "id": "DyIKC1X8F1",
+    "name": "Pink lace",
+    "redDecimal": 255,
+    "greenDecimal": 221,
+    "blueDecimal": 244
+  },
+  {
+    "hexCode": "#FFDEAD",
+    "id": "Capdzs3ual",
+    "name": "Navajo white",
+    "redDecimal": 255,
+    "greenDecimal": 222,
+    "blueDecimal": 173
+  },
+  {
+    "hexCode": "#FFDF00",
+    "id": "9TKGI6B57A",
+    "name": "Golden yellow",
+    "redDecimal": 255,
+    "greenDecimal": 223,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFE4C4",
+    "id": "yDr8oGOAZ6",
+    "name": "Bisque",
+    "redDecimal": 255,
+    "greenDecimal": 228,
+    "blueDecimal": 196
+  },
+  {
+    "hexCode": "#FFE4E1",
+    "id": "NZZ5pOY4QK",
+    "name": "Misty rose",
+    "redDecimal": 255,
+    "greenDecimal": 228,
+    "blueDecimal": 225
+  },
+  {
+    "hexCode": "#FFE5B4",
+    "id": "LGAF3xgPsN",
+    "name": "Peach",
+    "redDecimal": 255,
+    "greenDecimal": 229,
+    "blueDecimal": 180
+  },
+  {
+    "hexCode": "#FFEB00",
+    "id": "B1yDD11lQg",
+    "name": "Middle yellow",
+    "redDecimal": 255,
+    "greenDecimal": 235,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFEBCD",
+    "id": "Dru6ttcoCB",
+    "name": "Blanched almond",
+    "redDecimal": 255,
+    "greenDecimal": 235,
+    "blueDecimal": 205
+  },
+  {
+    "hexCode": "#FFEF00",
+    "id": "jrWYfK6s5d",
+    "name": "Canary yellow",
+    "redDecimal": 255,
+    "greenDecimal": 239,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFEF00",
+    "id": "USJoTdLQmF",
+    "name": "Yellow (process)",
+    "redDecimal": 255,
+    "greenDecimal": 239,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFEFD5",
+    "id": "o3mO7gtsHG",
+    "name": "Papaya whip",
+    "redDecimal": 255,
+    "greenDecimal": 239,
+    "blueDecimal": 213
+  },
+  {
+    "hexCode": "#FFF0F5",
+    "id": "1HX8Xb9F58",
+    "name": "Lavender blush",
+    "redDecimal": 255,
+    "greenDecimal": 240,
+    "blueDecimal": 245
+  },
+  {
+    "hexCode": "#FFF44F",
+    "id": "CV1AGuxWSk",
+    "name": "Lemon yellow",
+    "redDecimal": 255,
+    "greenDecimal": 244,
+    "blueDecimal": 79
+  },
+  {
+    "hexCode": "#FFF5EE",
+    "id": "WdMU30978p",
+    "name": "Seashell",
+    "redDecimal": 255,
+    "greenDecimal": 245,
+    "blueDecimal": 238
+  },
+  {
+    "hexCode": "#FFF600",
+    "id": "5XGSsddbXi",
+    "name": "Cadmium yellow",
+    "redDecimal": 255,
+    "greenDecimal": 246,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFF700",
+    "id": "1mzN7zNx0u",
+    "name": "Lemon",
+    "redDecimal": 255,
+    "greenDecimal": 247,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFF700",
+    "id": "pte068JI09",
+    "name": "Yellow Sunshine",
+    "redDecimal": 255,
+    "greenDecimal": 247,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFF8DC",
+    "id": "KhwaDboX2G",
+    "name": "Cornsilk",
+    "redDecimal": 255,
+    "greenDecimal": 248,
+    "blueDecimal": 220
+  },
+  {
+    "hexCode": "#FFF8E7",
+    "id": "9Qhx9COMbN",
+    "name": "Cosmic latte",
+    "redDecimal": 255,
+    "greenDecimal": 248,
+    "blueDecimal": 231
+  },
+  {
+    "hexCode": "#FFFACD",
+    "id": "mQsH2dxmEn",
+    "name": "Lemon chiffon",
+    "redDecimal": 255,
+    "greenDecimal": 250,
+    "blueDecimal": 205
+  },
+  {
+    "hexCode": "#FFFAF0",
+    "id": "tnpqbszh7H",
+    "name": "Floral white",
+    "redDecimal": 255,
+    "greenDecimal": 250,
+    "blueDecimal": 240
+  },
+  {
+    "hexCode": "#FFFAFA",
+    "id": "W5W0oVcVL1",
+    "name": "Snow",
+    "redDecimal": 255,
+    "greenDecimal": 250,
+    "blueDecimal": 250
+  },
+  {
+    "hexCode": "#FFFDD0",
+    "id": "JXrn2DKwga",
+    "name": "Cream",
+    "redDecimal": 255,
+    "greenDecimal": 253,
+    "blueDecimal": 208
+  },
+  {
+    "hexCode": "#FFFF00",
+    "id": "8vswFKrC8e",
+    "name": "Yellow",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 0
+  },
+  {
+    "hexCode": "#FFFF66",
+    "id": "vfbO134QGS",
+    "name": "Laser lemon",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#FFFF66",
+    "id": "rhqD1AGY5A",
+    "name": "Unmellow yellow",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 102
+  },
+  {
+    "hexCode": "#FFFF99",
+    "id": "XQHKm9cfuF",
+    "name": "Canary",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 153
+  },
+  {
+    "hexCode": "#FFFF9F",
+    "id": "zvWH8t4DQU",
+    "name": "Lemon yellow (Crayola)",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 159
+  },
+  {
+    "hexCode": "#FFFFE0",
+    "id": "dmkXVAht4c",
+    "name": "Light yellow",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 224
+  },
+  {
+    "hexCode": "#FFFFF0",
+    "id": "OLaQvJ0gCa",
+    "name": "Ivory",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 240
+  },
+  {
+    "hexCode": "#FFFFFF",
+    "id": "agccs9KwF6",
+    "name": "White",
+    "redDecimal": 255,
+    "greenDecimal": 255,
+    "blueDecimal": 255
+  }
+]
