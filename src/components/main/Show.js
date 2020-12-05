@@ -7,7 +7,7 @@ const Show = ({ colors, colorChoice, handleDetails }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [showColors, setShowColors] = useState([]);
 
-  const perPage = 18;
+  const perPage = 14;
   const maxPage = Math.ceil(showColors.length / perPage);
 
   const paginate = (current) => setCurrentPage(current);
