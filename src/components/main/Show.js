@@ -7,27 +7,27 @@ const Show = ({ colors, colorChoice, handleDetails }) => {
   const [currentPage, setCurrentPage] = useState(1);
   const [showColors, setShowColors] = useState([]);
 
+  const perPage = 18;
+  const maxPage = Math.ceil(showColors.length / perPage);
+
+  const paginate = (current) => setCurrentPage(current);
+  const nextPage = () =>
+    currentPage < maxPage && setCurrentPage(currentPage + 1);
+  const prevPage = () => currentPage > 1 && setCurrentPage(currentPage - 1);
+
+  const idxOfLastColor = currentPage * perPage;
+  const idxOfFirstColor = idxOfLastColor - perPage;
+  const currentColors = showColors.slice(idxOfFirstColor, idxOfLastColor);
+
   useEffect(() => {
     if (colorChoice?.length > 0) {
       setShowColors(colorChoice);
     } else {
       setShowColors(colors);
     }
-  }, [colorChoice, showColors, colors]);
+  }, [colorChoice, colors]);
 
-  if (showColors.length > 0) {
-    const perPage = 18;
-    const maxPage = Math.ceil(showColors.length / perPage);
-
-    const paginate = (current) => setCurrentPage(current);
-    const nextPage = () =>
-      currentPage < maxPage && setCurrentPage(currentPage + 1);
-    const prevPage = () => currentPage > 1 && setCurrentPage(currentPage - 1);
-
-    const idxOfLastColor = currentPage * perPage;
-    const idxOfFirstColor = idxOfLastColor - perPage;
-    const currentColors = showColors.slice(idxOfFirstColor, idxOfLastColor);
-
+  if (currentColors?.length > 0) {
     return (
       <div className="main__colors">
         <ul className="card__ul">
@@ -53,7 +53,7 @@ const Show = ({ colors, colorChoice, handleDetails }) => {
       </div>
     );
   } else {
-    return <div>loading...</div>;
+    return <div>{prevPage()}loading...</div>;
   }
 };
 

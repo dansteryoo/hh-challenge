@@ -62,7 +62,7 @@ const Main = () => {
       const choiceName = choice.toLowerCase();
       if (colorsName.includes(choiceName)) colorChoice.push(color);
     }
-
+    
     setShowDetails(false);
     setColorChoice(colorChoice);
   };
