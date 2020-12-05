@@ -6,7 +6,7 @@ const DetailCards = ({ handleDetails, showCards }) => {
 
   return (
     <div className="details__bottom--container">
-      <ul className="card__ul">
+      <ul className="details__card--show">
         {showCards.map((each) => (
           <Card
             key={each.id}

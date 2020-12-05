@@ -29,6 +29,12 @@
                 padding: 0;
             }
         }
+        &--show {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 15px;
+            justify-content: center;
+        }
     }
     
     &__bottom {
